@@ -1,0 +1,29 @@
+[
+ {"id":"s_hook","lines":[
+  {"cap":"This tiny machine beats 28,800 times an hour, and it’s never once needed a battery.",
+   "say":"This tiny machine beats twenty-eight thousand, eight hundred times an hour, and it's never once needed a battery.","pace":1.0}
+ ]},
+ {"id":"s_watch","lines":[
+  {"cap":"It’s calibre 3235, the beating heart of a modern Rolex. So let’s turn it over, open it up, and have a look.",
+   "say":"It's calibre thirty-two thirty-five, the beating heart of a modern Rolex. So let's turn it over, open it up, and have a look.","pace":1.0,
+   "marks":{"flip":"So let's turn","lift":"open it up"}}
+ ]},
+ {"id":"s_rotor","lines":[
+  {"cap":"Every move of your wrist swings the rotor, which winds the mainspring, storing about seventy hours of power in this little drum.",
+   "say":"Every move of your wrist swings the rotor, which winds the mainspring, storing about seventy hours of power in this little drum.","pace":1.02,
+   "marks":{"barrel":"which winds"}}
+ ]},
+ {"id":"s_esc","lines":[
+  {"cap":"The gear train counts the time out, and the escapement lets it go, half a tooth at a time. Lock, release, impulse. That’s the tick you hear.",
+   "say":"The gear train counts the time out, and the escapement lets it go, half a tooth at a time. Lock, release, impulse. That's the tick you hear.","pace":1.0,
+   "marks":{"lock":"Lock, release"}}
+ ]},
+ {"id":"s_bal","lines":[
+  {"cap":"And keeping it all in time is the balance, swinging four times a second on a blue hairspring of niobium and zirconium.",
+   "say":"And keeping it all in time is the balance, swinging four times a second on a blue hairspring of niobium and zirconium.","pace":1.0}
+ ]},
+ {"id":"s_end","lines":[
+  {"cap":"Want the full breakdown? It’s waiting on the channel.",
+   "say":"Want the full breakdown? It's waiting on the channel.","pace":0.98}
+ ]}
+]

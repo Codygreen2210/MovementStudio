@@ -1,0 +1,300 @@
+1
+00:00:00,450 --> 00:00:05,396
+Listen closely… That’s the sound of a heart that has never needed a battery.
+
+2
+00:00:05,646 --> 00:00:08,507
+Four beats every second.
+
+3
+00:00:08,557 --> 00:00:09,879
+Every hour.
+
+4
+00:00:10,129 --> 00:00:11,574
+Every day.
+
+5
+00:00:11,824 --> 00:00:14,138
+For as long as you wear it.
+
+6
+00:00:16,088 --> 00:00:19,800
+This is calibre 3235.
+
+7
+00:00:19,850 --> 00:00:26,722
+It beats inside some of Rolex’s best-loved watches: the Datejust, the Submariner Date, and the Sea-Dweller.
+
+8
+00:00:26,972 --> 00:00:29,855
+From the outside, it’s calm.
+
+9
+00:00:29,905 --> 00:00:31,327
+Composed.
+
+10
+00:00:31,577 --> 00:00:35,710
+Just a sweeping seconds hand, and a date at three o’clock.
+
+11
+00:00:36,260 --> 00:00:38,166
+But turn it over…
+
+12
+00:00:39,716 --> 00:00:43,652
+Open it up, and you’ll find something rather wonderful.
+
+13
+00:00:47,402 --> 00:00:48,966
+No battery.
+
+14
+00:00:49,016 --> 00:00:50,905
+No circuitry.
+
+15
+00:00:50,955 --> 00:00:55,928
+Just springs, wheels and jewels, every one made in-house, and every one with a job to do.
+
+16
+00:00:56,178 --> 00:01:02,221
+So let’s take it apart together, one layer at a time, and follow the energy as it flows.
+
+17
+00:01:04,871 --> 00:01:10,854
+Lift the layers apart, and the movement becomes a stack… a little tower of engineering.
+
+18
+00:01:11,104 --> 00:01:13,833
+The winding rotor on top.
+
+19
+00:01:13,883 --> 00:01:21,174
+Then the bridges, set with 31 synthetic rubies: tiny, hard-wearing bearings that keep friction to a whisper.
+
+20
+00:01:21,424 --> 00:01:27,078
+Beneath them, the balance, the escapement, the gear train, the mainspring barrel and the main plate.
+
+21
+00:01:27,128 --> 00:01:31,945
+And at the very bottom, on the dial side, the parts that move the hands and turn the date.
+
+22
+00:01:33,945 --> 00:01:37,343
+We'll start at the top, with the Perpetual rotor.
+
+23
+00:01:37,393 --> 00:01:44,707
+An idea Rolex patented in nineteen thirty-one… and still, I think, one of the most elegant in all of watchmaking.
+
+24
+00:01:44,957 --> 00:01:49,438
+It’s a half-moon of dense metal, spinning freely on a ball bearing.
+
+25
+00:01:49,488 --> 00:01:53,011
+Every time your wrist moves, it moves.
+
+26
+00:01:53,261 --> 00:02:00,002
+A pair of reversing wheels takes that swing, whichever way it goes, and turns it into one steady winding force.
+
+27
+00:02:00,252 --> 00:02:04,061
+So simply by wearing it, you’re keeping it alive.
+
+28
+00:02:06,061 --> 00:02:09,727
+All that winding flows here, into the mainspring.
+
+29
+00:02:09,777 --> 00:02:14,235
+A long ribbon of alloy, coiled inside this drum we call the barrel.
+
+30
+00:02:14,485 --> 00:02:21,286
+Rolex gave the barrel thinner walls, which leaves room for a longer spring, without making the barrel one bit bigger.
+
+31
+00:02:21,536 --> 00:02:25,329
+Fully wound, it holds around 70 hours of power.
+
+32
+00:02:25,379 --> 00:02:30,181
+Take it off on Friday evening, and come Monday morning, it’s still running.
+
+33
+00:02:30,431 --> 00:02:33,690
+The spring doesn’t let go all at once.
+
+34
+00:02:33,740 --> 00:02:38,534
+It gives that energy up slowly, patiently, through the wheels below.
+
+35
+00:02:40,534 --> 00:02:42,782
+This is the gear train.
+
+36
+00:02:42,832 --> 00:02:48,291
+Each large wheel drives the small pinion of the next, and with every step, the speed rises.
+
+37
+00:02:48,541 --> 00:02:53,007
+The centre wheel turns once an hour, and carries the minute hand.
+
+38
+00:02:53,257 --> 00:02:57,625
+The fourth wheel turns once a minute, and drives the seconds hand.
+
+39
+00:02:57,875 --> 00:03:02,937
+But left to itself, this train would simply race until the spring ran flat.
+
+40
+00:03:02,987 --> 00:03:05,849
+So something has to hold it back.
+
+41
+00:03:07,849 --> 00:03:10,780
+And that something is the escapement.
+
+42
+00:03:10,830 --> 00:03:15,053
+Here it is, slowed right down, so we can really see it.
+
+43
+00:03:15,303 --> 00:03:18,162
+The escape wheel wants to turn.
+
+44
+00:03:18,212 --> 00:03:25,370
+The pallet fork catches it, lets it slip forward by half a tooth, and in return, gives the balance a gentle push.
+
+45
+00:03:25,620 --> 00:03:26,837
+Lock.
+
+46
+00:03:27,087 --> 00:03:28,422
+Release.
+
+47
+00:03:28,672 --> 00:03:29,974
+Impulse.
+
+48
+00:03:30,224 --> 00:03:32,869
+That’s the tick you hear.
+
+49
+00:03:33,119 --> 00:03:39,590
+Rolex’s own Chronergy escapement is around 15 per cent more efficient than a conventional lever design.
+
+50
+00:03:39,640 --> 00:03:45,331
+And because it’s made of nickel-phosphorus, magnetic fields simply can’t throw it off.
+
+51
+00:03:47,331 --> 00:03:50,465
+And here is the heart of the watch.
+
+52
+00:03:50,515 --> 00:03:53,601
+The balance wheel, and its hairspring.
+
+53
+00:03:53,851 --> 00:03:57,595
+It swings to and fro four times every second.
+
+54
+00:03:57,645 --> 00:04:01,450
+That’s 28,800 beats an hour.
+
+55
+00:04:01,500 --> 00:04:02,822
+Every hour.
+
+56
+00:04:03,072 --> 00:04:04,517
+Every day.
+
+57
+00:04:04,767 --> 00:04:08,835
+The blue Parachrom hairspring is made from niobium and zirconium.
+
+58
+00:04:08,885 --> 00:04:17,156
+It shrugs off magnetism, it’s unbothered by heat and cold, and after a knock it’s up to ten times more precise than a conventional spring.
+
+59
+00:04:17,406 --> 00:04:23,273
+And Rolex’s Paraflex shock absorbers stand guard over its delicate pivots.
+
+60
+00:04:26,123 --> 00:04:29,393
+Now, let’s turn it over, to the dial side.
+
+61
+00:04:29,643 --> 00:04:37,129
+Here, a little set of gears called the motion works turns the hour hand at exactly one-twelfth the speed of the minute hand.
+
+62
+00:04:37,379 --> 00:04:40,168
+And at midnight… watch the date.
+
+63
+00:04:40,218 --> 00:04:41,964
+It doesn't creep.
+
+64
+00:04:42,014 --> 00:04:43,344
+It jumps!
+
+65
+00:04:43,594 --> 00:04:45,189
+Instantly.
+
+66
+00:04:47,439 --> 00:04:51,331
+Put it all back together, and every part plays its role.
+
+67
+00:04:51,381 --> 00:04:53,377
+The rotor winds.
+
+68
+00:04:53,427 --> 00:04:55,344
+The spring stores.
+
+69
+00:04:55,394 --> 00:04:57,402
+The wheels count.
+
+70
+00:04:57,452 --> 00:05:00,087
+The escapement releases.
+
+71
+00:05:00,137 --> 00:05:02,973
+And the balance keeps time.
+
+72
+00:05:03,223 --> 00:05:08,805
+Rolex tests every watch once it’s cased, to within two seconds a day, fast or slow.
+
+73
+00:05:08,855 --> 00:05:12,614
+They call it the Superlative Chronometer standard.
+
+74
+00:05:12,864 --> 00:05:16,871
+And it does all of that without ever needing a battery.
+
+75
+00:05:16,921 --> 00:05:20,445
+Now that is beautiful engineering.
+
