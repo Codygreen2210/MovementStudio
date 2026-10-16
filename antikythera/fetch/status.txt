@@ -1,9 +1,2 @@
-ok img_storm.png 6900745
-ok img_diver.png 5653965
-ok img_seafloor.png 5734024
-ok img_museum1902.png 5028233
-ok img_workshop.png 5127275
-ok img_medclock.png 6422723
-ok img_city.png 5475976
-ok img_museumtoday.png 5658627
-ok img_haul.png 6409193
+ok thumb_bg1.png 5341166
+ok thumb_bg2.png 5699261
