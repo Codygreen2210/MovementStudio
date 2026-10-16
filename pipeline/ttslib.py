@@ -24,7 +24,7 @@ FIX = {r'\bwound\b': 'wownd', r'\bwinds\b': 'whinds', r'\bwind\b': 'whind', r'\b
        r'\bChronergy\b': 'Kronnergy', r'\bnickel-phosphorus\b': 'nickel phosphorus', r'\bRolex’s\b': "Rolex's"}
 
 # exact pronunciations (Kokoro phonemes), bypassing espeak's guess
-PHON = {'Submariner': 'sʌbmˈɛːɹɪnə'}
+PHON = {'Submariner': 'sʌbmˈɛːɹɪnə', 'Whitcomb': 'wˈɪtkəm'}
 PHON_RE = r'\b(' + '|'.join(PHON) + r')\b'
 
 def espeak(text):

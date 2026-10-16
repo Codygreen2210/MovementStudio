@@ -1,0 +1,163 @@
+[
+ {
+  "id": "h_hook",
+  "lines": [
+   {
+    "cap": "Every song you’ve ever heard through headphones came from a tiny disc, shaking back and forth up to 20,000 times a second.",
+    "say": "Every song you've ever heard through headphones came from a tiny disc, shaking back and forth up to twenty thousand times a second.",
+    "pace": 1.0
+   }
+  ]
+ },
+ {
+  "id": "h_intro",
+  "lines": [
+   {
+    "cap": "This is an ordinary pair of over-ear headphones. Soft cushions, a band, two cups. But peel back the ear cushion, and inside each cup sits a small, round machine called a driver.",
+    "say": "This is an ordinary pair of over-ear headphones. Soft cushions, a band, two cups. But peel back the ear cushion, and inside each cup sits a small, round machine, called a driver.",
+    "pace": 1.0,
+    "marks": {
+     "open": "peel back"
+    }
+   }
+  ]
+ },
+ {
+  "id": "h_stack",
+  "lines": [
+   {
+    "cap": "Lift its layers apart, and the driver becomes a stack: a thin diaphragm on top, the voice coil beneath it, then the magnet, all held in a frame. In many over-ear headphones, the whole thing is about 40 millimetres across. Around its edge, a soft, flexible surround lets the diaphragm move freely, while keeping it perfectly centred.",
+    "say": "Lift its layers apart, and the driver becomes a stack. A thin diaphragm on top, the voice coil beneath it, then the magnet, all held in a frame. In many over-ear headphones, the whole thing is about forty millimetres across. Around its edge, a soft, flexible surround lets the diaphragm move freely, while keeping it perfectly centred.",
+    "pace": 1.02,
+    "marks": {
+     "l1": "thin diaphragm",
+     "l2": "voice coil",
+     "l3": "the magnet",
+     "l4": "a frame",
+     "sur": "Around its edge"
+    }
+   }
+  ]
+ },
+ {
+  "id": "h_magnet",
+  "lines": [
+   {
+    "cap": "Start at the bottom, with the magnet. It’s often neodymium, a rare-earth magnet that’s remarkably strong for its size. Its field is focused into a narrow, ring-shaped gap.",
+    "say": "Start at the bottom, with the magnet. It's often neodymium, a rare-earth magnet that's remarkably strong for its size. Its field is focused into a narrow, ring-shaped gap.",
+    "pace": 1.0,
+    "marks": {
+     "gap": "ring-shaped gap"
+    }
+   }
+  ]
+ },
+ {
+  "id": "h_coil",
+  "lines": [
+   {
+    "cap": "Into that gap drops the voice coil, a tiny spool of fine copper wire, attached to the diaphragm above. Your music arrives as a tiny electric current, changing thousands of times a second. When that signal flows through the coil, it becomes an electromagnet.",
+    "say": "Into that gap drops the voice coil, a tiny spool of fine copper wire, attached to the diaphragm above. Your music arrives as a tiny electric current, changing thousands of times a second. When that signal flows through the coil, it becomes an electromagnet.",
+    "pace": 1.0,
+    "marks": {
+     "sig": "Your music arrives",
+     "em": "When that signal"
+    }
+   }
+  ]
+ },
+ {
+  "id": "h_push",
+  "lines": [
+   {
+    "cap": "Now the coil and the magnet push and pull against each other. Current one way, and the coil springs forward. Reverse the current, and it’s pulled back. Music is an alternating signal, so the coil shakes back and forth, exactly in time with the sound.",
+    "say": "Now the coil and the magnet push and pull against each other. Current one way, and the coil springs forward. Reverse the current, and it's pulled back. Music is an alternating signal, so the coil shakes back and forth, exactly in time with the sound.",
+    "pace": 1.0,
+    "marks": {
+     "fwd": "Current one way",
+     "back": "Reverse the current",
+     "shake": "Music is an"
+    }
+   }
+  ]
+ },
+ {
+  "id": "h_air",
+  "lines": [
+   {
+    "cap": "And because the coil is fixed to the diaphragm, the diaphragm moves too, pushing and pulling on the air. Those tiny pressure waves travel into your ear, and you hear them as music.",
+    "say": "And because the coil is fixed to the diaphragm, the diaphragm moves too, pushing and pulling on the air. Those tiny pressure waves travel into your ear, and you hear them as music.",
+    "pace": 1.0,
+    "marks": {
+     "air": "pushing and pulling on the air"
+    }
+   }
+  ]
+ },
+ {
+  "id": "h_freq",
+  "lines": [
+   {
+    "cap": "A deep bass note moves it slowly, as few as 20 times a second. The highest notes we can hear move it 20,000 times a second. So a good diaphragm has to be light and stiff, to keep up without bending out of shape.",
+    "say": "A deep bass note moves it slowly, as few as twenty times a second. The highest notes we can hear move it twenty thousand times a second. So a good diaphragm has to be light and stiff, to keep up without bending out of shape.",
+    "pace": 1.0,
+    "marks": {
+     "low": "A deep bass",
+     "high": "The highest notes",
+     "stiff": "So a good"
+    }
+   }
+  ]
+ },
+ {
+  "id": "h_stereo",
+  "lines": [
+   {
+    "cap": "And there are two drivers, one in each cup, each fed its own channel of the music. That’s what lets a guitar sound like it’s on your left, and a voice sit right in the middle.",
+    "say": "And there are two drivers, one in each cup, each fed its own channel of the music. That's what lets a guitar sound like it's on your left, and a voice sit right in the middle.",
+    "pace": 1.0,
+    "marks": {
+     "left": "a guitar sound",
+     "mid": "and a voice"
+    }
+   }
+  ]
+ },
+ {
+  "id": "h_mic",
+  "lines": [
+   {
+    "cap": "Here’s something lovely. Run the whole thing backwards, and it becomes a microphone. Sound moves the diaphragm, the coil moves through the magnet’s field, and a tiny current flows out.",
+    "say": "Here's something lovely. Run the whole thing backwards, and it becomes a microphone. Sound moves the diaphragm, the coil moves through the magnet's field, and a tiny current flows out.",
+    "pace": 1.0,
+    "marks": {
+     "rev": "Run the whole thing",
+     "out": "and a tiny current"
+    }
+   }
+  ]
+ },
+ {
+  "id": "h_finale",
+  "lines": [
+   {
+    "cap": "Put it all back together. The signal flows, the coil pulls, the diaphragm pushes, and the air carries the music to you. All inside something that fits in the palm of your hand. The same idea, scaled up, drives most of the loudspeakers in the world.",
+    "say": "Put it all back together. The signal flows, the coil pulls, the diaphragm pushes, and the air carries the music to you. All inside something that fits in the palm of your hand. The same idea, scaled up, drives most of the loudspeakers in the world.",
+    "pace": 0.98,
+    "marks": {
+     "close": "All inside"
+    }
+   }
+  ]
+ },
+ {
+  "id": "h_cta",
+  "lines": [
+   {
+    "cap": "If you enjoyed this, subscribe. Next time, we’ll open up another everyday machine.",
+    "say": "If you enjoyed this, subscribe. Next time, we'll open up another everyday machine.",
+    "pace": 1.0
+   }
+  ]
+ }
+]

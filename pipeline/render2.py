@@ -11,6 +11,15 @@ FMT = {
     'long': {'w': 1920, 'h': 1080, 'narr': 'narr2', 'script': 'script2.json', 'tail': 0.9,
              'lead': {'hook': 0.45, 'watch': 1.0, 'calibre': 1.2, 'stack': 2.0, 'dial': 2.2, 'finale': 1.6},
              'after': {('hook', 1): 0.3, ('watch', 1): 0.3, ('watch', 2): 1.3, ('watch', 3): 1.9}},
+    'pen': {'title': 'Inside the Click Pen', 'w': 1080, 'h': 1920, 'narr': '/home/claude/everyday/narr_pen', 'script': '/home/claude/everyday/s_pen.json', 'page': '/home/claude/everyday/engine/pen.html', 'tail': 0.4, 'flow': True,
+            'lead': {'p_hook': 0.3, 'p_intro': 0.8, 'p_stack': 1.5, 'p_cam': 1.7, 'p_tip': 1.6, 'p_finale': 1.2, 'p_cta': 0.9},
+            'after': {('p_intro', 0): 1.2, ('p_cam', 0): 1.0, ('p_cta', 0): 2.6}},
+    'phones': {'title': 'Inside the Headphones', 'w': 1080, 'h': 1920, 'narr': '/home/claude/everyday/narr_phones', 'script': '/home/claude/everyday/s_phones.json', 'page': '/home/claude/everyday/engine/phones.html', 'tail': 0.4, 'flow': True,
+            'lead': {'h_hook': 0.3, 'h_intro': 0.8, 'h_stack': 1.5, 'h_magnet': 1.6, 'h_coil': 0.9, 'h_finale': 1.2, 'h_cta': 0.9},
+            'after': {('h_intro', 0): 1.2, ('h_push', 0): 0.6, ('h_freq', 0): 0.8, ('h_cta', 0): 2.6}},
+    'zip': {'title': 'Inside the Zipper', 'w': 1080, 'h': 1920, 'narr': '/home/claude/everyday/narr_zip', 'script': '/home/claude/everyday/s_zip.json', 'page': '/home/claude/everyday/engine/zip.html', 'tail': 0.4, 'flow': True,
+            'lead': {'z_hook': 0.3, 'z_intro': 0.8, 'z_stack': 1.5, 'z_teeth': 1.5, 'z_slider': 1.3, 'z_finale': 1.2, 'z_cta': 0.9},
+            'after': {('z_intro', 0): 1.2, ('z_slider', 0): 1.0, ('z_unzip', 0): 1.0, ('z_cta', 0): 2.6}},
     'm3': {'w': 1080, 'h': 1920, 'narr': 'narr_m', 'script': 'script3.json', 'tail': 0.4, 'flow': True,
            'lead': {'m_hook': 0.3, 'm_stack': 1.2, 'm_dial': 1.3, 'm_cta': 0.9},
            'after': {('m_watch', 0): 1.4, ('m_watch', 1): 1.6, ('m_stack', 0): 1.0, ('m_esc', 0): 0.6, ('m_dial', 0): 1.2, ('m_finale', 0): 0.4, ('m_finale', 1): 1.4, ('m_cta', 0): 2.6}},
@@ -122,7 +131,7 @@ async def open_page(fmt):
     pg.on('console', lambda m: errs.append(m.text) if m.type == 'error' else None)
     tl_js = {k: v for k, v in tl.items() if k != 'clips'}
     await pg.add_init_script('window.__TL = ' + json.dumps(tl_js) + '; window.__CFG = ' + json.dumps({'w': F['w'], 'h': F['h']}) + ';')
-    await pg.goto('file://' + J('render2.html'))
+    await pg.goto('file://' + F.get('page', J('render2.html')))
     ok = await pg.evaluate('window.__init()')
     if errs or not all(ok):
         print('init problems:', errs, ok)
@@ -203,6 +212,32 @@ def sfx_sound(kind):
     if kind == 'date':
         c = click(4200, 7000, 1.0); p = ping(1568, 1.4, 0.35, 0.16) + ping(2349, 1.4, 0.3, 0.08)
         out = np.zeros(len(p), np.float32); out[:len(c)] += c; out += p; return out
+    if kind == 'click':
+        a = click(3900, 7200, 1.25); b = click(2600, 5100, 0.6)
+        out = np.zeros(len(a) + int(0.03 * SR), np.float32); out[:len(a)] += a; out[int(0.012 * SR):int(0.012 * SR) + len(b)] += b; return out * 0.9
+    if kind == 'clack':
+        return click(2300, 4600, 0.95) * 0.75
+    if kind == 'twist':
+        out = np.zeros(int(1.9 * SR), np.float32)
+        for i in range(7):
+            s = int((0.08 + i * 0.22 + rng.random() * 0.04) * SR); c = click(1600 + rng.random() * 500, 3300, 0.32); out[s:s + len(c)] += c
+        w = whoosh(1.6, 0.14, 300, 1800); out[:len(w)] += w; return out
+    if kind in ('zip', 'zipslow'):
+        dur = 1.0 if kind == 'zip' else 3.2; n = int(dur * SR); out = np.zeros(n, np.float32); t = 0.0; i = 0
+        while t < dur - 0.02:
+            s = int(t * SR); c = click(2800 + 900 * (t / dur), 6200, 0.22 + 0.1 * rng.random()); e = min(n, s + len(c)); out[s:e] += c[:e - s]
+            t += (0.011 if kind == 'zip' else 0.055) * (0.85 + 0.3 * rng.random()); i += 1
+        w = whoosh(dur, 0.12, 900, 5000); out[:len(w)] += w[:n]; return out
+    if kind == 'bass':
+        n = int(2.4 * SR); t = np.arange(n) / SR
+        env = np.minimum(1, t / 0.25) * np.exp(-np.maximum(0, t - 1.6) / 0.35)
+        return (0.32 * (np.sin(2 * np.pi * 55 * t) + 0.35 * np.sin(2 * np.pi * 110 * t)) * env).astype(np.float32)
+    if kind == 'treble':
+        n = int(2.0 * SR); t = np.arange(n) / SR
+        env = np.minimum(1, t / 0.15) * np.exp(-np.maximum(0, t - 1.2) / 0.3)
+        return (0.06 * (np.sin(2 * np.pi * 2637 * t) + 0.5 * np.sin(2 * np.pi * 3951 * t)) * env).astype(np.float32)
+    if kind == 'lift':
+        return whoosh(0.9, 0.32, 250, 3000)
     return np.zeros(10, np.float32)
 
 def reverb(x, secs=2.2, wet=0.35):
@@ -280,7 +315,7 @@ def fmt_t(t):
     return f'{h:02d}:{m:02d}:{int(s):02d},{int(round((s - int(s)) * 1000)) % 1000:03d}'
 def srt(fmt):
     tl = json.load(open(J(f'tl_{fmt}.json')))
-    name = 'Inside the Calibre 3235' + (' (Short)' if fmt.startswith('short') else '') + '.en.srt'
+    name = FMT[fmt].get('title', 'Inside the Calibre 3235' + (' (Short)' if fmt.startswith('short') else '')) + '.en.srt'
     with open(J(name), 'w') as f:
         for i, c in enumerate(tl['cues'], 1):
             f.write(f"{i}\n{fmt_t(c['s'])} --> {fmt_t(c['e'] + 0.25)}\n{c['text']}\n\n")

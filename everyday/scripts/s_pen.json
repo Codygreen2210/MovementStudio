@@ -1,0 +1,144 @@
+[
+ {
+  "id": "p_hook",
+  "lines": [
+   {
+    "cap": "Click. Click. You’ve done it a thousand times without thinking. But inside that little click is one of the cleverest machines you own.",
+    "say": "Click. Click. You've done it a thousand times without thinking. But inside that little click is one of the cleverest machines you own.",
+    "pace": 1.0,
+    "marks": {
+     "c1": "Click. Click",
+     "c2": " Click. You"
+    }
+   }
+  ]
+ },
+ {
+  "id": "p_intro",
+  "lines": [
+   {
+    "cap": "This is the humble retractable ballpoint. A barrel, a button and a tip. Most of us never give it a second thought. But unscrew the barrel, and it comes apart into a handful of beautifully simple parts.",
+    "say": "This is the humble retractable ballpoint. A barrel, a button, and a tip. Most of us never give it a second thought. But unscrew the barrel, and it comes apart into a handful of beautifully simple parts.",
+    "pace": 1.0,
+    "marks": {
+     "open": "unscrew the barrel"
+    }
+   }
+  ]
+ },
+ {
+  "id": "p_stack",
+  "lines": [
+   {
+    "cap": "Laid out in a line, there’s the push button, a little rotating cam, the spring, the ink refill, and the two halves of the barrel. Just a few parts, and not one of them wasted. Every one of them has exactly one job to do.",
+    "say": "Laid out in a line, there's the push button, a little rotating cam, the spring, the ink refill, and the two halves of the barrel. Just a few parts, and not one of them wasted. Every one of them has exactly one job to do.",
+    "pace": 1.02,
+    "marks": {
+     "l1": "push button",
+     "l2": "rotating cam",
+     "l3": "the spring",
+     "l4": "ink refill",
+     "l5": "two halves"
+    }
+   }
+  ]
+ },
+ {
+  "id": "p_cam",
+  "lines": [
+   {
+    "cap": "The magic is in the cam. Inside the barrel run little ridges, with deep channels between them and short ledges on top. Press the button, and its angled teeth push the cam down, and twist it, just a fraction. Let go, and the cam lands on a ledge. The tip is held out, ready to write. Press again, and it turns a little further, slips into a deep channel, and the spring pulls the tip back home.",
+    "say": "The magic is in the cam. Inside the barrel run little ridges, with deep channels between them, and short ledges on top. Press the button, and its angled teeth push the cam down, and twist it, just a fraction. Let go, and the cam lands on a ledge. The tip is held out, ready to write. Press again, and it turns a little further, slips into a deep channel, and the spring pulls the tip back home.",
+    "pace": 1.02,
+    "marks": {
+     "p1": "Press the button",
+     "r1": "Let go",
+     "p2": "Press again",
+     "r2": "slips into"
+    }
+   }
+  ]
+ },
+ {
+  "id": "p_spring",
+  "lines": [
+   {
+    "cap": "So one button does two jobs. The spring is always pushing back, and the cam remembers where it’s allowed to rest. Squeezed a little with every click, the spring gives the button its springy feel, and it’s strong enough to pull the tip home the moment the cam lets go.",
+    "say": "So one button does two jobs. The spring is always pushing back, and the cam remembers where it's allowed to rest. Squeezed a little with every click, the spring gives the button its springy feel, and it's strong enough to pull the tip home the moment the cam lets go.",
+    "pace": 1.0
+   }
+  ]
+ },
+ {
+  "id": "p_refill",
+  "lines": [
+   {
+    "cap": "The refill itself is wonderfully simple: a thin tube of ink, with the writing tip pressed onto the end. When it runs dry, you swap it out, and the rest of the pen carries on, click after click.",
+    "say": "The refill itself is wonderfully simple. A thin tube of ink, with the writing tip pressed onto the end. When it runs dry, you swap it out, and the rest of the pen carries on, click after click.",
+    "pace": 1.0,
+    "marks": {
+     "dry": "When it runs dry",
+     "swap": "you swap it out"
+    }
+   }
+  ]
+ },
+ {
+  "id": "p_tip",
+  "lines": [
+   {
+    "cap": "Now, the tip. This is the clever part, patented by László Bíró in 1938. Bíró was a newspaper editor in Budapest. He noticed that newspaper ink dried quickly, but it was far too thick for a fountain pen. His answer was a tiny rolling ball.",
+    "say": "Now, the tip. This is the clever part, patented by László Bíró in nineteen thirty-eight. Bíró was a newspaper editor in Budapest. He noticed that newspaper ink dried quickly, but it was far too thick for a fountain pen. His answer was a tiny rolling ball.",
+    "pace": 1.0,
+    "marks": {
+     "answer": "His answer"
+    }
+   },
+   {
+    "cap": "At the very end sits that ball, often just seven tenths of a millimetre across, usually tungsten carbide or steel, held in a socket just loose enough to spin.",
+    "say": "At the very end sits that ball, often just seven tenths of a millimetre across, usually tungsten carbide or steel, held in a socket just loose enough to spin.",
+    "pace": 1.0,
+    "marks": {
+     "ball": "At the very end"
+    }
+   }
+  ]
+ },
+ {
+  "id": "p_ink",
+  "lines": [
+   {
+    "cap": "As you write, the ball rolls. Its top dips into thick, oil-based ink, and its bottom lays a thin film of it onto the paper. The ink is a paste, so it doesn’t run, and fatty acids in it keep the ball turning smoothly. Most ballpoints rely on gravity too, which is why they won’t write upside down. And when you stop writing, the ball sits snugly in its socket, helping keep the ink from drying out.",
+    "say": "As you write, the ball rolls. Its top dips into thick, oil-based ink, and its bottom lays a thin film of it onto the paper. The ink is a paste, so it doesn't run, and fatty acids in it keep the ball turning smoothly. Most ballpoints rely on gravity too, which is why they won't write upside down. And when you stop writing, the ball sits snugly in its socket, helping keep the ink from drying out.",
+    "pace": 1.02,
+    "marks": {
+     "grav": "rely on gravity",
+     "stop": "And when you stop"
+    }
+   }
+  ]
+ },
+ {
+  "id": "p_finale",
+  "lines": [
+   {
+    "cap": "Put it all back together. The button presses, the cam turns, the spring returns, and the ball rolls. A complete little machine, sitting in your pocket.",
+    "say": "Put it all back together. The button presses, the cam turns, the spring returns, and the ball rolls. A complete little machine, sitting in your pocket.",
+    "pace": 0.98,
+    "marks": {
+     "click": "The button presses"
+    }
+   }
+  ]
+ },
+ {
+  "id": "p_cta",
+  "lines": [
+   {
+    "cap": "If you enjoyed this, subscribe. Next time, we’ll open up another everyday machine.",
+    "say": "If you enjoyed this, subscribe. Next time, we'll open up another everyday machine.",
+    "pace": 1.0
+   }
+  ]
+ }
+]

@@ -1,0 +1,165 @@
+[
+ {
+  "id": "z_hook",
+  "lines": [
+   {
+    "cap": "Zip. Two rows of tiny teeth, locked together in under a second. It’s one of the most-used machines in your life, and you’ve probably never looked inside.",
+    "say": "Zip! Two rows of tiny teeth, locked together in under a second. It's one of the most used machines in your life, and you've probably never looked inside.",
+    "pace": 1.0
+   }
+  ]
+ },
+ {
+  "id": "z_intro",
+  "lines": [
+   {
+    "cap": "This is an ordinary zip, on an ordinary jacket. Two fabric tapes, two rows of teeth, and a little slider. But look through the slider, and you’ll find a beautifully simple machine.",
+    "say": "This is an ordinary zip, on an ordinary jacket. Two fabric tapes, two rows of teeth, and a little slider. But look through the slider, and you'll find a beautifully simple machine.",
+    "pace": 1.0,
+    "marks": {
+     "xray": "look through"
+    }
+   }
+  ]
+ },
+ {
+  "id": "z_stack",
+  "lines": [
+   {
+    "cap": "Lift it apart, and there’s the pull tab, the slider body, the two rows of teeth, and the fabric tapes they’re clamped to, with stops at each end, so the slider can’t run off. Each tooth is clamped tightly onto a corded edge of the tape, so it can’t slip or twist.",
+    "say": "Lift it apart, and there's the pull tab, the slider body, the two rows of teeth, and the fabric tapes they're clamped to, with stops at each end, so the slider can't run off. Each tooth is clamped tightly onto a corded edge of the tape, so it can't slip or twist.",
+    "pace": 1.0,
+    "marks": {
+     "l1": "pull tab",
+     "l2": "slider body",
+     "l3": "two rows of teeth",
+     "l4": "fabric tapes",
+     "l5": "stops at each end",
+     "cord": "Each tooth is clamped"
+    }
+   }
+  ]
+ },
+ {
+  "id": "z_teeth",
+  "lines": [
+   {
+    "cap": "Look closely at a single tooth. Each one has a little bump on top, and a hollow underneath. And the teeth on each side are staggered, so every tooth faces a gap on the opposite row.",
+    "say": "Look closely at a single tooth. Each one has a little bump on top, and a hollow underneath. And the teeth on each side are staggered, so every tooth faces a gap on the opposite row.",
+    "pace": 1.0,
+    "marks": {
+     "bump": "little bump",
+     "hollow": "a hollow",
+     "stag": "staggered"
+    }
+   }
+  ]
+ },
+ {
+  "id": "z_slider",
+  "lines": [
+   {
+    "cap": "The secret is inside the slider. Its channel is shaped like a Y. Pull it up, and the two rows are guided in at an angle, then squeezed together. Each bump drops into the hollow of the tooth beside it, and they lock, one after another.",
+    "say": "The secret is inside the slider. Its channel is shaped like a Y. Pull it up, and the two rows are guided in at an angle, then squeezed together. Each bump drops into the hollow of the tooth beside it, and they lock, one after another.",
+    "pace": 1.0,
+    "marks": {
+     "y": "shaped like a Y",
+     "up": "Pull it up",
+     "lock": "Each bump"
+    }
+   }
+  ]
+ },
+ {
+  "id": "z_unzip",
+  "lines": [
+   {
+    "cap": "Pull it the other way, and a little wedge at the top of the Y prises them apart, tooth by tooth. It’s the same simple machine as an axe blade, just very, very small.",
+    "say": "Pull it the other way, and a little wedge at the top of the Y prises them apart, tooth by tooth. It's the same simple machine as an axe blade, just very, very small.",
+    "pace": 0.98,
+    "marks": {
+     "down": "Pull it the other way",
+     "wedge": "a little wedge"
+    }
+   }
+  ]
+ },
+ {
+  "id": "z_hold",
+  "lines": [
+   {
+    "cap": "So why can’t you just pull a closed zip apart? Pull sideways, and every bump is trapped in its hollow. The teeth only let go when they’re bent apart at just the right angle, and that’s exactly what the slider does.",
+    "say": "So why can't you just pull a closed zip apart? Pull sideways, and every bump is trapped in its hollow. The teeth only let go when they're bent apart at just the right angle, and that's exactly what the slider does.",
+    "pace": 1.0,
+    "marks": {
+     "pull": "Pull sideways",
+     "angle": "The teeth only"
+    }
+   }
+  ]
+ },
+ {
+  "id": "z_lock",
+  "lines": [
+   {
+    "cap": "Some sliders even lock. Lay the pull tab flat, and a tiny pin drops between the teeth, so the zip can’t creep open on its own.",
+    "say": "Some sliders even lock. Lay the pull tab flat, and a tiny pin drops between the teeth, so the zip can't creep open on its own.",
+    "pace": 1.0,
+    "marks": {
+     "flat": "Lay the pull tab"
+    }
+   }
+  ]
+ },
+ {
+  "id": "z_box",
+  "lines": [
+   {
+    "cap": "And on a jacket, the bottom end has a pin and a box, so the two sides can come apart completely, then slot back together for the next zip.",
+    "say": "And on a jacket, the bottom end has a pin and a box, so the two sides can come apart completely, then slot back together for the next zip.",
+    "pace": 1.0,
+    "marks": {
+     "apart": "so the two sides",
+     "back": "then slot back"
+    }
+   }
+  ]
+ },
+ {
+  "id": "z_history",
+  "lines": [
+   {
+    "cap": "It began with Whitcomb Judson’s clasp locker in 1893. In 1913, Gideon Sundbäck redesigned it, packing ten or eleven teeth into every inch. And in 1923, B. F. Goodrich put it on rubber boots, called it the zipper, and the name stuck.",
+    "say": "It began with Whitcomb Judson's clasp locker, in eighteen ninety-three. In nineteen thirteen, Gideon Sundback redesigned it, packing ten or eleven teeth into every inch. And in nineteen twenty-three, B. F. Goodrich put it on rubber boots, called it the zipper, and the name stuck.",
+    "pace": 1.02,
+    "marks": {
+     "y1913": "In nineteen thirteen",
+     "y1923": "And in nineteen"
+    }
+   }
+  ]
+ },
+ {
+  "id": "z_finale",
+  "lines": [
+   {
+    "cap": "Put it all back together. The slider guides, the channel squeezes, and every tooth locks into the next. Hundreds of tiny locks, closed in a single pull.",
+    "say": "Put it all back together. The slider guides, the channel squeezes, and every tooth locks into the next. Hundreds of tiny locks, closed in a single pull.",
+    "pace": 0.98,
+    "marks": {
+     "pull": "Hundreds of tiny"
+    }
+   }
+  ]
+ },
+ {
+  "id": "z_cta",
+  "lines": [
+   {
+    "cap": "If you enjoyed this, subscribe. Next time, we’ll open up another everyday machine.",
+    "say": "If you enjoyed this, subscribe. Next time, we'll open up another everyday machine.",
+    "pace": 1.0
+   }
+  ]
+ }
+]
