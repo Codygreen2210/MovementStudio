@@ -11,6 +11,9 @@ FMT = {
     'long': {'w': 1920, 'h': 1080, 'narr': 'narr2', 'script': 'script2.json', 'tail': 0.9,
              'lead': {'hook': 0.45, 'watch': 1.0, 'calibre': 1.2, 'stack': 2.0, 'dial': 2.2, 'finale': 1.6},
              'after': {('hook', 1): 0.3, ('watch', 1): 0.3, ('watch', 2): 1.3, ('watch', 3): 1.9}},
+    'm3': {'w': 1080, 'h': 1920, 'narr': 'narr_m', 'script': 'script3.json', 'tail': 0.4, 'flow': True,
+           'lead': {'m_hook': 0.3, 'm_stack': 1.2, 'm_dial': 1.3, 'm_cta': 0.9},
+           'after': {('m_watch', 0): 1.4, ('m_watch', 1): 1.6, ('m_stack', 0): 1.0, ('m_esc', 0): 0.6, ('m_dial', 0): 1.2, ('m_finale', 0): 0.4, ('m_finale', 1): 1.4, ('m_cta', 0): 2.6}},
     'short2': {'w': 1080, 'h': 1920, 'narr': 'narr_short2', 'script': 'short2.json', 'tail': 0.3, 'flow': True,
               'lead': {'s_hook': 0.3, 's_end': 0.45},
               'after': {('s_watch', 0): 1.7, ('s_rotor', 0): 0.7, ('s_esc', 0): 0.6}},
@@ -25,7 +28,7 @@ def chunk_cue(c, maxw=7):
     parts, cur = [], []
     for w in words:
         cur.append(w)
-        FUNC = {'a', 'an', 'the', 'of', 'in', 'is', 'and', 'on', 'to', 'at', 'it', 'its', 'your', 'this', 'that', 'which', 'times', 'about', 'every', 'little', 'once', 'four', 'blue', 'swings', 'beats', 'half'}
+        FUNC = {'a', 'an', 'the', 'of', 'in', 'is', 'and', 'on', 'to', 'at', 'it', 'its', 'your', 'this', 'that', 'which', 'times', 'about', 'has', 'every', 'little', 'once', 'four', 'blue', 'swings', 'beats', 'half'}
         if (len(cur) >= 3 and w.endswith(',')) or (len(cur) >= maxw and w.lower().strip(',.') not in FUNC) or len(cur) >= maxw + 3: parts.append(cur); cur = []
     if cur:
         if len(cur) <= 2 and parts: parts[-1] += cur

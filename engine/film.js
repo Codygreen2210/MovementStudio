@@ -233,7 +233,51 @@ const DEFS = {
   s_bal: {title:'Balance & hairspring', spec:'', cam:C_BAL, alpha:A_BAL,
     events:[{line:0, at:1.5, cam:{zoom:3.0, fx:56, fy:110}, dur:5}]},
   s_end: {title:'', spec:'', camDur:1.4,
-    cam:{flip:1, case:1, lift:0, zoom:0.9, fx:0, fy:0, ts:1, flow:0, tilt:0, swing:0.3, spin:0.02}, alpha:ALL(1)}
+    cam:{flip:1, case:1, lift:0, zoom:0.9, fx:0, fy:0, ts:1, flow:0, tilt:0, swing:0.3, spin:0.02}, alpha:ALL(1)},
+  /* ---- 3-minute vertical cut ---- */
+  m_hook: {title:'', spec:'', camDur:0,
+    cam:{flip:1, case:1, lift:0, zoom:2.5, fx:-40, fy:30, spin:0.3, swing:0.2}, alpha:ALL(1),
+    events:[{at:0.02, cam:{zoom:1.0, fx:0, fy:0, spin:-0.05}, dur:6.5}]},
+  m_watch: {title:'Calibre 3235', spec:'Datejust · Submariner Date · Sea-Dweller', camDur:1.6,
+    cam:{flip:1, case:1, lift:0, zoom:0.92, sx:0, fx:0, fy:0, spin:0.04}, alpha:ALL(1),
+    events:[{at:1.8, cam:{spin:-0.12, zoom:0.98, tilt:0.3}, dur:5},
+            {mark:'flip', markAt:0.05, cam:{flip:0, tilt:0, spin:0, zoom:0.95}, dur:1.3, sfx:'flip'},
+            {line:1, at:0.1, cam:{lift:1, zoom:1.05}, dur:2.6, sfx:'unscrew'}]},
+  m_calibre: {title:'The Calibre', spec:'31 jewels · 28,800 vph · ≈70 h',
+    cam:{flip:0, case:0, lift:1, zoom:1, swing:0.35}, alpha:ALL(1),
+    events:[{at:3, cam:{zoom:1.1, spin:0.06}, dur:5}]},
+  m_stack: {title:'The Stack', spec:'8 layers', spinLive:true,
+    cam:{tilt:1.02, explode:1, zoom:0.42, sx:-0.2, sy:0, swing:0.25, case:0}, alpha:ALL(1)},
+  m_rotor: {title:'Perpetual Rotor', spec:'Patented 1931', cam:C_ROTOR, alpha:A_ROTOR,
+    callouts:[{L:'rotor', p:[0,0], t:'Ball bearing', dx:80, dy:-60, line:0}, {L:'rotor', p:[G.rev.x,G.rev.y], t:'Reversing wheels', dx:-110, dy:-36, line:0, after:6}]},
+  m_barrel: {title:'Mainspring Barrel', spec:'≈70 h reserve', cam:C_BARREL, alpha:A_BARREL,
+    callouts:[{L:'barrel', p:[G.barrel.x-18,G.barrel.y+20], t:'Mainspring', dx:-120, dy:70, line:0}, {L:'barrel', p:[G.barrel.x+40,G.barrel.y-47], t:'Barrel wall', dx:90, dy:-40, line:0, after:3.5}]},
+  m_train: {title:'Gear Train', spec:'Counting the time out',
+    cam:{tilt:0, explode:0, zoom:1.28, fx:12, fy:16, ts:1, swing:0.2, flow:5, case:0}, alpha:A_TRAIN,
+    events:[{mark:'centre', cam:{zoom:1.5, fx:0, fy:-4}, dur:2.5}, {mark:'fourth', cam:{zoom:1.6, fx:55, fy:5}, dur:2.5}, {mark:'race', cam:{zoom:1.25, fx:15, fy:20}, dur:3}],
+    callouts:[{L:'train', p:[0,0], t:'Centre wheel · 1 rev / hour', dx:-150, dy:60, mark:'centre'},
+              {L:'train', p:[G.fourth.x,G.fourth.y], t:'Fourth wheel · 1 rev / min', dx:100, dy:10, mark:'fourth'}]},
+  m_esc: {title:'Chronergy Escapement', spec:'Slow motion', cam:C_ESC, alpha:A_ESC,
+    callouts:CO_ESC.map(c => Object.assign({}, c, {line:0, after:2})),
+    events:[{mark:'lock', cam:{zoom:3.6, fx:72, fy:66}, dur:3}, {line:1, at:0, cam:{zoom:2.8, fx:66, fy:78}, dur:4}]},
+  m_bal: {title:'Balance & Parachrom', spec:'4 beats a second', cam:C_BAL, alpha:A_BAL,
+    events:[{mark:'spring', cam:{zoom:3.1, fx:58, fy:110}, dur:5}],
+    callouts:[{L:'bal', p:[G.balance.x-33,G.balance.y-31], t:'Balance wheel', dx:-110, dy:-50, line:0},
+              {L:'bal', p:[G.balance.x+22,G.balance.y+12], t:'Parachrom hairspring', dx:110, dy:50, mark:'spring'}]},
+  m_dial: {title:'Dial Side', spec:'Instant date change',
+    cam:{tilt:0, explode:0, zoom:1, fx:0, fy:0, flip:1, ts:1, swing:0.2, flow:0, case:0}, alpha:ALL(1),
+    events:[{mark:'mid', cam:{zoom:1.5, fx:60, fy:0}, dur:2.6}],
+    callouts:[{L:'dialview', p:[0,0], t:'Motion works', dx:-120, dy:-90, line:0},
+              {L:'dialview', p:[128,0], t:'Date window', dx:-20, dy:-110, mark:'mid'}]},
+  m_finale: {title:'Reassembly', spec:'−2/+2 s a day',
+    cam:{tilt:0.5, explode:0, zoom:0.95, fx:0, fy:0, flip:0, ts:1, swing:0.7, flow:7, case:0, lift:1},
+    alpha:Object.assign(ALL(1), {rotor:0.55, bridges:0.55}),
+    events:[{line:1, at:0.2, cam:{case:1, lift:0, tilt:0, flow:0, zoom:0.9}, alpha:ALL(1), dur:3, sfx:'unscrew'},
+            {mark:'flip', markAt:0, cam:{flip:1, zoom:0.86, spin:0.04, tilt:0}, dur:1.6, sfx:'flip'},
+            {mark:'flip', markAt:1.8, cam:{spin:-0.1, zoom:0.92, tilt:0.2}, dur:6}]},
+  m_cta: {title:'', spec:'', camDur:1.6,
+    cam:{flip:1, case:1, lift:0, zoom:0.74, sy:0.18, fx:0, fy:0, tilt:0.12, spin:0.03, ts:1, flow:0, swing:0.3},
+    alpha:ALL(1), events:[{at:1.8, cam:{spin:-0.06, tilt:0.22, zoom:0.78}, dur:6}]}
 };
 const SCENES = (window.__TL ? window.__TL.scenes : []).map(s => {
   const d = DEFS[s.id];
@@ -705,7 +749,8 @@ function drawGlint() {
 }
 
 /* ---------- Clocks shown on the dial ---------- */
-function liveClock() { const id = SCENES[sceneIdx] && SCENES[sceneIdx].id; return id !== 'dial'; }
+const baseId = id => (id || '').replace(/^m_/, '');
+function liveClock() { const id = SCENES[sceneIdx] && SCENES[sceneIdx].id; return baseId(id) !== 'dial'; }
 function clockMinutes() { return liveClock() ? 10 * 60 + 9 + rt / 60 : dialMinutes(); }
 
 /* ---------- Render ---------- */
@@ -791,9 +836,11 @@ function render() {
   const s = SCENES[sceneIdx];
   if (s && s.callouts && curScene >= 0 && sceneClock > 1.8) {
     s.callouts.forEach(c => {
-      if (lineIdx < c.line || !M[c.L]) return;
+      if (!M[c.L]) return;
+      if (c.mark == null && lineIdx < c.line) return;
       if (c.L === 'dialview' && cur.flip < 0.5) return;
-      const t0 = Math.max(1.8, lineStarts[c.line] ?? 0);
+      const Sc = TL.scenes[curScene];
+      const t0 = c.mark != null ? ((Sc.marks && Sc.marks[c.mark] != null) ? Sc.marks[c.mark] - Sc.start : 1e9) : Math.max(1.8, (lineStarts[c.line] ?? 0) + (c.after || 0));
       const a = Math.min(1, Math.max(0, (sceneClock - t0) / 0.6));
       if (a <= 0) return;
       const [px, py] = proj(M[c.L], c.p[0], c.p[1]);
@@ -816,11 +863,12 @@ function applyTimeline() {
   const i = sceneAt(T);
   if (i >= 0 && i !== curScene) {
     curScene = i; sceneIdx = i; lineIdx = 0; lineStarts = []; dialAnchor = null;
-    if (SCENES[i].id === 'dial') { dateShown = 14; dateAng = -13 * TAU / 31; }
+    const b0 = baseId(SCENES[i].id);
+    if (b0 === 'dial') { dateShown = 14; dateAng = -13 * TAU / 31; }
     else { dateShown = 15; dateAng = -14 * TAU / 31; }
     enterScene(SCENES[i], T);
-    if (i > 0 && !['calibre', 'dial'].includes(SCENES[i].id)) sfx.push([+T.toFixed(3), 'whoosh']);
-    if (SCENES[i].id === 'dial') sfx.push([+T.toFixed(3), 'flip']);
+    if (i > 0 && !['calibre', 'dial', 'cta'].includes(b0)) sfx.push([+T.toFixed(3), 'whoosh']);
+    if (b0 === 'dial') sfx.push([+T.toFixed(3), 'flip']);
   }
   if (i < 0) { sceneClock = 0; return; }
   const S = TL.scenes[i];
@@ -829,6 +877,7 @@ function applyTimeline() {
   for (let j = 0; j < started; j++) lineStarts[j] = S.lines[j] - S.start;
   lineIdx = Math.max(0, started - 1);
   if (SCENES[i].id === 'dial' && started >= 3 && !dialAnchor) dialAnchor = {t: sceneClock, m: dialMinutes(), jump: S.jump - S.start};
+  if (SCENES[i].id === 'm_dial' && S.marks && S.marks.mid != null && T >= S.marks.mid && !dialAnchor) dialAnchor = {t: sceneClock, m: dialMinutes(), jump: S.marks.jump - S.start};
   (SCENES[i].events || []).forEach((ev, j) => {
     const key = i + ':' + j;
     if (fired.has(key)) return;
@@ -851,12 +900,15 @@ function simulate() {
   rotorAngle = cur.swing * (1.5 * Math.sin(0.9 * rt) + 0.6 * Math.sin(2.1 * rt + 1.3)) + 0.04 * rt;
   revAng += Math.abs(rotorAngle - prev) * 2.6;
   let wTarget = 0.85;
-  const sid = SCENES[sceneIdx] ? SCENES[sceneIdx].id : '';
+  const sid0 = SCENES[sceneIdx] ? SCENES[sceneIdx].id : '';
+  const sid = sid0 === 'm_dial' || sid0 === 'm_barrel' || sid0 === 'm_rotor' ? baseId(sid0) : sid0;
+  const Sx = TL.scenes[curScene] || {};
   if (sid === 'barrel') wTarget = Math.min(1, 0.1 + sceneClock / 15);
   if (sid === 'rotor') wTarget = Math.min(0.85, 0.35 + sceneClock / 30);
   if (sid === 's_rotor') { const S2 = TL.scenes[curScene]; const mk = (S2.marks && S2.marks.barrel != null ? S2.marks.barrel - S2.start + 0.5 : 3.3); wTarget = sceneClock < mk ? 0.3 : Math.min(1, 0.3 + (sceneClock - mk) / 3); }
   wind += (wTarget - wind) * (1 - Math.exp(-d * 2.5));
-  const daTarget = (sid === 'dial' && lineIdx < 2) ? 0.6 : (sid === 'dial' ? 0.96 : 1);
+  const early = (Sx.marks && Sx.marks.mid != null) ? T < Sx.marks.mid : lineIdx < 2;
+  const daTarget = (sid === 'dial' && early) ? 0.6 : (sid === 'dial' ? 0.96 : 1);
   dialA += (daTarget - dialA) * (1 - Math.exp(-d * 2));
   if (sid === 'dial' && dialMinutes() >= 1440 && lastDate === 14) { sfx.push([+T.toFixed(3), 'date']); lastDate = 15; }
   if (sid === 'dial' && dialMinutes() < 1440) lastDate = 14;
@@ -864,7 +916,7 @@ function simulate() {
   const tn = f >= 0.62 ? n : n - 1;
   if (lastTickN === null) lastTickN = tn;
   else if (tn > lastTickN) {
-    let g = TICK_GAIN[sid] ?? 0.1;
+    let g = TICK_GAIN[sid0] ?? TICK_GAIN[baseId(sid0)] ?? 0.1;
     if (TL.endStart && T > TL.endStart) g *= clamp01(1 - (T - TL.endStart) / 3);
     for (let kk = lastTickN + 1; kk <= Math.min(tn, lastTickN + 3); kk++) ticks.push([+T.toFixed(4), kk & 1, g]);
     lastTickN = tn;
@@ -968,6 +1020,23 @@ function overlaysPortrait() {
       });
     });
     ctx.restore();
+  }
+  if (S && S.id === 'm_cta') {
+    const a = clamp01((T - S.start - 0.4) / 0.7);
+    ctx.save(); ctx.globalAlpha = a; const bg = ctx.createLinearGradient(0, 180, 0, 800);
+    bg.addColorStop(0, 'rgba(7,9,13,0)'); bg.addColorStop(0.2, 'rgba(7,9,13,0.82)'); bg.addColorStop(0.8, 'rgba(7,9,13,0.82)'); bg.addColorStop(1, 'rgba(7,9,13,0)');
+    ctx.fillStyle = bg; ctx.fillRect(0, 180, W, 620); ctx.restore();
+    const rise = (1 - ease(a)) * 40;
+    txt('Inside the', W / 2, 330 + rise, '400 78px "Bodoni Moda"', C.fg, 'center', a);
+    txt('Calibre 3235', W / 2, 425 + rise, 'italic 400 88px "Bodoni Moda"', C.gilt, 'center', a);
+    const b = clamp01((T - S.start - 1.2) / 0.5);
+    const pulse = 1 + 0.045 * Math.sin((T - S.start) * 5.2) * b;
+    ctx.save(); ctx.globalAlpha = b; ctx.translate(W / 2, 560 + (1 - ease(b)) * 30); ctx.scale(pulse, pulse);
+    ctx.fillStyle = '#d6303f'; ctx.beginPath(); ctx.roundRect(-230, -56, 460, 112, 56); ctx.fill();
+    ctx.fillStyle = '#ffffff'; ctx.font = '800 50px "Hanken Grotesk"'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText('SUBSCRIBE', 0, 3);
+    ctx.restore();
+    const c2 = clamp01((T - S.start - 2.2) / 0.6);
+    txt('NEXT: ANOTHER LEGENDARY MOVEMENT', W / 2, 690, '500 28px "IBM Plex Mono"', C.fg, 'center', c2, 4);
   }
   if (S && S.id === 's_end') {
     const a = clamp01((T - S.start - 0.3) / 0.7);

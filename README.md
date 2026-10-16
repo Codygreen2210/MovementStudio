@@ -7,6 +7,7 @@ Masters and the reusable production kit for animated watch-movement breakdowns. 
 |---|---|
 | `videos/calibre-3235-long-1080p.mp4` | Long-form YouTube master, 1920×1080, 30 fps, 5:28 |
 | `videos/calibre-3235-short-1080x1920.mp4` | YouTube Short master, 1080×1920, 30 fps, 0:45 |
+| `videos/calibre-3235-3min-short-1080x1920.mp4` | Full-story vertical Short, 1080×1920, 30 fps, 2:45, with subscribe call to action |
 | `thumbnails/calibre-3235-long-thumbnail.jpg` | Long-form thumbnail, 1280×720 |
 | `captions/*.en.srt` | English captions for both videos |
 | `YouTube upload details.txt` | Titles, descriptions, chapters, tags |

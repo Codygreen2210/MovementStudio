@@ -23,6 +23,10 @@ E2M = sorted({
 FIX = {r'\bwound\b': 'wownd', r'\bwinds\b': 'whinds', r'\bwind\b': 'whind', r'\bniobium\b': 'nyobium',
        r'\bChronergy\b': 'Kronnergy', r'\bnickel-phosphorus\b': 'nickel phosphorus', r'\bRolex’s\b': "Rolex's"}
 
+# exact pronunciations (Kokoro phonemes), bypassing espeak's guess
+PHON = {'Submariner': 'sʌbmˈɛːɹɪnə'}
+PHON_RE = r'\b(' + '|'.join(PHON) + r')\b'
+
 def espeak(text):
     out = subprocess.run([ESPEAK, '-v', 'en-gb', '-q', '--ipa', '--tie=^', text], env=ENV, capture_output=True, text=True).stdout
     return ' '.join(out.split())
@@ -37,10 +41,15 @@ def to_phonemes(sentence):
         chunk = parts[i].strip()
         punct = parts[i + 1] if i + 1 < len(parts) else ''
         if chunk:
-            ph = espeak(chunk)
-            for a, b in E2M:
-                ph = ph.replace(a, b)
-            out += ph
+            ph = ''
+            for seg in re.split(PHON_RE, chunk):
+                if not seg.strip(): continue
+                if seg in PHON: ph += ' ' + PHON[seg] + ' '; continue
+                p2 = espeak(seg.strip())
+                for a, b in E2M:
+                    p2 = p2.replace(a, b)
+                ph += ' ' + p2 + ' '
+            out += ph.strip()
         if punct:
             out += (' ' if punct == '—' else '') + punct
         out += ' '

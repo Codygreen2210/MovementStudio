@@ -1,0 +1,158 @@
+[
+ {
+  "id": "m_hook",
+  "lines": [
+   {
+    "cap": "Listen closely. That’s the sound of a heart that has never needed a battery. Four beats every second, for as long as you wear it.",
+    "say": "Listen closely. That's the sound of a heart that has never needed a battery. Four beats every second, for as long as you wear it.",
+    "pace": 1.0
+   }
+  ]
+ },
+ {
+  "id": "m_watch",
+  "lines": [
+   {
+    "cap": "This is calibre 3235. It beats inside the Datejust, the Submariner Date and the Sea-Dweller. From the outside, it’s calm. But turn it over…",
+    "say": "This is calibre thirty-two thirty-five. It beats inside the Datejust, the Submariner Date, and the Sea-Dweller. From the outside, it's calm. But turn it over.",
+    "pace": 1.0,
+    "marks": {
+     "flip": "But turn it over"
+    }
+   },
+   {
+    "cap": "Open it up, and you’ll find something rather wonderful.",
+    "say": "Open it up, and you'll find something rather wonderful.",
+    "pace": 0.97
+   }
+  ]
+ },
+ {
+  "id": "m_calibre",
+  "lines": [
+   {
+    "cap": "No battery. No circuitry. Just springs, wheels and jewels, every one with a job to do. So let’s take it apart, layer by layer.",
+    "say": "No battery. No circuitry. Just springs, wheels and jewels, every one with a job to do. So let's take it apart, layer by layer.",
+    "pace": 1.02
+   }
+  ]
+ },
+ {
+  "id": "m_stack",
+  "lines": [
+   {
+    "cap": "Lift the layers apart and the movement becomes a stack: the rotor on top, then bridges set with 31 synthetic rubies, tiny bearings that keep friction to a whisper. Then the balance, the escapement, the gear train, the barrel and the main plate.",
+    "say": "Lift the layers apart, and the movement becomes a stack. The rotor on top, then bridges set with thirty-one synthetic rubies, tiny bearings that keep friction to a whisper. Then the balance, the escapement, the gear train, the barrel, and the main plate.",
+    "pace": 1.04
+   }
+  ]
+ },
+ {
+  "id": "m_rotor",
+  "lines": [
+   {
+    "cap": "It starts with the Perpetual rotor, patented by Rolex in 1931, and still one of the most elegant ideas in watchmaking. A half-moon of dense metal, it spins on a ball bearing every time your wrist moves, and reversing wheels turn every swing into winding force.",
+    "say": "It starts with the Perpetual rotor, patented by Rolex in nineteen thirty-one, and still one of the most elegant ideas in watchmaking. A half-moon of dense metal, it spins on a ball bearing every time your wrist moves, and reversing wheels turn every swing into winding force.",
+    "pace": 1.04
+   }
+  ]
+ },
+ {
+  "id": "m_barrel",
+  "lines": [
+   {
+    "cap": "That winding flows into the mainspring, coiled inside the barrel. Rolex gave the barrel thinner walls, leaving room for a longer spring. Fully wound, it holds around 70 hours of power. Take it off on Friday evening, and come Monday morning, it’s still running.",
+    "say": "That winding flows into the mainspring, coiled inside the barrel. Rolex gave the barrel thinner walls, leaving room for a longer spring. Fully wound, it holds around seventy hours of power. Take it off on Friday evening, and come Monday morning, it's still running.",
+    "pace": 1.03
+   }
+  ]
+ },
+ {
+  "id": "m_train",
+  "lines": [
+   {
+    "cap": "The spring lets that energy out slowly, through the gear train. The centre wheel turns once an hour for the minute hand. The fourth wheel turns once a minute for the seconds. Left alone, this train would simply race.",
+    "say": "The spring lets that energy out slowly, through the gear train. The centre wheel turns once an hour, for the minute hand. The fourth wheel turns once a minute, for the seconds. Left alone, this train would simply race.",
+    "pace": 1.04,
+    "marks": {
+     "centre": "The centre wheel",
+     "fourth": "The fourth wheel",
+     "race": "Left alone"
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_esc",
+  "lines": [
+   {
+    "cap": "So the escapement holds it back. The pallet fork catches the escape wheel, lets it slip half a tooth, and gives the balance a gentle push. Lock, release, impulse. That’s the tick you hear.",
+    "say": "So the escapement holds it back. The pallet fork catches the escape wheel, lets it slip half a tooth, and gives the balance a gentle push. Lock, release, impulse. That's the tick you hear.",
+    "pace": 1.0,
+    "marks": {
+     "lock": "Lock, release"
+    }
+   },
+   {
+    "cap": "Rolex’s Chronergy escapement is around 15 per cent more efficient than a conventional lever, and because it’s made of nickel-phosphorus, magnetism can’t throw it off.",
+    "say": "Rolex's Chronergy escapement is around fifteen per cent more efficient than a conventional lever. And because it's made of nickel-phosphorus, magnetism can't throw it off.",
+    "pace": 1.02
+   }
+  ]
+ },
+ {
+  "id": "m_bal",
+  "lines": [
+   {
+    "cap": "And here is the heart of the watch: the balance wheel, swinging four times every second. That’s 28,800 beats an hour, on a blue Parachrom hairspring of niobium and zirconium that shrugs off magnetism, heat and cold. And Paraflex shock absorbers guard its delicate pivots.",
+    "say": "And here is the heart of the watch. The balance wheel, swinging four times every second. That's twenty-eight thousand, eight hundred beats an hour, on a blue Parachrom hairspring of niobium and zirconium, that shrugs off magnetism, heat and cold. And Paraflex shock absorbers guard its delicate pivots.",
+    "pace": 1.02,
+    "marks": {
+     "spring": "on a blue Parachrom"
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_dial",
+  "lines": [
+   {
+    "cap": "On the dial side, the motion works turn the hour hand at one-twelfth the speed of the minute hand. And at midnight, the date doesn’t creep. It jumps, instantly.",
+    "say": "On the dial side, the motion works turn the hour hand at one-twelfth the speed of the minute hand. And at midnight, the date doesn't creep. It jumps! Instantly.",
+    "pace": 1.02,
+    "marks": {
+     "mid": "And at midnight",
+     "jump": "It jumps"
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_finale",
+  "lines": [
+   {
+    "cap": "Put it all back together: the rotor winds, the spring stores, the wheels count, the escapement releases, and the balance keeps time.",
+    "say": "Put it all back together. The rotor winds, the spring stores, the wheels count, the escapement releases, and the balance keeps time.",
+    "pace": 0.98
+   },
+   {
+    "cap": "Rolex tests every cased watch to within two seconds a day. They call it the Superlative Chronometer standard. And it does all of that without ever needing a battery.",
+    "say": "Rolex tests every cased watch to within two seconds a day. They call it the Superlative Chronometer standard. And it does all of that, without ever needing a battery.",
+    "pace": 1.0,
+    "marks": {
+     "flip": "And it does all of that"
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_cta",
+  "lines": [
+   {
+    "cap": "If you enjoyed this, subscribe. Next time, we’ll open up another legendary movement.",
+    "say": "If you enjoyed this, subscribe. Next time, we'll open up another legendary movement.",
+    "pace": 1.0
+   }
+  ]
+ }
+]

@@ -87,7 +87,8 @@ function drawGlint() {
 }
 
 /* ---------- Clocks shown on the dial ---------- */
-function liveClock() { const id = SCENES[sceneIdx] && SCENES[sceneIdx].id; return id !== 'dial'; }
+const baseId = id => (id || '').replace(/^m_/, '');
+function liveClock() { const id = SCENES[sceneIdx] && SCENES[sceneIdx].id; return baseId(id) !== 'dial'; }
 function clockMinutes() { return liveClock() ? 10 * 60 + 9 + rt / 60 : dialMinutes(); }
 
 /* ---------- Render ---------- */
@@ -173,9 +174,11 @@ function render() {
   const s = SCENES[sceneIdx];
   if (s && s.callouts && curScene >= 0 && sceneClock > 1.8) {
     s.callouts.forEach(c => {
-      if (lineIdx < c.line || !M[c.L]) return;
+      if (!M[c.L]) return;
+      if (c.mark == null && lineIdx < c.line) return;
       if (c.L === 'dialview' && cur.flip < 0.5) return;
-      const t0 = Math.max(1.8, lineStarts[c.line] ?? 0);
+      const Sc = TL.scenes[curScene];
+      const t0 = c.mark != null ? ((Sc.marks && Sc.marks[c.mark] != null) ? Sc.marks[c.mark] - Sc.start : 1e9) : Math.max(1.8, (lineStarts[c.line] ?? 0) + (c.after || 0));
       const a = Math.min(1, Math.max(0, (sceneClock - t0) / 0.6));
       if (a <= 0) return;
       const [px, py] = proj(M[c.L], c.p[0], c.p[1]);
@@ -198,11 +201,12 @@ function applyTimeline() {
   const i = sceneAt(T);
   if (i >= 0 && i !== curScene) {
     curScene = i; sceneIdx = i; lineIdx = 0; lineStarts = []; dialAnchor = null;
-    if (SCENES[i].id === 'dial') { dateShown = 14; dateAng = -13 * TAU / 31; }
+    const b0 = baseId(SCENES[i].id);
+    if (b0 === 'dial') { dateShown = 14; dateAng = -13 * TAU / 31; }
     else { dateShown = 15; dateAng = -14 * TAU / 31; }
     enterScene(SCENES[i], T);
-    if (i > 0 && !['calibre', 'dial'].includes(SCENES[i].id)) sfx.push([+T.toFixed(3), 'whoosh']);
-    if (SCENES[i].id === 'dial') sfx.push([+T.toFixed(3), 'flip']);
+    if (i > 0 && !['calibre', 'dial', 'cta'].includes(b0)) sfx.push([+T.toFixed(3), 'whoosh']);
+    if (b0 === 'dial') sfx.push([+T.toFixed(3), 'flip']);
   }
   if (i < 0) { sceneClock = 0; return; }
   const S = TL.scenes[i];
@@ -211,6 +215,7 @@ function applyTimeline() {
   for (let j = 0; j < started; j++) lineStarts[j] = S.lines[j] - S.start;
   lineIdx = Math.max(0, started - 1);
   if (SCENES[i].id === 'dial' && started >= 3 && !dialAnchor) dialAnchor = {t: sceneClock, m: dialMinutes(), jump: S.jump - S.start};
+  if (SCENES[i].id === 'm_dial' && S.marks && S.marks.mid != null && T >= S.marks.mid && !dialAnchor) dialAnchor = {t: sceneClock, m: dialMinutes(), jump: S.marks.jump - S.start};
   (SCENES[i].events || []).forEach((ev, j) => {
     const key = i + ':' + j;
     if (fired.has(key)) return;
@@ -233,12 +238,15 @@ function simulate() {
   rotorAngle = cur.swing * (1.5 * Math.sin(0.9 * rt) + 0.6 * Math.sin(2.1 * rt + 1.3)) + 0.04 * rt;
   revAng += Math.abs(rotorAngle - prev) * 2.6;
   let wTarget = 0.85;
-  const sid = SCENES[sceneIdx] ? SCENES[sceneIdx].id : '';
+  const sid0 = SCENES[sceneIdx] ? SCENES[sceneIdx].id : '';
+  const sid = sid0 === 'm_dial' || sid0 === 'm_barrel' || sid0 === 'm_rotor' ? baseId(sid0) : sid0;
+  const Sx = TL.scenes[curScene] || {};
   if (sid === 'barrel') wTarget = Math.min(1, 0.1 + sceneClock / 15);
   if (sid === 'rotor') wTarget = Math.min(0.85, 0.35 + sceneClock / 30);
   if (sid === 's_rotor') { const S2 = TL.scenes[curScene]; const mk = (S2.marks && S2.marks.barrel != null ? S2.marks.barrel - S2.start + 0.5 : 3.3); wTarget = sceneClock < mk ? 0.3 : Math.min(1, 0.3 + (sceneClock - mk) / 3); }
   wind += (wTarget - wind) * (1 - Math.exp(-d * 2.5));
-  const daTarget = (sid === 'dial' && lineIdx < 2) ? 0.6 : (sid === 'dial' ? 0.96 : 1);
+  const early = (Sx.marks && Sx.marks.mid != null) ? T < Sx.marks.mid : lineIdx < 2;
+  const daTarget = (sid === 'dial' && early) ? 0.6 : (sid === 'dial' ? 0.96 : 1);
   dialA += (daTarget - dialA) * (1 - Math.exp(-d * 2));
   if (sid === 'dial' && dialMinutes() >= 1440 && lastDate === 14) { sfx.push([+T.toFixed(3), 'date']); lastDate = 15; }
   if (sid === 'dial' && dialMinutes() < 1440) lastDate = 14;
@@ -246,7 +254,7 @@ function simulate() {
   const tn = f >= 0.62 ? n : n - 1;
   if (lastTickN === null) lastTickN = tn;
   else if (tn > lastTickN) {
-    let g = TICK_GAIN[sid] ?? 0.1;
+    let g = TICK_GAIN[sid0] ?? TICK_GAIN[baseId(sid0)] ?? 0.1;
     if (TL.endStart && T > TL.endStart) g *= clamp01(1 - (T - TL.endStart) / 3);
     for (let kk = lastTickN + 1; kk <= Math.min(tn, lastTickN + 3); kk++) ticks.push([+T.toFixed(4), kk & 1, g]);
     lastTickN = tn;
@@ -350,6 +358,23 @@ function overlaysPortrait() {
       });
     });
     ctx.restore();
+  }
+  if (S && S.id === 'm_cta') {
+    const a = clamp01((T - S.start - 0.4) / 0.7);
+    ctx.save(); ctx.globalAlpha = a; const bg = ctx.createLinearGradient(0, 180, 0, 800);
+    bg.addColorStop(0, 'rgba(7,9,13,0)'); bg.addColorStop(0.2, 'rgba(7,9,13,0.82)'); bg.addColorStop(0.8, 'rgba(7,9,13,0.82)'); bg.addColorStop(1, 'rgba(7,9,13,0)');
+    ctx.fillStyle = bg; ctx.fillRect(0, 180, W, 620); ctx.restore();
+    const rise = (1 - ease(a)) * 40;
+    txt('Inside the', W / 2, 330 + rise, '400 78px "Bodoni Moda"', C.fg, 'center', a);
+    txt('Calibre 3235', W / 2, 425 + rise, 'italic 400 88px "Bodoni Moda"', C.gilt, 'center', a);
+    const b = clamp01((T - S.start - 1.2) / 0.5);
+    const pulse = 1 + 0.045 * Math.sin((T - S.start) * 5.2) * b;
+    ctx.save(); ctx.globalAlpha = b; ctx.translate(W / 2, 560 + (1 - ease(b)) * 30); ctx.scale(pulse, pulse);
+    ctx.fillStyle = '#d6303f'; ctx.beginPath(); ctx.roundRect(-230, -56, 460, 112, 56); ctx.fill();
+    ctx.fillStyle = '#ffffff'; ctx.font = '800 50px "Hanken Grotesk"'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText('SUBSCRIBE', 0, 3);
+    ctx.restore();
+    const c2 = clamp01((T - S.start - 2.2) / 0.6);
+    txt('NEXT: ANOTHER LEGENDARY MOVEMENT', W / 2, 690, '500 28px "IBM Plex Mono"', C.fg, 'center', c2, 4);
   }
   if (S && S.id === 's_end') {
     const a = clamp01((T - S.start - 0.3) / 0.7);
