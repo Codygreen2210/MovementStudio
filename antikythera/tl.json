@@ -1,0 +1,7492 @@
+{
+ "fps": 30,
+ "w": 1920,
+ "h": 1080,
+ "scenes": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "marks": {
+    "lump": 1.3,
+    "medieval": 9.62,
+    "inside": 12.58,
+    "thirty": 14.42,
+    "teeth": 16.18,
+    "moon": 20.02,
+    "eclipse": 21.06,
+    "games": 22.66,
+    "built": 25.22,
+    "who": 28.5,
+    "how": 29.78
+   },
+   "voice": 1.3,
+   "vdur": 30.16,
+   "end": 31.96
+  },
+  {
+   "id": "title",
+   "start": 31.96,
+   "marks": {},
+   "end": 36.16
+  },
+  {
+   "id": "wreck",
+   "start": 36.16,
+   "marks": {
+    "storm": 41.42,
+    "map": 46.02,
+    "dive": 50.66,
+    "statues": 59.94,
+    "ship": 63.98,
+    "haul": 69.44,
+    "lumpup": 75.68,
+    "ignored": 81.36,
+    "y1902": 84.16,
+    "gear": 90.8
+   },
+   "voice": 37.06,
+   "vdur": 54.54,
+   "end": 92.5
+  },
+  {
+   "id": "xray",
+   "start": 92.5,
+   "marks": {
+    "sense": 97.18,
+    "museum": 100.3,
+    "price": 108.06,
+    "xr": 115.82,
+    "see": 117.38,
+    "ct": 125.1,
+    "slice": 127.9,
+    "found": 131.66,
+    "count30": 134.06,
+    "letters": 141.18,
+    "manual": 145.1
+   },
+   "voice": 93.5,
+   "vdur": 52.96,
+   "end": 147.66
+  },
+  {
+   "id": "crank",
+   "start": 147.66,
+   "marks": {
+    "case": 151.5,
+    "handle": 156.54,
+    "b1": 159.02,
+    "year": 164.38,
+    "sun": 168.3,
+    "egypt": 173.62,
+    "moonp": 175.66,
+    "faster": 179.58,
+    "ratio": 187.66,
+    "need": 192.94,
+    "built": 196.86,
+    "g1": 198.78,
+    "g2": 201.5,
+    "g3": 203.98,
+    "mult": 207.1,
+    "exact": 210.78
+   },
+   "voice": 149.26,
+   "vdur": 63.2,
+   "end": 215.86
+  },
+  {
+   "id": "pinslot",
+   "start": 215.86,
+   "marks": {
+    "steady": 220.96,
+    "orbit": 223.36,
+    "near": 226.24,
+    "far": 228.28,
+    "hipp": 230.96,
+    "bronze": 235.28,
+    "pair": 238.0,
+    "pin": 242.72,
+    "slide": 247.36,
+    "ahead": 250.96,
+    "back": 252.48,
+    "platform": 261.28,
+    "years": 266.48,
+    "variable": 268.88
+   },
+   "voice": 216.96,
+   "vdur": 58.0,
+   "end": 277.16
+  },
+  {
+   "id": "back",
+   "start": 277.16,
+   "marks": {
+    "turn": 279.28,
+    "spirals": 282.24,
+    "metonic": 285.76,
+    "cycle": 291.0,
+    "pointer": 299.04,
+    "groove": 301.92,
+    "games": 308.24,
+    "other": 317.84,
+    "saros": 320.0,
+    "s223": 323.04,
+    "babylon": 329.2,
+    "glyphs": 336.88,
+    "moon38": 339.04,
+    "sun27": 340.56,
+    "coming": 346.96
+   },
+   "voice": 278.96,
+   "vdur": 70.08,
+   "end": 352.24
+  },
+  {
+   "id": "planets",
+   "start": 352.24,
+   "marks": {
+    "argue": 354.6,
+    "names": 357.56,
+    "lost": 364.92,
+    "y2016": 367.0,
+    "venus": 372.44,
+    "saturn": 375.24,
+    "ucl": 384.44,
+    "fit": 388.36,
+    "rings": 395.08,
+    "uncertain": 399.24,
+    "cosmos": 406.24
+   },
+   "voice": 353.24,
+   "vdur": 54.24,
+   "end": 410.08
+  },
+  {
+   "id": "who",
+   "start": 410.08,
+   "marks": {
+    "dontknow": 412.92,
+    "corinth": 415.96,
+    "syracuse": 418.28,
+    "cicero": 426.04,
+    "notthis": 436.36,
+    "after": 442.12,
+    "nothing": 443.72,
+    "gap": 444.92,
+    "clocks": 452.44,
+    "vanished": 457.88,
+    "sank": 461.24
+   },
+   "voice": 411.08,
+   "vdur": 53.28,
+   "end": 466.36
+  },
+  {
+   "id": "bridge",
+   "start": 466.36,
+   "marks": {
+    "fragments": 468.92,
+    "idea": 472.6,
+    "sky": 475.08,
+    "clocks2": 480.68,
+    "pocket": 482.52,
+    "wrists": 485.08,
+    "nobat": 490.6,
+    "builder": 492.6,
+    "open": 497.0
+   },
+   "voice": 467.16,
+   "vdur": 30.8,
+   "end": 498.56
+  },
+  {
+   "id": "end",
+   "start": 498.56,
+   "marks": {},
+   "end": 514.56
+  }
+ ],
+ "total": 514.56,
+ "frames": 15436,
+ "clips": [
+  [
+   1.3,
+   "narr/hook.wav"
+  ],
+  [
+   37.06,
+   "narr/wreck.wav"
+  ],
+  [
+   93.5,
+   "narr/xray.wav"
+  ],
+  [
+   149.26,
+   "narr/crank.wav"
+  ],
+  [
+   216.96,
+   "narr/pinslot.wav"
+  ],
+  [
+   278.96,
+   "narr/back.wav"
+  ],
+  [
+   353.24,
+   "narr/planets.wav"
+  ],
+  [
+   411.08,
+   "narr/who.wav"
+  ],
+  [
+   467.16,
+   "narr/bridge.wav"
+  ]
+ ],
+ "cues": [
+  {
+   "s": 1.3,
+   "e": 3.34,
+   "text": "This is a lump of corroded bronze,"
+  },
+  {
+   "s": 3.46,
+   "e": 5.94,
+   "text": "pulled from a shipwreck in 1901."
+  },
+  {
+   "s": 6.5,
+   "e": 8.9,
+   "text": "Most people think machines with gears like this didn't"
+  },
+  {
+   "s": 8.98,
+   "e": 11.94,
+   "text": "appear until the great clocks of medieval Europe."
+  },
+  {
+   "s": 12.58,
+   "e": 13.94,
+   "text": "But look inside."
+  },
+  {
+   "s": 14.42,
+   "e": 15.7,
+   "text": "Thirty gears."
+  },
+  {
+   "s": 16.18,
+   "e": 18.74,
+   "text": "Teeth barely a millimetre and a half apart."
+  },
+  {
+   "s": 19.14,
+   "e": 20.86,
+   "text": "A machine that could track the Moon,"
+  },
+  {
+   "s": 21.06,
+   "e": 24.78,
+   "text": "predict eclipses, and keep count of the Olympic Games."
+  },
+  {
+   "s": 25.22,
+   "e": 27.14,
+   "text": "And it was built more than 2,000 years"
+  },
+  {
+   "s": 27.3,
+   "e": 27.98,
+   "text": "ago."
+  },
+  {
+   "s": 28.5,
+   "e": 29.54,
+   "text": "So who made it?"
+  },
+  {
+   "s": 29.78,
+   "e": 31.46,
+   "text": "And how on earth did it work?"
+  },
+  {
+   "s": 37.06,
+   "e": 38.7,
+   "text": "In the spring of 1900,"
+  },
+  {
+   "s": 38.74,
+   "e": 40.82,
+   "text": "a crew of sponge divers from the island of"
+  },
+  {
+   "s": 40.9,
+   "e": 43.26,
+   "text": "Symi was driven off course by a storm."
+  },
+  {
+   "s": 43.7,
+   "e": 45.82,
+   "text": "They took shelter at Antikythera,"
+  },
+  {
+   "s": 46.02,
+   "e": 49.18,
+   "text": "a tiny island between Crete and mainland Greece."
+  },
+  {
+   "s": 49.7,
+   "e": 50.62,
+   "text": "When the weather cleared,"
+  },
+  {
+   "s": 50.66,
+   "e": 51.82,
+   "text": "one of them went down,"
+  },
+  {
+   "s": 52.02,
+   "e": 55.5,
+   "text": "about 45 metres, and came back up shaken,"
+  },
+  {
+   "s": 55.62,
+   "e": 58.02,
+   "text": "talking about bodies on the sea floor."
+  },
+  {
+   "s": 58.58,
+   "e": 59.66,
+   "text": "They weren't bodies."
+  },
+  {
+   "s": 59.94,
+   "e": 62.46,
+   "text": "They were statues, bronze and marble,"
+  },
+  {
+   "s": 62.74,
+   "e": 64.9,
+   "text": "lying among the remains of a cargo ship that"
+  },
+  {
+   "s": 64.98,
+   "e": 67.06,
+   "text": "sank around seventy to sixty B.C."
+  },
+  {
+   "s": 67.68,
+   "e": 70.52,
+   "text": "Over the following months the divers brought up statues,"
+  },
+  {
+   "s": 70.56,
+   "e": 74.16,
+   "text": "glassware, pottery, and, most likely in the summer of"
+  },
+  {
+   "s": 74.24,
+   "e": 77.76,
+   "text": "1901, a shapeless lump of corroded bronze"
+  },
+  {
+   "s": 77.84,
+   "e": 79.16,
+   "text": "and rotted wood."
+  },
+  {
+   "s": 79.68,
+   "e": 81.08,
+   "text": "Next to the statues,"
+  },
+  {
+   "s": 81.36,
+   "e": 83.24,
+   "text": "nobody gave it a second look."
+  },
+  {
+   "s": 83.6,
+   "e": 85.76,
+   "text": "Then, in May 1902,"
+  },
+  {
+   "s": 86.0,
+   "e": 89.2,
+   "text": "the archaeologist Valerios Stais noticed something in one of"
+  },
+  {
+   "s": 89.28,
+   "e": 90.32,
+   "text": "the pieces."
+  },
+  {
+   "s": 90.8,
+   "e": 91.6,
+   "text": "A gear wheel."
+  },
+  {
+   "s": 93.5,
+   "e": 95.82,
+   "text": "A gear, in a ship that sank more than"
+  },
+  {
+   "s": 95.9,
+   "e": 97.06,
+   "text": "2,000 years ago,"
+  },
+  {
+   "s": 97.18,
+   "e": 98.46,
+   "text": "made no sense."
+  },
+  {
+   "s": 98.94,
+   "e": 101.34,
+   "text": "For decades, the fragments sat in the museum in"
+  },
+  {
+   "s": 101.42,
+   "e": 104.66,
+   "text": "Athens, a puzzle almost nobody could read."
+  },
+  {
+   "s": 105.18,
+   "e": 107.26,
+   "text": "The man who refused to let it go was"
+  },
+  {
+   "s": 107.3,
+   "e": 109.74,
+   "text": "the historian Derek de Solla Price."
+  },
+  {
+   "s": 110.22,
+   "e": 111.94,
+   "text": "In the early 1970s,"
+  },
+  {
+   "s": 112.14,
+   "e": 115.5,
+   "text": "working with the Greek physicist Charalampos Karakalos,"
+  },
+  {
+   "s": 115.82,
+   "e": 117.14,
+   "text": "he X-rayed the fragments,"
+  },
+  {
+   "s": 117.26,
+   "e": 119.18,
+   "text": "and for the first time people could see gears"
+  },
+  {
+   "s": 119.26,
+   "e": 120.78,
+   "text": "inside the stone."
+  },
+  {
+   "s": 121.34,
+   "e": 123.42,
+   "text": "Then, in 2005,"
+  },
+  {
+   "s": 123.66,
+   "e": 126.62,
+   "text": "a research team brought an eight-tonne X-ray scanner to"
+  },
+  {
+   "s": 126.7,
+   "e": 129.74,
+   "text": "the museum, and sliced the fragments into thousands of"
+  },
+  {
+   "s": 129.82,
+   "e": 131.18,
+   "text": "virtual layers."
+  },
+  {
+   "s": 131.66,
+   "e": 133.66,
+   "text": "What they found was astonishing."
+  },
+  {
+   "s": 134.06,
+   "e": 137.58,
+   "text": "Thirty surviving gears, cut by hand from sheet bronze,"
+  },
+  {
+   "s": 137.82,
+   "e": 139.34,
+   "text": "with triangular teeth."
+  },
+  {
+   "s": 139.74,
+   "e": 140.98,
+   "text": "And on the surfaces,"
+  },
+  {
+   "s": 141.18,
+   "e": 143.42,
+   "text": "thousands of tiny Greek letters."
+  },
+  {
+   "s": 143.9,
+   "e": 146.46,
+   "text": "The machine had come with its own instruction manual."
+  },
+  {
+   "s": 149.26,
+   "e": 150.9,
+   "text": "So, how did it work?"
+  },
+  {
+   "s": 151.5,
+   "e": 152.78,
+   "text": "Picture a wooden case,"
+  },
+  {
+   "s": 152.94,
+   "e": 154.327,
+   "text": "about the size of a shoebox,"
+  },
+  {
+   "s": 154.353,
+   "e": 156.02,
+   "text": "with a handle on the side."
+  },
+  {
+   "s": 156.54,
+   "e": 158.94,
+   "text": "Turn the handle, and a small crown gear drives"
+  },
+  {
+   "s": 159.02,
+   "e": 160.66,
+   "text": "the biggest wheel inside,"
+  },
+  {
+   "s": 161.02,
+   "e": 163.9,
+   "text": "a wheel with 223 teeth."
+  },
+  {
+   "s": 164.38,
+   "e": 167.06,
+   "text": "One full turn of that wheel is one year."
+  },
+  {
+   "s": 167.66,
+   "e": 169.98,
+   "text": "On the front, a pointer carries the Sun around"
+  },
+  {
+   "s": 170.02,
+   "e": 171.38,
+   "text": "a ring of the zodiac,"
+  },
+  {
+   "s": 171.66,
+   "e": 173.58,
+   "text": "and around that, a ring for the months of"
+  },
+  {
+   "s": 173.62,
+   "e": 175.18,
+   "text": "the Egyptian calendar."
+  },
+  {
+   "s": 175.66,
+   "e": 177.74,
+   "text": "A second pointer carries the Moon."
+  },
+  {
+   "s": 178.14,
+   "e": 179.9,
+   "text": "But the Moon goes round the sky more than"
+  },
+  {
+   "s": 179.98,
+   "e": 181.14,
+   "text": "thirteen times a year,"
+  },
+  {
+   "s": 181.18,
+   "e": 183.14,
+   "text": "so the gears have to speed it up,"
+  },
+  {
+   "s": 183.42,
+   "e": 185.58,
+   "text": "and by exactly the right amount."
+  },
+  {
+   "s": 186.06,
+   "e": 188.06,
+   "text": "The Greeks knew that the Moon makes two hundred"
+  },
+  {
+   "s": 188.14,
+   "e": 191.62,
+   "text": "and fifty-four trips around the zodiac every nineteen years."
+  },
+  {
+   "s": 191.98,
+   "e": 193.98,
+   "text": "So the gearing needs a ratio of two hundred"
+  },
+  {
+   "s": 194.033,
+   "e": 196.3,
+   "text": "and fifty-four, to nineteen."
+  },
+  {
+   "s": 196.86,
+   "e": 198.38,
+   "text": "Here is how they built it."
+  },
+  {
+   "s": 198.78,
+   "e": 201.14,
+   "text": "64 teeth, driving 38."
+  },
+  {
+   "s": 201.5,
+   "e": 203.66,
+   "text": "48, driving 24."
+  },
+  {
+   "s": 203.98,
+   "e": 205.22,
+   "text": "127,"
+  },
+  {
+   "s": 205.26,
+   "e": 206.7,
+   "text": "driving 32."
+  },
+  {
+   "s": 207.1,
+   "e": 209.5,
+   "text": "Multiply them together, and you get two hundred and"
+  },
+  {
+   "s": 209.58,
+   "e": 211.58,
+   "text": "fifty-four over nineteen."
+  },
+  {
+   "s": 211.9,
+   "e": 212.46,
+   "text": "Exactly."
+  },
+  {
+   "s": 216.96,
+   "e": 218.96,
+   "text": "But the Moon has another trick."
+  },
+  {
+   "s": 219.44,
+   "e": 222.2,
+   "text": "It doesn't cross the sky at a steady speed."
+  },
+  {
+   "s": 222.64,
+   "e": 224.72,
+   "text": "We now know its orbit is an ellipse,"
+  },
+  {
+   "s": 224.96,
+   "e": 227.04,
+   "text": "so it speeds up when it's closer to us,"
+  },
+  {
+   "s": 227.12,
+   "e": 229.48,
+   "text": "and slows down when it's further away."
+  },
+  {
+   "s": 230.0,
+   "e": 232.64,
+   "text": "The Greek astronomer Hipparchus had built a theory to"
+  },
+  {
+   "s": 232.88,
+   "e": 236.24,
+   "text": "explain that unevenness, and somebody turned that theory into"
+  },
+  {
+   "s": 236.32,
+   "e": 237.4,
+   "text": "bronze."
+  },
+  {
+   "s": 238.0,
+   "e": 240.28,
+   "text": "Two identical gears sit face to face,"
+  },
+  {
+   "s": 240.32,
+   "e": 242.32,
+   "text": "on slightly different centres."
+  },
+  {
+   "s": 242.72,
+   "e": 244.8,
+   "text": "A small pin on one rides in a slot"
+  },
+  {
+   "s": 244.88,
+   "e": 246.16,
+   "text": "cut into the other."
+  },
+  {
+   "s": 246.64,
+   "e": 248.64,
+   "text": "As they turn, the pin slides in and out"
+  },
+  {
+   "s": 248.72,
+   "e": 251.2,
+   "text": "along the slot, so the second gear is pushed"
+  },
+  {
+   "s": 251.24,
+   "e": 253.8,
+   "text": "a little ahead, then held a little back."
+  },
+  {
+   "s": 254.16,
+   "e": 257.68,
+   "text": "Faster, then slower, once every lunar month."
+  },
+  {
+   "s": 258.0,
+   "e": 261.04,
+   "text": "And because the Moon's orbit itself slowly swings round,"
+  },
+  {
+   "s": 261.28,
+   "e": 264.0,
+   "text": "this whole pair sits on top of another rotating"
+  },
+  {
+   "s": 264.12,
+   "e": 266.08,
+   "text": "gear that carries it all the way round once"
+  },
+  {
+   "s": 266.16,
+   "e": 268.36,
+   "text": "every 8.88 years."
+  },
+  {
+   "s": 268.88,
+   "e": 270.8,
+   "text": "A variable-speed gear train,"
+  },
+  {
+   "s": 271.04,
+   "e": 272.88,
+   "text": "riding on a moving platform."
+  },
+  {
+   "s": 273.2,
+   "e": 274.96,
+   "text": "More than 2,000 years ago."
+  },
+  {
+   "s": 278.96,
+   "e": 280.68,
+   "text": "Now turn the box around."
+  },
+  {
+   "s": 280.96,
+   "e": 283.76,
+   "text": "The back is covered by two great spirals."
+  },
+  {
+   "s": 284.16,
+   "e": 286.16,
+   "text": "The upper one is a calendar of two hundred"
+  },
+  {
+   "s": 286.2,
+   "e": 289.92,
+   "text": "and thirty-five months, laid out over five turns."
+  },
+  {
+   "s": 290.32,
+   "e": 292.4,
+   "text": "It's built on the Metonic cycle:"
+  },
+  {
+   "s": 292.72,
+   "e": 295.52,
+   "text": "after nineteen years, the phases of the Moon fall"
+  },
+  {
+   "s": 295.6,
+   "e": 297.32,
+   "text": "on the same dates again."
+  },
+  {
+   "s": 297.84,
+   "e": 300.72,
+   "text": "As you crank, the pointer works its way around"
+  },
+  {
+   "s": 300.76,
+   "e": 303.88,
+   "text": "and outwards, with a little pin following the groove,"
+  },
+  {
+   "s": 304.16,
+   "e": 306.84,
+   "text": "so you always know which turn you're on."
+  },
+  {
+   "s": 307.36,
+   "e": 310.6,
+   "text": "Inside it sits a small dial divided into four."
+  },
+  {
+   "s": 310.96,
+   "e": 313.36,
+   "text": "It keeps track of the great athletic games of"
+  },
+  {
+   "s": 313.44,
+   "e": 315.32,
+   "text": "Greece, including the Olympics,"
+  },
+  {
+   "s": 315.6,
+   "e": 317.6,
+   "text": "and it's the only pointer on the whole machine"
+  },
+  {
+   "s": 317.68,
+   "e": 319.4,
+   "text": "that turns the other way."
+  },
+  {
+   "s": 320.0,
+   "e": 322.68,
+   "text": "The lower spiral is the one that mattered most."
+  },
+  {
+   "s": 323.04,
+   "e": 324.76,
+   "text": "223 months,"
+  },
+  {
+   "s": 324.88,
+   "e": 326.32,
+   "text": "over four turns."
+  },
+  {
+   "s": 326.64,
+   "e": 328.72,
+   "text": "This is the Saros cycle."
+  },
+  {
+   "s": 329.2,
+   "e": 332.48,
+   "text": "Babylonian astronomers had noticed that eclipses repeat in a"
+  },
+  {
+   "s": 332.56,
+   "e": 334.76,
+   "text": "pattern about eighteen years long."
+  },
+  {
+   "s": 335.12,
+   "e": 337.12,
+   "text": "So here, the months with an eclipse are marked"
+  },
+  {
+   "s": 337.2,
+   "e": 338.68,
+   "text": "with a tiny symbol:"
+  },
+  {
+   "s": 339.04,
+   "e": 340.36,
+   "text": "38 for the Moon,"
+  },
+  {
+   "s": 340.56,
+   "e": 342.12,
+   "text": "27 for the Sun,"
+  },
+  {
+   "s": 342.4,
+   "e": 344.28,
+   "text": "some even giving the hour."
+  },
+  {
+   "s": 344.72,
+   "e": 346.76,
+   "text": "Turn the handle, follow the pointer,"
+  },
+  {
+   "s": 346.8,
+   "e": 349.04,
+   "text": "and you could see an eclipse coming years ahead."
+  },
+  {
+   "s": 353.24,
+   "e": 355.92,
+   "text": "And then there's the part we're still arguing about."
+  },
+  {
+   "s": 356.36,
+   "e": 358.68,
+   "text": "The writing on the front names the planets:"
+  },
+  {
+   "s": 359.0,
+   "e": 361.92,
+   "text": "Mercury, Venus, Mars, Jupiter,"
+  },
+  {
+   "s": 361.96,
+   "e": 363.0,
+   "text": "and Saturn."
+  },
+  {
+   "s": 363.4,
+   "e": 366.12,
+   "text": "But whatever gears drove them have been lost."
+  },
+  {
+   "s": 366.6,
+   "e": 368.24,
+   "text": "Then, in 2016,"
+  },
+  {
+   "s": 368.44,
+   "e": 371.96,
+   "text": "the scans revealed two numbers hidden in that text."
+  },
+  {
+   "s": 372.44,
+   "e": 373.84,
+   "text": "462,"
+  },
+  {
+   "s": 373.96,
+   "e": 374.92,
+   "text": "for Venus."
+  },
+  {
+   "s": 375.24,
+   "e": 376.48,
+   "text": "442,"
+  },
+  {
+   "s": 376.6,
+   "e": 377.64,
+   "text": "for Saturn."
+  },
+  {
+   "s": 378.12,
+   "e": 381.72,
+   "text": "Planetary cycles, and remarkably accurate ones."
+  },
+  {
+   "s": 382.28,
+   "e": 385.8,
+   "text": "In 2021, a team at University College London"
+  },
+  {
+   "s": 385.88,
+   "e": 388.28,
+   "text": "used those numbers to design gear trains that would"
+  },
+  {
+   "s": 388.36,
+   "e": 390.48,
+   "text": "actually fit in the space available:"
+  },
+  {
+   "s": 390.84,
+   "e": 392.64,
+   "text": "a reconstruction with the Sun,"
+  },
+  {
+   "s": 392.76,
+   "e": 394.84,
+   "text": "the Moon and all five planets,"
+  },
+  {
+   "s": 395.08,
+   "e": 397.48,
+   "text": "moving on rings around the front dial."
+  },
+  {
+   "s": 397.96,
+   "e": 399.88,
+   "text": "The team is clear that they can't be certain"
+  },
+  {
+   "s": 399.92,
+   "e": 400.72,
+   "text": "it's right."
+  },
+  {
+   "s": 401.0,
+   "e": 403.12,
+   "text": "Nobody has found those gears to check."
+  },
+  {
+   "s": 403.32,
+   "e": 404.56,
+   "text": "But if they're even close,"
+  },
+  {
+   "s": 404.68,
+   "e": 406.6,
+   "text": "this little box was a model of the whole"
+  },
+  {
+   "s": 406.72,
+   "e": 407.48,
+   "text": "known cosmos."
+  },
+  {
+   "s": 411.08,
+   "e": 412.48,
+   "text": "So who built it?"
+  },
+  {
+   "s": 412.92,
+   "e": 413.96,
+   "text": "We don't know."
+  },
+  {
+   "s": 414.36,
+   "e": 416.2,
+   "text": "The names of the months on the back point"
+  },
+  {
+   "s": 416.24,
+   "e": 418.04,
+   "text": "to Corinth, or one of its colonies,"
+  },
+  {
+   "s": 418.28,
+   "e": 421.0,
+   "text": "perhaps Syracuse, the city of Archimedes,"
+  },
+  {
+   "s": 421.24,
+   "e": 423.16,
+   "text": "who had died more than a century before the"
+  },
+  {
+   "s": 423.24,
+   "e": 424.52,
+   "text": "ship went down."
+  },
+  {
+   "s": 425.08,
+   "e": 428.12,
+   "text": "The Roman writer Cicero describes machines that showed the"
+  },
+  {
+   "s": 428.16,
+   "e": 429.36,
+   "text": "motions of the Sun,"
+  },
+  {
+   "s": 429.56,
+   "e": 431.2,
+   "text": "the Moon and the planets,"
+  },
+  {
+   "s": 431.56,
+   "e": 434.52,
+   "text": "one made by Archimedes and another by the philosopher"
+  },
+  {
+   "s": 434.64,
+   "e": 435.88,
+   "text": "Posidonius."
+  },
+  {
+   "s": 436.36,
+   "e": 437.84,
+   "text": "Probably not this one."
+  },
+  {
+   "s": 438.2,
+   "e": 440.44,
+   "text": "But a sign that it wasn't the only one."
+  },
+  {
+   "s": 441.0,
+   "e": 443.36,
+   "text": "What we do know is what came after."
+  },
+  {
+   "s": 443.72,
+   "e": 444.56,
+   "text": "Nothing."
+  },
+  {
+   "s": 444.92,
+   "e": 446.76,
+   "text": "For well over a thousand years,"
+  },
+  {
+   "s": 447.0,
+   "e": 449.96,
+   "text": "nothing with gearing this complex survives anywhere."
+  },
+  {
+   "s": 450.36,
+   "e": 453.08,
+   "text": "The next machines that come close are the astronomical"
+  },
+  {
+   "s": 453.16,
+   "e": 455.4,
+   "text": "clocks of fourteenth-century Europe."
+  },
+  {
+   "s": 455.88,
+   "e": 457.64,
+   "text": "The knowledge didn't just fade."
+  },
+  {
+   "s": 457.88,
+   "e": 458.92,
+   "text": "It vanished."
+  },
+  {
+   "s": 459.16,
+   "e": 461.4,
+   "text": "And we only know it ever existed because one"
+  },
+  {
+   "s": 461.48,
+   "e": 464.36,
+   "text": "ship sank, in exactly the right place."
+  },
+  {
+   "s": 467.16,
+   "e": 470.24,
+   "text": "Today, what's left is 82 fragments,"
+  },
+  {
+   "s": 470.36,
+   "e": 472.04,
+   "text": "in a museum in Athens."
+  },
+  {
+   "s": 472.44,
+   "e": 474.68,
+   "text": "But the idea inside them came back."
+  },
+  {
+   "s": 475.08,
+   "e": 477.4,
+   "text": "Gears that turn the movements of the sky into"
+  },
+  {
+   "s": 477.48,
+   "e": 479.12,
+   "text": "the movement of a pointer."
+  },
+  {
+   "s": 479.56,
+   "e": 481.88,
+   "text": "It came back in those medieval clocks."
+  },
+  {
+   "s": 482.2,
+   "e": 483.6,
+   "text": "Then in pocket watches."
+  },
+  {
+   "s": 483.88,
+   "e": 486.36,
+   "text": "And today it's ticking on millions of wrists,"
+  },
+  {
+   "s": 486.6,
+   "e": 488.92,
+   "text": "in machines that still keep time with nothing but"
+  },
+  {
+   "s": 489.0,
+   "e": 492.12,
+   "text": "gears and springs, and no battery at all."
+  },
+  {
+   "s": 492.6,
+   "e": 494.92,
+   "text": "The builder of this box would understand one of"
+  },
+  {
+   "s": 495.0,
+   "e": 496.36,
+   "text": "them instantly."
+  },
+  {
+   "s": 496.84,
+   "e": 497.96,
+   "text": "So let's open one up."
+  }
+ ],
+ "words": [
+  {
+   "t": "This",
+   "s": 1.3,
+   "e": 1.62
+  },
+  {
+   "t": "is",
+   "s": 1.7,
+   "e": 1.78
+  },
+  {
+   "t": "a",
+   "s": 1.86,
+   "e": 1.9
+  },
+  {
+   "t": "lump",
+   "s": 1.94,
+   "e": 2.18
+  },
+  {
+   "t": "of",
+   "s": 2.22,
+   "e": 2.26
+  },
+  {
+   "t": "corroded",
+   "s": 2.34,
+   "e": 2.74
+  },
+  {
+   "t": "bronze,",
+   "s": 2.82,
+   "e": 3.34
+  },
+  {
+   "t": "pulled",
+   "s": 3.46,
+   "e": 3.7
+  },
+  {
+   "t": "from",
+   "s": 3.78,
+   "e": 3.86
+  },
+  {
+   "t": "a",
+   "s": 3.9,
+   "e": 3.94
+  },
+  {
+   "t": "shipwreck",
+   "s": 4.02,
+   "e": 4.42
+  },
+  {
+   "t": "in",
+   "s": 4.46,
+   "e": 4.5
+  },
+  {
+   "t": "nineteen",
+   "s": 4.58,
+   "e": 4.9
+  },
+  {
+   "t": "oh",
+   "s": 4.98,
+   "e": 5.06
+  },
+  {
+   "t": "one.",
+   "s": 5.14,
+   "e": 5.94
+  },
+  {
+   "t": "Most",
+   "s": 6.5,
+   "e": 6.74
+  },
+  {
+   "t": "people",
+   "s": 6.86,
+   "e": 6.98
+  },
+  {
+   "t": "think",
+   "s": 7.1,
+   "e": 7.22
+  },
+  {
+   "t": "machines",
+   "s": 7.3,
+   "e": 7.7
+  },
+  {
+   "t": "with",
+   "s": 7.78,
+   "e": 7.86
+  },
+  {
+   "t": "gears",
+   "s": 7.94,
+   "e": 8.18
+  },
+  {
+   "t": "like",
+   "s": 8.26,
+   "e": 8.42
+  },
+  {
+   "t": "this",
+   "s": 8.54,
+   "e": 8.66
+  },
+  {
+   "t": "didn't",
+   "s": 8.74,
+   "e": 8.9
+  },
+  {
+   "t": "appear",
+   "s": 8.98,
+   "e": 9.3
+  },
+  {
+   "t": "until",
+   "s": 9.42,
+   "e": 9.54
+  },
+  {
+   "t": "the",
+   "s": 9.62,
+   "e": 9.66
+  },
+  {
+   "t": "great",
+   "s": 9.7,
+   "e": 9.94
+  },
+  {
+   "t": "clocks",
+   "s": 10.02,
+   "e": 10.34
+  },
+  {
+   "t": "of",
+   "s": 10.38,
+   "e": 10.42
+  },
+  {
+   "t": "medieval",
+   "s": 10.5,
+   "e": 10.9
+  },
+  {
+   "t": "Europe.",
+   "s": 10.98,
+   "e": 11.94
+  },
+  {
+   "t": "But",
+   "s": 12.58,
+   "e": 12.66
+  },
+  {
+   "t": "look",
+   "s": 12.74,
+   "e": 12.82
+  },
+  {
+   "t": "inside.",
+   "s": 12.9,
+   "e": 13.94
+  },
+  {
+   "t": "Thirty",
+   "s": 14.42,
+   "e": 14.74
+  },
+  {
+   "t": "gears.",
+   "s": 14.82,
+   "e": 15.7
+  },
+  {
+   "t": "Teeth",
+   "s": 16.18,
+   "e": 16.5
+  },
+  {
+   "t": "barely",
+   "s": 16.58,
+   "e": 16.82
+  },
+  {
+   "t": "a",
+   "s": 16.86,
+   "e": 16.9
+  },
+  {
+   "t": "millimetre",
+   "s": 16.98,
+   "e": 17.38
+  },
+  {
+   "t": "and",
+   "s": 17.42,
+   "e": 17.46
+  },
+  {
+   "t": "a",
+   "s": 17.54,
+   "e": 17.58
+  },
+  {
+   "t": "half",
+   "s": 17.62,
+   "e": 17.78
+  },
+  {
+   "t": "apart.",
+   "s": 17.86,
+   "e": 18.74
+  },
+  {
+   "t": "A",
+   "s": 19.14,
+   "e": 19.18
+  },
+  {
+   "t": "machine",
+   "s": 19.22,
+   "e": 19.62
+  },
+  {
+   "t": "that",
+   "s": 19.66,
+   "e": 19.7
+  },
+  {
+   "t": "could",
+   "s": 19.78,
+   "e": 19.94
+  },
+  {
+   "t": "track",
+   "s": 20.02,
+   "e": 20.26
+  },
+  {
+   "t": "the",
+   "s": 20.3,
+   "e": 20.34
+  },
+  {
+   "t": "Moon,",
+   "s": 20.42,
+   "e": 20.86
+  },
+  {
+   "t": "predict",
+   "s": 21.06,
+   "e": 21.38
+  },
+  {
+   "t": "eclipses,",
+   "s": 21.46,
+   "e": 22.26
+  },
+  {
+   "t": "and",
+   "s": 22.5,
+   "e": 22.58
+  },
+  {
+   "t": "keep",
+   "s": 22.66,
+   "e": 22.9
+  },
+  {
+   "t": "count",
+   "s": 22.98,
+   "e": 23.22
+  },
+  {
+   "t": "of",
+   "s": 23.26,
+   "e": 23.3
+  },
+  {
+   "t": "the",
+   "s": 23.38,
+   "e": 23.42
+  },
+  {
+   "t": "Olympic",
+   "s": 23.46,
+   "e": 23.86
+  },
+  {
+   "t": "Games.",
+   "s": 23.94,
+   "e": 24.78
+  },
+  {
+   "t": "And",
+   "s": 25.22,
+   "e": 25.3
+  },
+  {
+   "t": "it",
+   "s": 25.34,
+   "e": 25.38
+  },
+  {
+   "t": "was",
+   "s": 25.46,
+   "e": 25.62
+  },
+  {
+   "t": "built",
+   "s": 25.74,
+   "e": 25.86
+  },
+  {
+   "t": "more",
+   "s": 25.94,
+   "e": 26.02
+  },
+  {
+   "t": "than",
+   "s": 26.1,
+   "e": 26.18
+  },
+  {
+   "t": "two",
+   "s": 26.26,
+   "e": 26.42
+  },
+  {
+   "t": "thousand",
+   "s": 26.5,
+   "e": 26.9
+  },
+  {
+   "t": "years",
+   "s": 27.02,
+   "e": 27.14
+  },
+  {
+   "t": "ago.",
+   "s": 27.3,
+   "e": 27.98
+  },
+  {
+   "t": "So",
+   "s": 28.5,
+   "e": 28.66
+  },
+  {
+   "t": "who",
+   "s": 28.74,
+   "e": 28.82
+  },
+  {
+   "t": "made",
+   "s": 28.9,
+   "e": 29.06
+  },
+  {
+   "t": "it?",
+   "s": 29.14,
+   "e": 29.54
+  },
+  {
+   "t": "And",
+   "s": 29.78,
+   "e": 29.94
+  },
+  {
+   "t": "how",
+   "s": 30.02,
+   "e": 30.18
+  },
+  {
+   "t": "on",
+   "s": 30.26,
+   "e": 30.34
+  },
+  {
+   "t": "earth",
+   "s": 30.5,
+   "e": 30.82
+  },
+  {
+   "t": "did",
+   "s": 30.9,
+   "e": 30.98
+  },
+  {
+   "t": "it",
+   "s": 31.02,
+   "e": 31.06
+  },
+  {
+   "t": "work?",
+   "s": 31.14,
+   "e": 31.46
+  },
+  {
+   "t": "In",
+   "s": 37.06,
+   "e": 37.3
+  },
+  {
+   "t": "the",
+   "s": 37.38,
+   "e": 37.46
+  },
+  {
+   "t": "spring",
+   "s": 37.54,
+   "e": 37.78
+  },
+  {
+   "t": "of",
+   "s": 37.86,
+   "e": 37.94
+  },
+  {
+   "t": "nineteen",
+   "s": 38.02,
+   "e": 38.34
+  },
+  {
+   "t": "hundred,",
+   "s": 38.42,
+   "e": 38.7
+  },
+  {
+   "t": "a",
+   "s": 38.74,
+   "e": 38.82
+  },
+  {
+   "t": "crew",
+   "s": 38.9,
+   "e": 39.06
+  },
+  {
+   "t": "of",
+   "s": 39.1,
+   "e": 39.14
+  },
+  {
+   "t": "sponge",
+   "s": 39.3,
+   "e": 39.62
+  },
+  {
+   "t": "divers",
+   "s": 39.74,
+   "e": 40.02
+  },
+  {
+   "t": "from",
+   "s": 40.1,
+   "e": 40.18
+  },
+  {
+   "t": "the",
+   "s": 40.26,
+   "e": 40.34
+  },
+  {
+   "t": "island",
+   "s": 40.42,
+   "e": 40.66
+  },
+  {
+   "t": "of",
+   "s": 40.74,
+   "e": 40.82
+  },
+  {
+   "t": "Symi",
+   "s": 40.9,
+   "e": 41.18
+  },
+  {
+   "t": "was",
+   "s": 41.22,
+   "e": 41.38
+  },
+  {
+   "t": "driven",
+   "s": 41.42,
+   "e": 41.62
+  },
+  {
+   "t": "off",
+   "s": 41.7,
+   "e": 41.78
+  },
+  {
+   "t": "course",
+   "s": 41.86,
+   "e": 42.1
+  },
+  {
+   "t": "by",
+   "s": 42.18,
+   "e": 42.26
+  },
+  {
+   "t": "a",
+   "s": 42.34,
+   "e": 42.42
+  },
+  {
+   "t": "storm.",
+   "s": 42.5,
+   "e": 43.26
+  },
+  {
+   "t": "They",
+   "s": 43.7,
+   "e": 43.86
+  },
+  {
+   "t": "took",
+   "s": 43.94,
+   "e": 44.1
+  },
+  {
+   "t": "shelter",
+   "s": 44.18,
+   "e": 44.58
+  },
+  {
+   "t": "at",
+   "s": 44.66,
+   "e": 44.82
+  },
+  {
+   "t": "Antikythera,",
+   "s": 44.9,
+   "e": 45.82
+  },
+  {
+   "t": "a",
+   "s": 46.02,
+   "e": 46.1
+  },
+  {
+   "t": "tiny",
+   "s": 46.18,
+   "e": 46.5
+  },
+  {
+   "t": "island",
+   "s": 46.58,
+   "e": 46.9
+  },
+  {
+   "t": "between",
+   "s": 47.1,
+   "e": 47.3
+  },
+  {
+   "t": "Crete",
+   "s": 47.38,
+   "e": 47.62
+  },
+  {
+   "t": "and",
+   "s": 47.7,
+   "e": 47.78
+  },
+  {
+   "t": "mainland",
+   "s": 47.86,
+   "e": 48.26
+  },
+  {
+   "t": "Greece.",
+   "s": 48.3,
+   "e": 49.18
+  },
+  {
+   "t": "When",
+   "s": 49.7,
+   "e": 49.78
+  },
+  {
+   "t": "the",
+   "s": 49.86,
+   "e": 49.94
+  },
+  {
+   "t": "weather",
+   "s": 50.06,
+   "e": 50.18
+  },
+  {
+   "t": "cleared,",
+   "s": 50.26,
+   "e": 50.62
+  },
+  {
+   "t": "one",
+   "s": 50.66,
+   "e": 50.74
+  },
+  {
+   "t": "of",
+   "s": 50.82,
+   "e": 50.9
+  },
+  {
+   "t": "them",
+   "s": 50.98,
+   "e": 51.06
+  },
+  {
+   "t": "went",
+   "s": 51.18,
+   "e": 51.3
+  },
+  {
+   "t": "down,",
+   "s": 51.38,
+   "e": 51.82
+  },
+  {
+   "t": "about",
+   "s": 52.02,
+   "e": 52.34
+  },
+  {
+   "t": "forty-five",
+   "s": 52.42,
+   "e": 52.98
+  },
+  {
+   "t": "metres,",
+   "s": 53.06,
+   "e": 53.74
+  },
+  {
+   "t": "and",
+   "s": 54.02,
+   "e": 54.1
+  },
+  {
+   "t": "came",
+   "s": 54.18,
+   "e": 54.42
+  },
+  {
+   "t": "back",
+   "s": 54.5,
+   "e": 54.66
+  },
+  {
+   "t": "up",
+   "s": 54.74,
+   "e": 54.9
+  },
+  {
+   "t": "shaken,",
+   "s": 54.98,
+   "e": 55.5
+  },
+  {
+   "t": "talking",
+   "s": 55.62,
+   "e": 55.86
+  },
+  {
+   "t": "about",
+   "s": 55.94,
+   "e": 56.18
+  },
+  {
+   "t": "bodies",
+   "s": 56.26,
+   "e": 56.58
+  },
+  {
+   "t": "on",
+   "s": 56.66,
+   "e": 56.74
+  },
+  {
+   "t": "the",
+   "s": 56.78,
+   "e": 56.82
+  },
+  {
+   "t": "sea",
+   "s": 56.9,
+   "e": 57.06
+  },
+  {
+   "t": "floor.",
+   "s": 57.14,
+   "e": 58.02
+  },
+  {
+   "t": "They",
+   "s": 58.58,
+   "e": 58.66
+  },
+  {
+   "t": "weren't",
+   "s": 58.74,
+   "e": 58.98
+  },
+  {
+   "t": "bodies.",
+   "s": 59.06,
+   "e": 59.66
+  },
+  {
+   "t": "They",
+   "s": 59.94,
+   "e": 60.02
+  },
+  {
+   "t": "were",
+   "s": 60.1,
+   "e": 60.18
+  },
+  {
+   "t": "statues,",
+   "s": 60.26,
+   "e": 61.02
+  },
+  {
+   "t": "bronze",
+   "s": 61.22,
+   "e": 61.62
+  },
+  {
+   "t": "and",
+   "s": 61.66,
+   "e": 61.7
+  },
+  {
+   "t": "marble,",
+   "s": 61.78,
+   "e": 62.46
+  },
+  {
+   "t": "lying",
+   "s": 62.74,
+   "e": 62.98
+  },
+  {
+   "t": "among",
+   "s": 63.06,
+   "e": 63.3
+  },
+  {
+   "t": "the",
+   "s": 63.34,
+   "e": 63.38
+  },
+  {
+   "t": "remains",
+   "s": 63.46,
+   "e": 63.78
+  },
+  {
+   "t": "of",
+   "s": 63.86,
+   "e": 63.94
+  },
+  {
+   "t": "a",
+   "s": 63.98,
+   "e": 64.02
+  },
+  {
+   "t": "cargo",
+   "s": 64.1,
+   "e": 64.42
+  },
+  {
+   "t": "ship",
+   "s": 64.5,
+   "e": 64.74
+  },
+  {
+   "t": "that",
+   "s": 64.82,
+   "e": 64.9
+  },
+  {
+   "t": "sank",
+   "s": 64.98,
+   "e": 65.22
+  },
+  {
+   "t": "around",
+   "s": 65.3,
+   "e": 65.54
+  },
+  {
+   "t": "seventy",
+   "s": 65.62,
+   "e": 66.1
+  },
+  {
+   "t": "to",
+   "s": 66.18,
+   "e": 66.34
+  },
+  {
+   "t": "sixty",
+   "s": 66.46,
+   "e": 66.66
+  },
+  {
+   "t": "B.C.",
+   "s": 66.74,
+   "e": 67.06
+  },
+  {
+   "t": "Over",
+   "s": 67.68,
+   "e": 67.84
+  },
+  {
+   "t": "the",
+   "s": 67.92,
+   "e": 68.0
+  },
+  {
+   "t": "following",
+   "s": 68.08,
+   "e": 68.4
+  },
+  {
+   "t": "months",
+   "s": 68.48,
+   "e": 68.8
+  },
+  {
+   "t": "the",
+   "s": 68.84,
+   "e": 68.88
+  },
+  {
+   "t": "divers",
+   "s": 68.96,
+   "e": 69.36
+  },
+  {
+   "t": "brought",
+   "s": 69.44,
+   "e": 69.6
+  },
+  {
+   "t": "up",
+   "s": 69.68,
+   "e": 69.84
+  },
+  {
+   "t": "statues,",
+   "s": 69.92,
+   "e": 70.52
+  },
+  {
+   "t": "glassware,",
+   "s": 70.56,
+   "e": 71.2
+  },
+  {
+   "t": "pottery,",
+   "s": 71.28,
+   "e": 72.04
+  },
+  {
+   "t": "and,",
+   "s": 72.32,
+   "e": 72.84
+  },
+  {
+   "t": "most",
+   "s": 73.04,
+   "e": 73.2
+  },
+  {
+   "t": "likely",
+   "s": 73.28,
+   "e": 73.6
+  },
+  {
+   "t": "in",
+   "s": 73.64,
+   "e": 73.68
+  },
+  {
+   "t": "the",
+   "s": 73.72,
+   "e": 73.76
+  },
+  {
+   "t": "summer",
+   "s": 73.84,
+   "e": 74.0
+  },
+  {
+   "t": "of",
+   "s": 74.08,
+   "e": 74.16
+  },
+  {
+   "t": "nineteen",
+   "s": 74.24,
+   "e": 74.56
+  },
+  {
+   "t": "oh",
+   "s": 74.64,
+   "e": 74.72
+  },
+  {
+   "t": "one,",
+   "s": 74.88,
+   "e": 75.36
+  },
+  {
+   "t": "a",
+   "s": 75.68,
+   "e": 75.76
+  },
+  {
+   "t": "shapeless",
+   "s": 75.84,
+   "e": 76.32
+  },
+  {
+   "t": "lump",
+   "s": 76.4,
+   "e": 76.64
+  },
+  {
+   "t": "of",
+   "s": 76.72,
+   "e": 76.8
+  },
+  {
+   "t": "corroded",
+   "s": 76.88,
+   "e": 77.36
+  },
+  {
+   "t": "bronze",
+   "s": 77.44,
+   "e": 77.76
+  },
+  {
+   "t": "and",
+   "s": 77.84,
+   "e": 77.92
+  },
+  {
+   "t": "rotted",
+   "s": 78.0,
+   "e": 78.32
+  },
+  {
+   "t": "wood.",
+   "s": 78.4,
+   "e": 79.16
+  },
+  {
+   "t": "Next",
+   "s": 79.68,
+   "e": 79.92
+  },
+  {
+   "t": "to",
+   "s": 80.0,
+   "e": 80.08
+  },
+  {
+   "t": "the",
+   "s": 80.12,
+   "e": 80.16
+  },
+  {
+   "t": "statues,",
+   "s": 80.24,
+   "e": 81.08
+  },
+  {
+   "t": "nobody",
+   "s": 81.36,
+   "e": 81.76
+  },
+  {
+   "t": "gave",
+   "s": 81.8,
+   "e": 82.0
+  },
+  {
+   "t": "it",
+   "s": 82.04,
+   "e": 82.08
+  },
+  {
+   "t": "a",
+   "s": 82.16,
+   "e": 82.2
+  },
+  {
+   "t": "second",
+   "s": 82.24,
+   "e": 82.56
+  },
+  {
+   "t": "look.",
+   "s": 82.64,
+   "e": 83.24
+  },
+  {
+   "t": "Then,",
+   "s": 83.6,
+   "e": 84.0
+  },
+  {
+   "t": "in",
+   "s": 84.16,
+   "e": 84.32
+  },
+  {
+   "t": "May",
+   "s": 84.4,
+   "e": 84.56
+  },
+  {
+   "t": "nineteen",
+   "s": 84.64,
+   "e": 85.04
+  },
+  {
+   "t": "oh",
+   "s": 85.12,
+   "e": 85.2
+  },
+  {
+   "t": "two,",
+   "s": 85.28,
+   "e": 85.76
+  },
+  {
+   "t": "the",
+   "s": 86.0,
+   "e": 86.08
+  },
+  {
+   "t": "archaeologist",
+   "s": 86.16,
+   "e": 86.88
+  },
+  {
+   "t": "Valerios",
+   "s": 86.96,
+   "e": 87.44
+  },
+  {
+   "t": "Stais",
+   "s": 87.52,
+   "e": 87.92
+  },
+  {
+   "t": "noticed",
+   "s": 88.0,
+   "e": 88.4
+  },
+  {
+   "t": "something",
+   "s": 88.48,
+   "e": 88.8
+  },
+  {
+   "t": "in",
+   "s": 88.88,
+   "e": 88.96
+  },
+  {
+   "t": "one",
+   "s": 89.04,
+   "e": 89.12
+  },
+  {
+   "t": "of",
+   "s": 89.16,
+   "e": 89.2
+  },
+  {
+   "t": "the",
+   "s": 89.28,
+   "e": 89.36
+  },
+  {
+   "t": "pieces.",
+   "s": 89.6,
+   "e": 90.32
+  },
+  {
+   "t": "A",
+   "s": 90.8,
+   "e": 90.88
+  },
+  {
+   "t": "gear",
+   "s": 90.96,
+   "e": 91.2
+  },
+  {
+   "t": "wheel.",
+   "s": 91.36,
+   "e": 91.6
+  },
+  {
+   "t": "A",
+   "s": 93.5,
+   "e": 93.74
+  },
+  {
+   "t": "gear,",
+   "s": 93.82,
+   "e": 94.3
+  },
+  {
+   "t": "in",
+   "s": 94.38,
+   "e": 94.46
+  },
+  {
+   "t": "a",
+   "s": 94.54,
+   "e": 94.62
+  },
+  {
+   "t": "ship",
+   "s": 94.7,
+   "e": 94.86
+  },
+  {
+   "t": "that",
+   "s": 94.94,
+   "e": 95.1
+  },
+  {
+   "t": "sank",
+   "s": 95.18,
+   "e": 95.42
+  },
+  {
+   "t": "more",
+   "s": 95.5,
+   "e": 95.58
+  },
+  {
+   "t": "than",
+   "s": 95.66,
+   "e": 95.82
+  },
+  {
+   "t": "two",
+   "s": 95.9,
+   "e": 96.06
+  },
+  {
+   "t": "thousand",
+   "s": 96.1,
+   "e": 96.38
+  },
+  {
+   "t": "years",
+   "s": 96.46,
+   "e": 96.62
+  },
+  {
+   "t": "ago,",
+   "s": 96.7,
+   "e": 97.06
+  },
+  {
+   "t": "made",
+   "s": 97.18,
+   "e": 97.34
+  },
+  {
+   "t": "no",
+   "s": 97.42,
+   "e": 97.58
+  },
+  {
+   "t": "sense.",
+   "s": 97.66,
+   "e": 98.46
+  },
+  {
+   "t": "For",
+   "s": 98.94,
+   "e": 99.02
+  },
+  {
+   "t": "decades,",
+   "s": 99.1,
+   "e": 99.54
+  },
+  {
+   "t": "the",
+   "s": 99.58,
+   "e": 99.66
+  },
+  {
+   "t": "fragments",
+   "s": 99.74,
+   "e": 100.22
+  },
+  {
+   "t": "sat",
+   "s": 100.3,
+   "e": 100.54
+  },
+  {
+   "t": "in",
+   "s": 100.58,
+   "e": 100.62
+  },
+  {
+   "t": "the",
+   "s": 100.7,
+   "e": 100.78
+  },
+  {
+   "t": "museum",
+   "s": 100.82,
+   "e": 101.18
+  },
+  {
+   "t": "in",
+   "s": 101.26,
+   "e": 101.34
+  },
+  {
+   "t": "Athens,",
+   "s": 101.42,
+   "e": 102.02
+  },
+  {
+   "t": "a",
+   "s": 102.3,
+   "e": 102.38
+  },
+  {
+   "t": "puzzle",
+   "s": 102.46,
+   "e": 102.78
+  },
+  {
+   "t": "almost",
+   "s": 102.86,
+   "e": 103.18
+  },
+  {
+   "t": "nobody",
+   "s": 103.26,
+   "e": 103.58
+  },
+  {
+   "t": "could",
+   "s": 103.66,
+   "e": 103.74
+  },
+  {
+   "t": "read.",
+   "s": 103.82,
+   "e": 104.66
+  },
+  {
+   "t": "The",
+   "s": 105.18,
+   "e": 105.26
+  },
+  {
+   "t": "man",
+   "s": 105.34,
+   "e": 105.5
+  },
+  {
+   "t": "who",
+   "s": 105.58,
+   "e": 105.74
+  },
+  {
+   "t": "refused",
+   "s": 105.9,
+   "e": 106.22
+  },
+  {
+   "t": "to",
+   "s": 106.3,
+   "e": 106.38
+  },
+  {
+   "t": "let",
+   "s": 106.46,
+   "e": 106.54
+  },
+  {
+   "t": "it",
+   "s": 106.58,
+   "e": 106.62
+  },
+  {
+   "t": "go",
+   "s": 106.7,
+   "e": 107.02
+  },
+  {
+   "t": "was",
+   "s": 107.1,
+   "e": 107.26
+  },
+  {
+   "t": "the",
+   "s": 107.3,
+   "e": 107.34
+  },
+  {
+   "t": "historian",
+   "s": 107.42,
+   "e": 107.98
+  },
+  {
+   "t": "Derek",
+   "s": 108.06,
+   "e": 108.3
+  },
+  {
+   "t": "de",
+   "s": 108.38,
+   "e": 108.46
+  },
+  {
+   "t": "Solla",
+   "s": 108.54,
+   "e": 108.78
+  },
+  {
+   "t": "Price.",
+   "s": 109.02,
+   "e": 109.74
+  },
+  {
+   "t": "In",
+   "s": 110.22,
+   "e": 110.3
+  },
+  {
+   "t": "the",
+   "s": 110.34,
+   "e": 110.38
+  },
+  {
+   "t": "early",
+   "s": 110.46,
+   "e": 110.7
+  },
+  {
+   "t": "nineteen",
+   "s": 110.78,
+   "e": 111.1
+  },
+  {
+   "t": "seventies,",
+   "s": 111.18,
+   "e": 111.94
+  },
+  {
+   "t": "working",
+   "s": 112.14,
+   "e": 112.46
+  },
+  {
+   "t": "with",
+   "s": 112.5,
+   "e": 112.54
+  },
+  {
+   "t": "the",
+   "s": 112.62,
+   "e": 112.7
+  },
+  {
+   "t": "Greek",
+   "s": 112.82,
+   "e": 112.94
+  },
+  {
+   "t": "physicist",
+   "s": 113.02,
+   "e": 113.74
+  },
+  {
+   "t": "Charalampos",
+   "s": 113.82,
+   "e": 114.46
+  },
+  {
+   "t": "Karakalos,",
+   "s": 114.54,
+   "e": 115.5
+  },
+  {
+   "t": "he",
+   "s": 115.82,
+   "e": 115.98
+  },
+  {
+   "t": "X-rayed",
+   "s": 116.14,
+   "e": 116.42
+  },
+  {
+   "t": "the",
+   "s": 116.46,
+   "e": 116.54
+  },
+  {
+   "t": "fragments,",
+   "s": 116.62,
+   "e": 117.14
+  },
+  {
+   "t": "and",
+   "s": 117.26,
+   "e": 117.34
+  },
+  {
+   "t": "for",
+   "s": 117.38,
+   "e": 117.42
+  },
+  {
+   "t": "the",
+   "s": 117.46,
+   "e": 117.5
+  },
+  {
+   "t": "first",
+   "s": 117.58,
+   "e": 117.82
+  },
+  {
+   "t": "time",
+   "s": 117.9,
+   "e": 118.14
+  },
+  {
+   "t": "people",
+   "s": 118.22,
+   "e": 118.46
+  },
+  {
+   "t": "could",
+   "s": 118.54,
+   "e": 118.62
+  },
+  {
+   "t": "see",
+   "s": 118.7,
+   "e": 118.86
+  },
+  {
+   "t": "gears",
+   "s": 118.94,
+   "e": 119.18
+  },
+  {
+   "t": "inside",
+   "s": 119.26,
+   "e": 119.66
+  },
+  {
+   "t": "the",
+   "s": 119.7,
+   "e": 119.74
+  },
+  {
+   "t": "stone.",
+   "s": 119.82,
+   "e": 120.78
+  },
+  {
+   "t": "Then,",
+   "s": 121.34,
+   "e": 121.86
+  },
+  {
+   "t": "in",
+   "s": 122.06,
+   "e": 122.14
+  },
+  {
+   "t": "two",
+   "s": 122.22,
+   "e": 122.3
+  },
+  {
+   "t": "thousand",
+   "s": 122.38,
+   "e": 122.7
+  },
+  {
+   "t": "and",
+   "s": 122.74,
+   "e": 122.78
+  },
+  {
+   "t": "five,",
+   "s": 122.86,
+   "e": 123.42
+  },
+  {
+   "t": "a",
+   "s": 123.66,
+   "e": 123.74
+  },
+  {
+   "t": "research",
+   "s": 123.82,
+   "e": 124.22
+  },
+  {
+   "t": "team",
+   "s": 124.3,
+   "e": 124.54
+  },
+  {
+   "t": "brought",
+   "s": 124.62,
+   "e": 124.86
+  },
+  {
+   "t": "an",
+   "s": 124.94,
+   "e": 125.02
+  },
+  {
+   "t": "eight-tonne",
+   "s": 125.1,
+   "e": 125.74
+  },
+  {
+   "t": "X-ray",
+   "s": 125.9,
+   "e": 126.14
+  },
+  {
+   "t": "scanner",
+   "s": 126.22,
+   "e": 126.54
+  },
+  {
+   "t": "to",
+   "s": 126.58,
+   "e": 126.62
+  },
+  {
+   "t": "the",
+   "s": 126.7,
+   "e": 126.78
+  },
+  {
+   "t": "museum,",
+   "s": 126.82,
+   "e": 127.46
+  },
+  {
+   "t": "and",
+   "s": 127.66,
+   "e": 127.82
+  },
+  {
+   "t": "sliced",
+   "s": 127.9,
+   "e": 128.22
+  },
+  {
+   "t": "the",
+   "s": 128.26,
+   "e": 128.3
+  },
+  {
+   "t": "fragments",
+   "s": 128.38,
+   "e": 128.78
+  },
+  {
+   "t": "into",
+   "s": 128.86,
+   "e": 129.1
+  },
+  {
+   "t": "thousands",
+   "s": 129.18,
+   "e": 129.58
+  },
+  {
+   "t": "of",
+   "s": 129.66,
+   "e": 129.74
+  },
+  {
+   "t": "virtual",
+   "s": 129.82,
+   "e": 130.22
+  },
+  {
+   "t": "layers.",
+   "s": 130.3,
+   "e": 131.18
+  },
+  {
+   "t": "What",
+   "s": 131.66,
+   "e": 131.82
+  },
+  {
+   "t": "they",
+   "s": 131.9,
+   "e": 131.98
+  },
+  {
+   "t": "found",
+   "s": 132.06,
+   "e": 132.3
+  },
+  {
+   "t": "was",
+   "s": 132.38,
+   "e": 132.46
+  },
+  {
+   "t": "astonishing.",
+   "s": 132.54,
+   "e": 133.66
+  },
+  {
+   "t": "Thirty",
+   "s": 134.06,
+   "e": 134.38
+  },
+  {
+   "t": "surviving",
+   "s": 134.46,
+   "e": 134.94
+  },
+  {
+   "t": "gears,",
+   "s": 135.02,
+   "e": 135.54
+  },
+  {
+   "t": "cut",
+   "s": 135.74,
+   "e": 135.9
+  },
+  {
+   "t": "by",
+   "s": 135.98,
+   "e": 136.06
+  },
+  {
+   "t": "hand",
+   "s": 136.14,
+   "e": 136.46
+  },
+  {
+   "t": "from",
+   "s": 136.54,
+   "e": 136.62
+  },
+  {
+   "t": "sheet",
+   "s": 136.7,
+   "e": 136.94
+  },
+  {
+   "t": "bronze,",
+   "s": 137.02,
+   "e": 137.58
+  },
+  {
+   "t": "with",
+   "s": 137.82,
+   "e": 137.9
+  },
+  {
+   "t": "triangular",
+   "s": 137.98,
+   "e": 138.54
+  },
+  {
+   "t": "teeth.",
+   "s": 138.62,
+   "e": 139.34
+  },
+  {
+   "t": "And",
+   "s": 139.74,
+   "e": 139.82
+  },
+  {
+   "t": "on",
+   "s": 139.9,
+   "e": 139.98
+  },
+  {
+   "t": "the",
+   "s": 140.02,
+   "e": 140.06
+  },
+  {
+   "t": "surfaces,",
+   "s": 140.14,
+   "e": 140.98
+  },
+  {
+   "t": "thousands",
+   "s": 141.18,
+   "e": 141.58
+  },
+  {
+   "t": "of",
+   "s": 141.66,
+   "e": 141.74
+  },
+  {
+   "t": "tiny",
+   "s": 141.82,
+   "e": 142.14
+  },
+  {
+   "t": "Greek",
+   "s": 142.22,
+   "e": 142.46
+  },
+  {
+   "t": "letters.",
+   "s": 142.7,
+   "e": 143.42
+  },
+  {
+   "t": "The",
+   "s": 143.9,
+   "e": 143.98
+  },
+  {
+   "t": "machine",
+   "s": 144.06,
+   "e": 144.46
+  },
+  {
+   "t": "had",
+   "s": 144.54,
+   "e": 144.62
+  },
+  {
+   "t": "come",
+   "s": 144.7,
+   "e": 144.86
+  },
+  {
+   "t": "with",
+   "s": 144.94,
+   "e": 145.02
+  },
+  {
+   "t": "its",
+   "s": 145.1,
+   "e": 145.18
+  },
+  {
+   "t": "own",
+   "s": 145.26,
+   "e": 145.34
+  },
+  {
+   "t": "instruction",
+   "s": 145.42,
+   "e": 145.98
+  },
+  {
+   "t": "manual.",
+   "s": 146.06,
+   "e": 146.46
+  },
+  {
+   "t": "So,",
+   "s": 149.26,
+   "e": 149.54
+  },
+  {
+   "t": "how",
+   "s": 149.58,
+   "e": 149.66
+  },
+  {
+   "t": "did",
+   "s": 149.74,
+   "e": 149.82
+  },
+  {
+   "t": "it",
+   "s": 149.9,
+   "e": 149.98
+  },
+  {
+   "t": "work?",
+   "s": 150.06,
+   "e": 150.9
+  },
+  {
+   "t": "Picture",
+   "s": 151.5,
+   "e": 151.74
+  },
+  {
+   "t": "a",
+   "s": 151.82,
+   "e": 151.9
+  },
+  {
+   "t": "wooden",
+   "s": 151.98,
+   "e": 152.22
+  },
+  {
+   "t": "case,",
+   "s": 152.3,
+   "e": 152.78
+  },
+  {
+   "t": "about",
+   "s": 152.94,
+   "e": 153.1
+  },
+  {
+   "t": "the",
+   "s": 153.18,
+   "e": 153.26
+  },
+  {
+   "t": "size",
+   "s": 153.38,
+   "e": 153.5
+  },
+  {
+   "t": "of",
+   "s": 153.58,
+   "e": 153.66
+  },
+  {
+   "t": "a",
+   "s": 153.7,
+   "e": 153.74
+  },
+  {
+   "t": "shoebox,",
+   "s": 153.82,
+   "e": 154.327
+  },
+  {
+   "t": "with",
+   "s": 154.353,
+   "e": 154.38
+  },
+  {
+   "t": "a",
+   "s": 154.46,
+   "e": 154.5
+  },
+  {
+   "t": "handle",
+   "s": 154.54,
+   "e": 154.86
+  },
+  {
+   "t": "on",
+   "s": 154.9,
+   "e": 154.94
+  },
+  {
+   "t": "the",
+   "s": 155.02,
+   "e": 155.1
+  },
+  {
+   "t": "side.",
+   "s": 155.18,
+   "e": 156.02
+  },
+  {
+   "t": "Turn",
+   "s": 156.54,
+   "e": 156.7
+  },
+  {
+   "t": "the",
+   "s": 156.74,
+   "e": 156.78
+  },
+  {
+   "t": "handle,",
+   "s": 156.86,
+   "e": 157.22
+  },
+  {
+   "t": "and",
+   "s": 157.26,
+   "e": 157.34
+  },
+  {
+   "t": "a",
+   "s": 157.38,
+   "e": 157.42
+  },
+  {
+   "t": "small",
+   "s": 157.5,
+   "e": 157.82
+  },
+  {
+   "t": "crown",
+   "s": 157.9,
+   "e": 158.22
+  },
+  {
+   "t": "gear",
+   "s": 158.3,
+   "e": 158.54
+  },
+  {
+   "t": "drives",
+   "s": 158.62,
+   "e": 158.94
+  },
+  {
+   "t": "the",
+   "s": 159.02,
+   "e": 159.1
+  },
+  {
+   "t": "biggest",
+   "s": 159.18,
+   "e": 159.5
+  },
+  {
+   "t": "wheel",
+   "s": 159.62,
+   "e": 159.74
+  },
+  {
+   "t": "inside,",
+   "s": 159.82,
+   "e": 160.66
+  },
+  {
+   "t": "a",
+   "s": 161.02,
+   "e": 161.1
+  },
+  {
+   "t": "wheel",
+   "s": 161.22,
+   "e": 161.34
+  },
+  {
+   "t": "with",
+   "s": 161.42,
+   "e": 161.58
+  },
+  {
+   "t": "two",
+   "s": 161.66,
+   "e": 161.74
+  },
+  {
+   "t": "hundred",
+   "s": 161.82,
+   "e": 162.06
+  },
+  {
+   "t": "and",
+   "s": 162.14,
+   "e": 162.22
+  },
+  {
+   "t": "twenty-three",
+   "s": 162.3,
+   "e": 162.86
+  },
+  {
+   "t": "teeth.",
+   "s": 163.02,
+   "e": 163.9
+  },
+  {
+   "t": "One",
+   "s": 164.38,
+   "e": 164.54
+  },
+  {
+   "t": "full",
+   "s": 164.62,
+   "e": 164.86
+  },
+  {
+   "t": "turn",
+   "s": 164.94,
+   "e": 165.1
+  },
+  {
+   "t": "of",
+   "s": 165.18,
+   "e": 165.26
+  },
+  {
+   "t": "that",
+   "s": 165.34,
+   "e": 165.42
+  },
+  {
+   "t": "wheel",
+   "s": 165.5,
+   "e": 165.74
+  },
+  {
+   "t": "is",
+   "s": 165.82,
+   "e": 165.9
+  },
+  {
+   "t": "one",
+   "s": 165.98,
+   "e": 166.14
+  },
+  {
+   "t": "year.",
+   "s": 166.22,
+   "e": 167.06
+  },
+  {
+   "t": "On",
+   "s": 167.66,
+   "e": 167.74
+  },
+  {
+   "t": "the",
+   "s": 167.82,
+   "e": 167.9
+  },
+  {
+   "t": "front,",
+   "s": 167.98,
+   "e": 168.26
+  },
+  {
+   "t": "a",
+   "s": 168.3,
+   "e": 168.38
+  },
+  {
+   "t": "pointer",
+   "s": 168.46,
+   "e": 168.86
+  },
+  {
+   "t": "carries",
+   "s": 168.94,
+   "e": 169.26
+  },
+  {
+   "t": "the",
+   "s": 169.34,
+   "e": 169.42
+  },
+  {
+   "t": "Sun",
+   "s": 169.5,
+   "e": 169.66
+  },
+  {
+   "t": "around",
+   "s": 169.74,
+   "e": 169.98
+  },
+  {
+   "t": "a",
+   "s": 170.02,
+   "e": 170.06
+  },
+  {
+   "t": "ring",
+   "s": 170.14,
+   "e": 170.3
+  },
+  {
+   "t": "of",
+   "s": 170.34,
+   "e": 170.38
+  },
+  {
+   "t": "the",
+   "s": 170.46,
+   "e": 170.54
+  },
+  {
+   "t": "zodiac,",
+   "s": 170.62,
+   "e": 171.38
+  },
+  {
+   "t": "and",
+   "s": 171.66,
+   "e": 171.74
+  },
+  {
+   "t": "around",
+   "s": 171.82,
+   "e": 172.06
+  },
+  {
+   "t": "that,",
+   "s": 172.14,
+   "e": 172.42
+  },
+  {
+   "t": "a",
+   "s": 172.46,
+   "e": 172.54
+  },
+  {
+   "t": "ring",
+   "s": 172.62,
+   "e": 172.86
+  },
+  {
+   "t": "for",
+   "s": 172.94,
+   "e": 173.02
+  },
+  {
+   "t": "the",
+   "s": 173.06,
+   "e": 173.1
+  },
+  {
+   "t": "months",
+   "s": 173.18,
+   "e": 173.42
+  },
+  {
+   "t": "of",
+   "s": 173.5,
+   "e": 173.58
+  },
+  {
+   "t": "the",
+   "s": 173.62,
+   "e": 173.66
+  },
+  {
+   "t": "Egyptian",
+   "s": 173.82,
+   "e": 174.14
+  },
+  {
+   "t": "calendar.",
+   "s": 174.22,
+   "e": 175.18
+  },
+  {
+   "t": "A",
+   "s": 175.66,
+   "e": 175.74
+  },
+  {
+   "t": "second",
+   "s": 175.82,
+   "e": 176.06
+  },
+  {
+   "t": "pointer",
+   "s": 176.14,
+   "e": 176.46
+  },
+  {
+   "t": "carries",
+   "s": 176.54,
+   "e": 176.86
+  },
+  {
+   "t": "the",
+   "s": 176.9,
+   "e": 176.94
+  },
+  {
+   "t": "Moon.",
+   "s": 177.02,
+   "e": 177.74
+  },
+  {
+   "t": "But",
+   "s": 178.14,
+   "e": 178.22
+  },
+  {
+   "t": "the",
+   "s": 178.3,
+   "e": 178.38
+  },
+  {
+   "t": "Moon",
+   "s": 178.5,
+   "e": 178.62
+  },
+  {
+   "t": "goes",
+   "s": 178.7,
+   "e": 178.86
+  },
+  {
+   "t": "round",
+   "s": 178.98,
+   "e": 179.1
+  },
+  {
+   "t": "the",
+   "s": 179.14,
+   "e": 179.18
+  },
+  {
+   "t": "sky",
+   "s": 179.26,
+   "e": 179.5
+  },
+  {
+   "t": "more",
+   "s": 179.58,
+   "e": 179.66
+  },
+  {
+   "t": "than",
+   "s": 179.74,
+   "e": 179.9
+  },
+  {
+   "t": "thirteen",
+   "s": 179.98,
+   "e": 180.46
+  },
+  {
+   "t": "times",
+   "s": 180.54,
+   "e": 180.78
+  },
+  {
+   "t": "a",
+   "s": 180.86,
+   "e": 180.9
+  },
+  {
+   "t": "year,",
+   "s": 180.94,
+   "e": 181.14
+  },
+  {
+   "t": "so",
+   "s": 181.18,
+   "e": 181.34
+  },
+  {
+   "t": "the",
+   "s": 181.42,
+   "e": 181.5
+  },
+  {
+   "t": "gears",
+   "s": 181.58,
+   "e": 181.82
+  },
+  {
+   "t": "have",
+   "s": 181.9,
+   "e": 182.06
+  },
+  {
+   "t": "to",
+   "s": 182.1,
+   "e": 182.14
+  },
+  {
+   "t": "speed",
+   "s": 182.3,
+   "e": 182.46
+  },
+  {
+   "t": "it",
+   "s": 182.54,
+   "e": 182.62
+  },
+  {
+   "t": "up,",
+   "s": 182.7,
+   "e": 183.14
+  },
+  {
+   "t": "and",
+   "s": 183.42,
+   "e": 183.5
+  },
+  {
+   "t": "by",
+   "s": 183.58,
+   "e": 183.66
+  },
+  {
+   "t": "exactly",
+   "s": 183.74,
+   "e": 184.22
+  },
+  {
+   "t": "the",
+   "s": 184.26,
+   "e": 184.3
+  },
+  {
+   "t": "right",
+   "s": 184.38,
+   "e": 184.62
+  },
+  {
+   "t": "amount.",
+   "s": 184.86,
+   "e": 185.58
+  },
+  {
+   "t": "The",
+   "s": 186.06,
+   "e": 186.14
+  },
+  {
+   "t": "Greeks",
+   "s": 186.22,
+   "e": 186.54
+  },
+  {
+   "t": "knew",
+   "s": 186.58,
+   "e": 186.7
+  },
+  {
+   "t": "that",
+   "s": 186.78,
+   "e": 186.86
+  },
+  {
+   "t": "the",
+   "s": 186.94,
+   "e": 187.02
+  },
+  {
+   "t": "Moon",
+   "s": 187.1,
+   "e": 187.34
+  },
+  {
+   "t": "makes",
+   "s": 187.46,
+   "e": 187.58
+  },
+  {
+   "t": "two",
+   "s": 187.66,
+   "e": 187.74
+  },
+  {
+   "t": "hundred",
+   "s": 187.82,
+   "e": 188.06
+  },
+  {
+   "t": "and",
+   "s": 188.14,
+   "e": 188.22
+  },
+  {
+   "t": "fifty-four",
+   "s": 188.3,
+   "e": 188.78
+  },
+  {
+   "t": "trips",
+   "s": 188.86,
+   "e": 189.18
+  },
+  {
+   "t": "around",
+   "s": 189.26,
+   "e": 189.5
+  },
+  {
+   "t": "the",
+   "s": 189.54,
+   "e": 189.58
+  },
+  {
+   "t": "zodiac",
+   "s": 189.66,
+   "e": 190.06
+  },
+  {
+   "t": "every",
+   "s": 190.14,
+   "e": 190.38
+  },
+  {
+   "t": "nineteen",
+   "s": 190.46,
+   "e": 190.86
+  },
+  {
+   "t": "years.",
+   "s": 190.94,
+   "e": 191.62
+  },
+  {
+   "t": "So",
+   "s": 191.98,
+   "e": 192.06
+  },
+  {
+   "t": "the",
+   "s": 192.14,
+   "e": 192.22
+  },
+  {
+   "t": "gearing",
+   "s": 192.3,
+   "e": 192.62
+  },
+  {
+   "t": "needs",
+   "s": 192.7,
+   "e": 192.86
+  },
+  {
+   "t": "a",
+   "s": 192.94,
+   "e": 192.98
+  },
+  {
+   "t": "ratio",
+   "s": 193.02,
+   "e": 193.34
+  },
+  {
+   "t": "of",
+   "s": 193.42,
+   "e": 193.5
+  },
+  {
+   "t": "two",
+   "s": 193.58,
+   "e": 193.66
+  },
+  {
+   "t": "hundred",
+   "s": 193.74,
+   "e": 193.98
+  },
+  {
+   "t": "and",
+   "s": 194.033,
+   "e": 194.087
+  },
+  {
+   "t": "fifty-four,",
+   "s": 194.14,
+   "e": 194.94
+  },
+  {
+   "t": "to",
+   "s": 195.02,
+   "e": 195.1
+  },
+  {
+   "t": "nineteen.",
+   "s": 195.18,
+   "e": 196.3
+  },
+  {
+   "t": "Here",
+   "s": 196.86,
+   "e": 197.02
+  },
+  {
+   "t": "is",
+   "s": 197.06,
+   "e": 197.1
+  },
+  {
+   "t": "how",
+   "s": 197.18,
+   "e": 197.26
+  },
+  {
+   "t": "they",
+   "s": 197.34,
+   "e": 197.42
+  },
+  {
+   "t": "built",
+   "s": 197.5,
+   "e": 197.74
+  },
+  {
+   "t": "it.",
+   "s": 197.82,
+   "e": 198.38
+  },
+  {
+   "t": "Sixty-four",
+   "s": 198.78,
+   "e": 199.26
+  },
+  {
+   "t": "teeth,",
+   "s": 199.42,
+   "e": 199.7
+  },
+  {
+   "t": "driving",
+   "s": 199.74,
+   "e": 200.14
+  },
+  {
+   "t": "thirty-eight.",
+   "s": 200.18,
+   "e": 201.14
+  },
+  {
+   "t": "Forty-eight,",
+   "s": 201.5,
+   "e": 202.14
+  },
+  {
+   "t": "driving",
+   "s": 202.22,
+   "e": 202.54
+  },
+  {
+   "t": "twenty-four.",
+   "s": 202.62,
+   "e": 203.66
+  },
+  {
+   "t": "A",
+   "s": 203.98,
+   "e": 204.02
+  },
+  {
+   "t": "hundred",
+   "s": 204.06,
+   "e": 204.3
+  },
+  {
+   "t": "and",
+   "s": 204.34,
+   "e": 204.38
+  },
+  {
+   "t": "twenty-seven,",
+   "s": 204.46,
+   "e": 205.22
+  },
+  {
+   "t": "driving",
+   "s": 205.26,
+   "e": 205.58
+  },
+  {
+   "t": "thirty-two.",
+   "s": 205.66,
+   "e": 206.7
+  },
+  {
+   "t": "Multiply",
+   "s": 207.1,
+   "e": 207.5
+  },
+  {
+   "t": "them",
+   "s": 207.58,
+   "e": 207.74
+  },
+  {
+   "t": "together,",
+   "s": 207.82,
+   "e": 208.3
+  },
+  {
+   "t": "and",
+   "s": 208.46,
+   "e": 208.54
+  },
+  {
+   "t": "you",
+   "s": 208.62,
+   "e": 208.7
+  },
+  {
+   "t": "get",
+   "s": 208.82,
+   "e": 208.94
+  },
+  {
+   "t": "two",
+   "s": 209.02,
+   "e": 209.1
+  },
+  {
+   "t": "hundred",
+   "s": 209.14,
+   "e": 209.34
+  },
+  {
+   "t": "and",
+   "s": 209.42,
+   "e": 209.5
+  },
+  {
+   "t": "fifty-four",
+   "s": 209.58,
+   "e": 210.22
+  },
+  {
+   "t": "over",
+   "s": 210.46,
+   "e": 210.7
+  },
+  {
+   "t": "nineteen.",
+   "s": 210.78,
+   "e": 211.58
+  },
+  {
+   "t": "Exactly.",
+   "s": 211.9,
+   "e": 212.46
+  },
+  {
+   "t": "But",
+   "s": 216.96,
+   "e": 217.2
+  },
+  {
+   "t": "the",
+   "s": 217.24,
+   "e": 217.28
+  },
+  {
+   "t": "Moon",
+   "s": 217.36,
+   "e": 217.52
+  },
+  {
+   "t": "has",
+   "s": 217.6,
+   "e": 217.68
+  },
+  {
+   "t": "another",
+   "s": 217.76,
+   "e": 218.08
+  },
+  {
+   "t": "trick.",
+   "s": 218.16,
+   "e": 218.96
+  },
+  {
+   "t": "It",
+   "s": 219.44,
+   "e": 219.52
+  },
+  {
+   "t": "doesn't",
+   "s": 219.6,
+   "e": 219.92
+  },
+  {
+   "t": "cross",
+   "s": 220.0,
+   "e": 220.24
+  },
+  {
+   "t": "the",
+   "s": 220.32,
+   "e": 220.4
+  },
+  {
+   "t": "sky",
+   "s": 220.48,
+   "e": 220.72
+  },
+  {
+   "t": "at",
+   "s": 220.76,
+   "e": 220.8
+  },
+  {
+   "t": "a",
+   "s": 220.88,
+   "e": 220.92
+  },
+  {
+   "t": "steady",
+   "s": 220.96,
+   "e": 221.28
+  },
+  {
+   "t": "speed.",
+   "s": 221.36,
+   "e": 222.2
+  },
+  {
+   "t": "We",
+   "s": 222.64,
+   "e": 222.8
+  },
+  {
+   "t": "now",
+   "s": 222.88,
+   "e": 223.04
+  },
+  {
+   "t": "know",
+   "s": 223.12,
+   "e": 223.28
+  },
+  {
+   "t": "its",
+   "s": 223.36,
+   "e": 223.44
+  },
+  {
+   "t": "orbit",
+   "s": 223.52,
+   "e": 223.76
+  },
+  {
+   "t": "is",
+   "s": 223.84,
+   "e": 223.92
+  },
+  {
+   "t": "an",
+   "s": 223.96,
+   "e": 224.0
+  },
+  {
+   "t": "ellipse,",
+   "s": 224.08,
+   "e": 224.72
+  },
+  {
+   "t": "so",
+   "s": 224.96,
+   "e": 225.04
+  },
+  {
+   "t": "it",
+   "s": 225.08,
+   "e": 225.12
+  },
+  {
+   "t": "speeds",
+   "s": 225.36,
+   "e": 225.68
+  },
+  {
+   "t": "up",
+   "s": 225.76,
+   "e": 225.84
+  },
+  {
+   "t": "when",
+   "s": 225.92,
+   "e": 226.0
+  },
+  {
+   "t": "it's",
+   "s": 226.04,
+   "e": 226.16
+  },
+  {
+   "t": "closer",
+   "s": 226.24,
+   "e": 226.56
+  },
+  {
+   "t": "to",
+   "s": 226.64,
+   "e": 226.72
+  },
+  {
+   "t": "us,",
+   "s": 226.8,
+   "e": 227.04
+  },
+  {
+   "t": "and",
+   "s": 227.12,
+   "e": 227.28
+  },
+  {
+   "t": "slows",
+   "s": 227.36,
+   "e": 227.68
+  },
+  {
+   "t": "down",
+   "s": 227.8,
+   "e": 227.92
+  },
+  {
+   "t": "when",
+   "s": 228.0,
+   "e": 228.08
+  },
+  {
+   "t": "it's",
+   "s": 228.12,
+   "e": 228.24
+  },
+  {
+   "t": "further",
+   "s": 228.28,
+   "e": 228.56
+  },
+  {
+   "t": "away.",
+   "s": 228.64,
+   "e": 229.48
+  },
+  {
+   "t": "The",
+   "s": 230.0,
+   "e": 230.08
+  },
+  {
+   "t": "Greek",
+   "s": 230.2,
+   "e": 230.32
+  },
+  {
+   "t": "astronomer",
+   "s": 230.4,
+   "e": 230.88
+  },
+  {
+   "t": "Hipparchus",
+   "s": 230.96,
+   "e": 231.52
+  },
+  {
+   "t": "had",
+   "s": 231.6,
+   "e": 231.68
+  },
+  {
+   "t": "built",
+   "s": 231.8,
+   "e": 231.92
+  },
+  {
+   "t": "a",
+   "s": 232.0,
+   "e": 232.08
+  },
+  {
+   "t": "theory",
+   "s": 232.16,
+   "e": 232.48
+  },
+  {
+   "t": "to",
+   "s": 232.56,
+   "e": 232.64
+  },
+  {
+   "t": "explain",
+   "s": 232.88,
+   "e": 233.12
+  },
+  {
+   "t": "that",
+   "s": 233.2,
+   "e": 233.36
+  },
+  {
+   "t": "unevenness,",
+   "s": 233.44,
+   "e": 234.32
+  },
+  {
+   "t": "and",
+   "s": 234.56,
+   "e": 234.72
+  },
+  {
+   "t": "somebody",
+   "s": 234.8,
+   "e": 235.2
+  },
+  {
+   "t": "turned",
+   "s": 235.28,
+   "e": 235.44
+  },
+  {
+   "t": "that",
+   "s": 235.52,
+   "e": 235.68
+  },
+  {
+   "t": "theory",
+   "s": 235.76,
+   "e": 236.0
+  },
+  {
+   "t": "into",
+   "s": 236.08,
+   "e": 236.24
+  },
+  {
+   "t": "bronze.",
+   "s": 236.32,
+   "e": 237.4
+  },
+  {
+   "t": "Two",
+   "s": 238.0,
+   "e": 238.16
+  },
+  {
+   "t": "identical",
+   "s": 238.24,
+   "e": 238.88
+  },
+  {
+   "t": "gears",
+   "s": 238.96,
+   "e": 239.2
+  },
+  {
+   "t": "sit",
+   "s": 239.28,
+   "e": 239.44
+  },
+  {
+   "t": "face",
+   "s": 239.52,
+   "e": 239.76
+  },
+  {
+   "t": "to",
+   "s": 239.8,
+   "e": 239.84
+  },
+  {
+   "t": "face,",
+   "s": 239.92,
+   "e": 240.28
+  },
+  {
+   "t": "on",
+   "s": 240.32,
+   "e": 240.48
+  },
+  {
+   "t": "slightly",
+   "s": 240.56,
+   "e": 240.96
+  },
+  {
+   "t": "different",
+   "s": 241.04,
+   "e": 241.36
+  },
+  {
+   "t": "centres.",
+   "s": 241.52,
+   "e": 242.32
+  },
+  {
+   "t": "A",
+   "s": 242.72,
+   "e": 242.8
+  },
+  {
+   "t": "small",
+   "s": 242.88,
+   "e": 243.2
+  },
+  {
+   "t": "pin",
+   "s": 243.28,
+   "e": 243.44
+  },
+  {
+   "t": "on",
+   "s": 243.52,
+   "e": 243.6
+  },
+  {
+   "t": "one",
+   "s": 243.68,
+   "e": 243.84
+  },
+  {
+   "t": "rides",
+   "s": 243.92,
+   "e": 244.16
+  },
+  {
+   "t": "in",
+   "s": 244.2,
+   "e": 244.24
+  },
+  {
+   "t": "a",
+   "s": 244.32,
+   "e": 244.4
+  },
+  {
+   "t": "slot",
+   "s": 244.48,
+   "e": 244.8
+  },
+  {
+   "t": "cut",
+   "s": 244.88,
+   "e": 245.04
+  },
+  {
+   "t": "into",
+   "s": 245.12,
+   "e": 245.28
+  },
+  {
+   "t": "the",
+   "s": 245.36,
+   "e": 245.4
+  },
+  {
+   "t": "other.",
+   "s": 245.44,
+   "e": 246.16
+  },
+  {
+   "t": "As",
+   "s": 246.64,
+   "e": 246.72
+  },
+  {
+   "t": "they",
+   "s": 246.8,
+   "e": 246.96
+  },
+  {
+   "t": "turn,",
+   "s": 247.04,
+   "e": 247.32
+  },
+  {
+   "t": "the",
+   "s": 247.36,
+   "e": 247.44
+  },
+  {
+   "t": "pin",
+   "s": 247.52,
+   "e": 247.76
+  },
+  {
+   "t": "slides",
+   "s": 247.84,
+   "e": 248.08
+  },
+  {
+   "t": "in",
+   "s": 248.16,
+   "e": 248.24
+  },
+  {
+   "t": "and",
+   "s": 248.32,
+   "e": 248.4
+  },
+  {
+   "t": "out",
+   "s": 248.48,
+   "e": 248.64
+  },
+  {
+   "t": "along",
+   "s": 248.72,
+   "e": 248.96
+  },
+  {
+   "t": "the",
+   "s": 249.0,
+   "e": 249.04
+  },
+  {
+   "t": "slot,",
+   "s": 249.12,
+   "e": 249.68
+  },
+  {
+   "t": "so",
+   "s": 249.92,
+   "e": 250.0
+  },
+  {
+   "t": "the",
+   "s": 250.08,
+   "e": 250.16
+  },
+  {
+   "t": "second",
+   "s": 250.24,
+   "e": 250.56
+  },
+  {
+   "t": "gear",
+   "s": 250.64,
+   "e": 250.72
+  },
+  {
+   "t": "is",
+   "s": 250.8,
+   "e": 250.88
+  },
+  {
+   "t": "pushed",
+   "s": 250.96,
+   "e": 251.2
+  },
+  {
+   "t": "a",
+   "s": 251.24,
+   "e": 251.28
+  },
+  {
+   "t": "little",
+   "s": 251.4,
+   "e": 251.52
+  },
+  {
+   "t": "ahead,",
+   "s": 251.72,
+   "e": 252.08
+  },
+  {
+   "t": "then",
+   "s": 252.24,
+   "e": 252.4
+  },
+  {
+   "t": "held",
+   "s": 252.48,
+   "e": 252.72
+  },
+  {
+   "t": "a",
+   "s": 252.76,
+   "e": 252.8
+  },
+  {
+   "t": "little",
+   "s": 252.92,
+   "e": 253.04
+  },
+  {
+   "t": "back.",
+   "s": 253.12,
+   "e": 253.8
+  },
+  {
+   "t": "Faster,",
+   "s": 254.16,
+   "e": 254.72
+  },
+  {
+   "t": "then",
+   "s": 254.88,
+   "e": 255.04
+  },
+  {
+   "t": "slower,",
+   "s": 255.12,
+   "e": 255.84
+  },
+  {
+   "t": "once",
+   "s": 256.16,
+   "e": 256.4
+  },
+  {
+   "t": "every",
+   "s": 256.48,
+   "e": 256.64
+  },
+  {
+   "t": "lunar",
+   "s": 256.72,
+   "e": 256.96
+  },
+  {
+   "t": "month.",
+   "s": 257.04,
+   "e": 257.68
+  },
+  {
+   "t": "And",
+   "s": 258.0,
+   "e": 258.08
+  },
+  {
+   "t": "because",
+   "s": 258.24,
+   "e": 258.4
+  },
+  {
+   "t": "the",
+   "s": 258.44,
+   "e": 258.48
+  },
+  {
+   "t": "Moon's",
+   "s": 258.56,
+   "e": 258.8
+  },
+  {
+   "t": "orbit",
+   "s": 258.88,
+   "e": 259.12
+  },
+  {
+   "t": "itself",
+   "s": 259.2,
+   "e": 259.6
+  },
+  {
+   "t": "slowly",
+   "s": 259.68,
+   "e": 260.08
+  },
+  {
+   "t": "swings",
+   "s": 260.16,
+   "e": 260.4
+  },
+  {
+   "t": "round,",
+   "s": 260.48,
+   "e": 261.04
+  },
+  {
+   "t": "this",
+   "s": 261.28,
+   "e": 261.44
+  },
+  {
+   "t": "whole",
+   "s": 261.6,
+   "e": 261.76
+  },
+  {
+   "t": "pair",
+   "s": 261.84,
+   "e": 262.16
+  },
+  {
+   "t": "sits",
+   "s": 262.24,
+   "e": 262.4
+  },
+  {
+   "t": "on",
+   "s": 262.48,
+   "e": 262.64
+  },
+  {
+   "t": "top",
+   "s": 262.72,
+   "e": 262.88
+  },
+  {
+   "t": "of",
+   "s": 262.92,
+   "e": 262.96
+  },
+  {
+   "t": "another",
+   "s": 263.04,
+   "e": 263.36
+  },
+  {
+   "t": "rotating",
+   "s": 263.44,
+   "e": 264.0
+  },
+  {
+   "t": "gear",
+   "s": 264.12,
+   "e": 264.24
+  },
+  {
+   "t": "that",
+   "s": 264.32,
+   "e": 264.4
+  },
+  {
+   "t": "carries",
+   "s": 264.48,
+   "e": 264.72
+  },
+  {
+   "t": "it",
+   "s": 264.8,
+   "e": 264.88
+  },
+  {
+   "t": "all",
+   "s": 264.96,
+   "e": 265.12
+  },
+  {
+   "t": "the",
+   "s": 265.2,
+   "e": 265.24
+  },
+  {
+   "t": "way",
+   "s": 265.28,
+   "e": 265.44
+  },
+  {
+   "t": "round",
+   "s": 265.52,
+   "e": 265.76
+  },
+  {
+   "t": "once",
+   "s": 265.84,
+   "e": 266.08
+  },
+  {
+   "t": "every",
+   "s": 266.16,
+   "e": 266.4
+  },
+  {
+   "t": "eight",
+   "s": 266.48,
+   "e": 266.72
+  },
+  {
+   "t": "point",
+   "s": 266.8,
+   "e": 266.88
+  },
+  {
+   "t": "eight",
+   "s": 267.04,
+   "e": 267.2
+  },
+  {
+   "t": "eight",
+   "s": 267.28,
+   "e": 267.44
+  },
+  {
+   "t": "years.",
+   "s": 267.52,
+   "e": 268.36
+  },
+  {
+   "t": "A",
+   "s": 268.88,
+   "e": 268.96
+  },
+  {
+   "t": "variable-speed",
+   "s": 269.04,
+   "e": 269.92
+  },
+  {
+   "t": "gear",
+   "s": 270.0,
+   "e": 270.24
+  },
+  {
+   "t": "train,",
+   "s": 270.32,
+   "e": 270.8
+  },
+  {
+   "t": "riding",
+   "s": 271.04,
+   "e": 271.44
+  },
+  {
+   "t": "on",
+   "s": 271.48,
+   "e": 271.52
+  },
+  {
+   "t": "a",
+   "s": 271.56,
+   "e": 271.6
+  },
+  {
+   "t": "moving",
+   "s": 271.68,
+   "e": 272.0
+  },
+  {
+   "t": "platform.",
+   "s": 272.08,
+   "e": 272.88
+  },
+  {
+   "t": "More",
+   "s": 273.2,
+   "e": 273.36
+  },
+  {
+   "t": "than",
+   "s": 273.44,
+   "e": 273.6
+  },
+  {
+   "t": "two",
+   "s": 273.68,
+   "e": 273.92
+  },
+  {
+   "t": "thousand",
+   "s": 274.0,
+   "e": 274.4
+  },
+  {
+   "t": "years",
+   "s": 274.48,
+   "e": 274.64
+  },
+  {
+   "t": "ago.",
+   "s": 274.72,
+   "e": 274.96
+  },
+  {
+   "t": "Now",
+   "s": 278.96,
+   "e": 279.2
+  },
+  {
+   "t": "turn",
+   "s": 279.28,
+   "e": 279.44
+  },
+  {
+   "t": "the",
+   "s": 279.52,
+   "e": 279.6
+  },
+  {
+   "t": "box",
+   "s": 279.72,
+   "e": 279.84
+  },
+  {
+   "t": "around.",
+   "s": 279.92,
+   "e": 280.68
+  },
+  {
+   "t": "The",
+   "s": 280.96,
+   "e": 281.04
+  },
+  {
+   "t": "back",
+   "s": 281.12,
+   "e": 281.36
+  },
+  {
+   "t": "is",
+   "s": 281.44,
+   "e": 281.52
+  },
+  {
+   "t": "covered",
+   "s": 281.6,
+   "e": 281.92
+  },
+  {
+   "t": "by",
+   "s": 282.04,
+   "e": 282.16
+  },
+  {
+   "t": "two",
+   "s": 282.24,
+   "e": 282.4
+  },
+  {
+   "t": "great",
+   "s": 282.48,
+   "e": 282.72
+  },
+  {
+   "t": "spirals.",
+   "s": 282.8,
+   "e": 283.76
+  },
+  {
+   "t": "The",
+   "s": 284.16,
+   "e": 284.32
+  },
+  {
+   "t": "upper",
+   "s": 284.4,
+   "e": 284.56
+  },
+  {
+   "t": "one",
+   "s": 284.64,
+   "e": 284.8
+  },
+  {
+   "t": "is",
+   "s": 284.84,
+   "e": 284.88
+  },
+  {
+   "t": "a",
+   "s": 284.96,
+   "e": 285.04
+  },
+  {
+   "t": "calendar",
+   "s": 285.12,
+   "e": 285.52
+  },
+  {
+   "t": "of",
+   "s": 285.6,
+   "e": 285.68
+  },
+  {
+   "t": "two",
+   "s": 285.76,
+   "e": 285.84
+  },
+  {
+   "t": "hundred",
+   "s": 285.92,
+   "e": 286.16
+  },
+  {
+   "t": "and",
+   "s": 286.2,
+   "e": 286.24
+  },
+  {
+   "t": "thirty-five",
+   "s": 286.32,
+   "e": 286.88
+  },
+  {
+   "t": "months,",
+   "s": 286.96,
+   "e": 287.6
+  },
+  {
+   "t": "laid",
+   "s": 287.92,
+   "e": 288.08
+  },
+  {
+   "t": "out",
+   "s": 288.16,
+   "e": 288.32
+  },
+  {
+   "t": "over",
+   "s": 288.4,
+   "e": 288.64
+  },
+  {
+   "t": "five",
+   "s": 288.72,
+   "e": 288.96
+  },
+  {
+   "t": "turns.",
+   "s": 289.04,
+   "e": 289.92
+  },
+  {
+   "t": "It's",
+   "s": 290.32,
+   "e": 290.48
+  },
+  {
+   "t": "built",
+   "s": 290.56,
+   "e": 290.8
+  },
+  {
+   "t": "on",
+   "s": 290.88,
+   "e": 290.96
+  },
+  {
+   "t": "the",
+   "s": 291.0,
+   "e": 291.04
+  },
+  {
+   "t": "Metonic",
+   "s": 291.16,
+   "e": 291.52
+  },
+  {
+   "t": "cycle:",
+   "s": 291.6,
+   "e": 292.4
+  },
+  {
+   "t": "after",
+   "s": 292.72,
+   "e": 292.96
+  },
+  {
+   "t": "nineteen",
+   "s": 293.04,
+   "e": 293.52
+  },
+  {
+   "t": "years,",
+   "s": 293.6,
+   "e": 294.04
+  },
+  {
+   "t": "the",
+   "s": 294.08,
+   "e": 294.16
+  },
+  {
+   "t": "phases",
+   "s": 294.24,
+   "e": 294.64
+  },
+  {
+   "t": "of",
+   "s": 294.72,
+   "e": 294.8
+  },
+  {
+   "t": "the",
+   "s": 294.84,
+   "e": 294.88
+  },
+  {
+   "t": "Moon",
+   "s": 294.96,
+   "e": 295.28
+  },
+  {
+   "t": "fall",
+   "s": 295.36,
+   "e": 295.52
+  },
+  {
+   "t": "on",
+   "s": 295.6,
+   "e": 295.68
+  },
+  {
+   "t": "the",
+   "s": 295.72,
+   "e": 295.76
+  },
+  {
+   "t": "same",
+   "s": 295.84,
+   "e": 296.08
+  },
+  {
+   "t": "dates",
+   "s": 296.24,
+   "e": 296.4
+  },
+  {
+   "t": "again.",
+   "s": 296.48,
+   "e": 297.32
+  },
+  {
+   "t": "As",
+   "s": 297.84,
+   "e": 297.92
+  },
+  {
+   "t": "you",
+   "s": 298.0,
+   "e": 298.08
+  },
+  {
+   "t": "crank,",
+   "s": 298.16,
+   "e": 298.8
+  },
+  {
+   "t": "the",
+   "s": 299.04,
+   "e": 299.12
+  },
+  {
+   "t": "pointer",
+   "s": 299.2,
+   "e": 299.52
+  },
+  {
+   "t": "works",
+   "s": 299.6,
+   "e": 299.92
+  },
+  {
+   "t": "its",
+   "s": 300.0,
+   "e": 300.08
+  },
+  {
+   "t": "way",
+   "s": 300.16,
+   "e": 300.24
+  },
+  {
+   "t": "around",
+   "s": 300.32,
+   "e": 300.72
+  },
+  {
+   "t": "and",
+   "s": 300.76,
+   "e": 300.8
+  },
+  {
+   "t": "outwards,",
+   "s": 300.88,
+   "e": 301.56
+  },
+  {
+   "t": "with",
+   "s": 301.76,
+   "e": 301.84
+  },
+  {
+   "t": "a",
+   "s": 301.92,
+   "e": 301.96
+  },
+  {
+   "t": "little",
+   "s": 302.0,
+   "e": 302.24
+  },
+  {
+   "t": "pin",
+   "s": 302.32,
+   "e": 302.64
+  },
+  {
+   "t": "following",
+   "s": 302.72,
+   "e": 303.04
+  },
+  {
+   "t": "the",
+   "s": 303.12,
+   "e": 303.2
+  },
+  {
+   "t": "groove,",
+   "s": 303.28,
+   "e": 303.88
+  },
+  {
+   "t": "so",
+   "s": 304.16,
+   "e": 304.24
+  },
+  {
+   "t": "you",
+   "s": 304.32,
+   "e": 304.48
+  },
+  {
+   "t": "always",
+   "s": 304.56,
+   "e": 304.96
+  },
+  {
+   "t": "know",
+   "s": 305.04,
+   "e": 305.2
+  },
+  {
+   "t": "which",
+   "s": 305.28,
+   "e": 305.52
+  },
+  {
+   "t": "turn",
+   "s": 305.6,
+   "e": 305.84
+  },
+  {
+   "t": "you're",
+   "s": 305.88,
+   "e": 306.0
+  },
+  {
+   "t": "on.",
+   "s": 306.08,
+   "e": 306.84
+  },
+  {
+   "t": "Inside",
+   "s": 307.36,
+   "e": 307.76
+  },
+  {
+   "t": "it",
+   "s": 307.84,
+   "e": 307.92
+  },
+  {
+   "t": "sits",
+   "s": 308.0,
+   "e": 308.16
+  },
+  {
+   "t": "a",
+   "s": 308.24,
+   "e": 308.32
+  },
+  {
+   "t": "small",
+   "s": 308.4,
+   "e": 308.72
+  },
+  {
+   "t": "dial",
+   "s": 308.8,
+   "e": 309.12
+  },
+  {
+   "t": "divided",
+   "s": 309.24,
+   "e": 309.6
+  },
+  {
+   "t": "into",
+   "s": 309.68,
+   "e": 309.92
+  },
+  {
+   "t": "four.",
+   "s": 310.0,
+   "e": 310.6
+  },
+  {
+   "t": "It",
+   "s": 310.96,
+   "e": 311.04
+  },
+  {
+   "t": "keeps",
+   "s": 311.12,
+   "e": 311.44
+  },
+  {
+   "t": "track",
+   "s": 311.52,
+   "e": 311.76
+  },
+  {
+   "t": "of",
+   "s": 311.84,
+   "e": 311.92
+  },
+  {
+   "t": "the",
+   "s": 311.96,
+   "e": 312.0
+  },
+  {
+   "t": "great",
+   "s": 312.08,
+   "e": 312.4
+  },
+  {
+   "t": "athletic",
+   "s": 312.48,
+   "e": 312.96
+  },
+  {
+   "t": "games",
+   "s": 313.12,
+   "e": 313.28
+  },
+  {
+   "t": "of",
+   "s": 313.32,
+   "e": 313.36
+  },
+  {
+   "t": "Greece,",
+   "s": 313.44,
+   "e": 313.8
+  },
+  {
+   "t": "including",
+   "s": 313.84,
+   "e": 314.32
+  },
+  {
+   "t": "the",
+   "s": 314.4,
+   "e": 314.44
+  },
+  {
+   "t": "Olympics,",
+   "s": 314.48,
+   "e": 315.32
+  },
+  {
+   "t": "and",
+   "s": 315.6,
+   "e": 315.68
+  },
+  {
+   "t": "it's",
+   "s": 315.72,
+   "e": 315.84
+  },
+  {
+   "t": "the",
+   "s": 315.92,
+   "e": 316.0
+  },
+  {
+   "t": "only",
+   "s": 316.08,
+   "e": 316.32
+  },
+  {
+   "t": "pointer",
+   "s": 316.4,
+   "e": 316.72
+  },
+  {
+   "t": "on",
+   "s": 316.8,
+   "e": 316.88
+  },
+  {
+   "t": "the",
+   "s": 316.92,
+   "e": 316.96
+  },
+  {
+   "t": "whole",
+   "s": 317.04,
+   "e": 317.2
+  },
+  {
+   "t": "machine",
+   "s": 317.4,
+   "e": 317.6
+  },
+  {
+   "t": "that",
+   "s": 317.68,
+   "e": 317.76
+  },
+  {
+   "t": "turns",
+   "s": 317.84,
+   "e": 318.12
+  },
+  {
+   "t": "the",
+   "s": 318.16,
+   "e": 318.24
+  },
+  {
+   "t": "other",
+   "s": 318.36,
+   "e": 318.48
+  },
+  {
+   "t": "way.",
+   "s": 318.64,
+   "e": 319.4
+  },
+  {
+   "t": "The",
+   "s": 320.0,
+   "e": 320.08
+  },
+  {
+   "t": "lower",
+   "s": 320.16,
+   "e": 320.4
+  },
+  {
+   "t": "spiral",
+   "s": 320.56,
+   "e": 320.96
+  },
+  {
+   "t": "is",
+   "s": 321.04,
+   "e": 321.12
+  },
+  {
+   "t": "the",
+   "s": 321.16,
+   "e": 321.2
+  },
+  {
+   "t": "one",
+   "s": 321.28,
+   "e": 321.36
+  },
+  {
+   "t": "that",
+   "s": 321.44,
+   "e": 321.52
+  },
+  {
+   "t": "mattered",
+   "s": 321.6,
+   "e": 321.92
+  },
+  {
+   "t": "most.",
+   "s": 322.0,
+   "e": 322.68
+  },
+  {
+   "t": "Two",
+   "s": 323.04,
+   "e": 323.12
+  },
+  {
+   "t": "hundred",
+   "s": 323.2,
+   "e": 323.44
+  },
+  {
+   "t": "and",
+   "s": 323.52,
+   "e": 323.6
+  },
+  {
+   "t": "twenty-three",
+   "s": 323.68,
+   "e": 324.32
+  },
+  {
+   "t": "months,",
+   "s": 324.4,
+   "e": 324.76
+  },
+  {
+   "t": "over",
+   "s": 324.88,
+   "e": 325.12
+  },
+  {
+   "t": "four",
+   "s": 325.2,
+   "e": 325.44
+  },
+  {
+   "t": "turns.",
+   "s": 325.52,
+   "e": 326.32
+  },
+  {
+   "t": "This",
+   "s": 326.64,
+   "e": 326.8
+  },
+  {
+   "t": "is",
+   "s": 326.88,
+   "e": 326.96
+  },
+  {
+   "t": "the",
+   "s": 327.04,
+   "e": 327.12
+  },
+  {
+   "t": "Saros",
+   "s": 327.2,
+   "e": 327.68
+  },
+  {
+   "t": "cycle.",
+   "s": 327.76,
+   "e": 328.72
+  },
+  {
+   "t": "Babylonian",
+   "s": 329.2,
+   "e": 329.84
+  },
+  {
+   "t": "astronomers",
+   "s": 329.96,
+   "e": 330.4
+  },
+  {
+   "t": "had",
+   "s": 330.48,
+   "e": 330.56
+  },
+  {
+   "t": "noticed",
+   "s": 330.64,
+   "e": 331.04
+  },
+  {
+   "t": "that",
+   "s": 331.12,
+   "e": 331.2
+  },
+  {
+   "t": "eclipses",
+   "s": 331.28,
+   "e": 331.84
+  },
+  {
+   "t": "repeat",
+   "s": 332.08,
+   "e": 332.32
+  },
+  {
+   "t": "in",
+   "s": 332.36,
+   "e": 332.4
+  },
+  {
+   "t": "a",
+   "s": 332.44,
+   "e": 332.48
+  },
+  {
+   "t": "pattern",
+   "s": 332.56,
+   "e": 332.88
+  },
+  {
+   "t": "about",
+   "s": 332.96,
+   "e": 333.28
+  },
+  {
+   "t": "eighteen",
+   "s": 333.36,
+   "e": 333.76
+  },
+  {
+   "t": "years",
+   "s": 333.84,
+   "e": 334.08
+  },
+  {
+   "t": "long.",
+   "s": 334.24,
+   "e": 334.76
+  },
+  {
+   "t": "So",
+   "s": 335.12,
+   "e": 335.2
+  },
+  {
+   "t": "here,",
+   "s": 335.28,
+   "e": 335.48
+  },
+  {
+   "t": "the",
+   "s": 335.52,
+   "e": 335.6
+  },
+  {
+   "t": "months",
+   "s": 335.68,
+   "e": 335.92
+  },
+  {
+   "t": "with",
+   "s": 336.0,
+   "e": 336.08
+  },
+  {
+   "t": "an",
+   "s": 336.16,
+   "e": 336.24
+  },
+  {
+   "t": "eclipse",
+   "s": 336.28,
+   "e": 336.64
+  },
+  {
+   "t": "are",
+   "s": 336.72,
+   "e": 336.8
+  },
+  {
+   "t": "marked",
+   "s": 336.88,
+   "e": 337.12
+  },
+  {
+   "t": "with",
+   "s": 337.2,
+   "e": 337.28
+  },
+  {
+   "t": "a",
+   "s": 337.36,
+   "e": 337.44
+  },
+  {
+   "t": "tiny",
+   "s": 337.52,
+   "e": 337.84
+  },
+  {
+   "t": "symbol:",
+   "s": 337.92,
+   "e": 338.68
+  },
+  {
+   "t": "thirty-eight",
+   "s": 339.04,
+   "e": 339.52
+  },
+  {
+   "t": "for",
+   "s": 339.56,
+   "e": 339.6
+  },
+  {
+   "t": "the",
+   "s": 339.68,
+   "e": 339.76
+  },
+  {
+   "t": "Moon,",
+   "s": 339.96,
+   "e": 340.36
+  },
+  {
+   "t": "twenty-seven",
+   "s": 340.56,
+   "e": 341.2
+  },
+  {
+   "t": "for",
+   "s": 341.24,
+   "e": 341.28
+  },
+  {
+   "t": "the",
+   "s": 341.36,
+   "e": 341.44
+  },
+  {
+   "t": "Sun,",
+   "s": 341.52,
+   "e": 342.12
+  },
+  {
+   "t": "some",
+   "s": 342.4,
+   "e": 342.72
+  },
+  {
+   "t": "even",
+   "s": 342.8,
+   "e": 343.04
+  },
+  {
+   "t": "giving",
+   "s": 343.08,
+   "e": 343.28
+  },
+  {
+   "t": "the",
+   "s": 343.36,
+   "e": 343.44
+  },
+  {
+   "t": "hour.",
+   "s": 343.52,
+   "e": 344.28
+  },
+  {
+   "t": "Turn",
+   "s": 344.72,
+   "e": 344.96
+  },
+  {
+   "t": "the",
+   "s": 345.04,
+   "e": 345.08
+  },
+  {
+   "t": "handle,",
+   "s": 345.12,
+   "e": 345.72
+  },
+  {
+   "t": "follow",
+   "s": 345.92,
+   "e": 346.16
+  },
+  {
+   "t": "the",
+   "s": 346.2,
+   "e": 346.24
+  },
+  {
+   "t": "pointer,",
+   "s": 346.32,
+   "e": 346.76
+  },
+  {
+   "t": "and",
+   "s": 346.8,
+   "e": 346.88
+  },
+  {
+   "t": "you",
+   "s": 346.96,
+   "e": 347.04
+  },
+  {
+   "t": "could",
+   "s": 347.12,
+   "e": 347.2
+  },
+  {
+   "t": "see",
+   "s": 347.28,
+   "e": 347.36
+  },
+  {
+   "t": "an",
+   "s": 347.44,
+   "e": 347.52
+  },
+  {
+   "t": "eclipse",
+   "s": 347.56,
+   "e": 347.92
+  },
+  {
+   "t": "coming",
+   "s": 348.08,
+   "e": 348.24
+  },
+  {
+   "t": "years",
+   "s": 348.32,
+   "e": 348.56
+  },
+  {
+   "t": "ahead.",
+   "s": 348.76,
+   "e": 349.04
+  },
+  {
+   "t": "And",
+   "s": 353.24,
+   "e": 353.56
+  },
+  {
+   "t": "then",
+   "s": 353.64,
+   "e": 353.72
+  },
+  {
+   "t": "there's",
+   "s": 353.8,
+   "e": 353.96
+  },
+  {
+   "t": "the",
+   "s": 354.0,
+   "e": 354.04
+  },
+  {
+   "t": "part",
+   "s": 354.12,
+   "e": 354.36
+  },
+  {
+   "t": "we're",
+   "s": 354.44,
+   "e": 354.52
+  },
+  {
+   "t": "still",
+   "s": 354.6,
+   "e": 354.76
+  },
+  {
+   "t": "arguing",
+   "s": 354.84,
+   "e": 355.16
+  },
+  {
+   "t": "about.",
+   "s": 355.24,
+   "e": 355.92
+  },
+  {
+   "t": "The",
+   "s": 356.36,
+   "e": 356.44
+  },
+  {
+   "t": "writing",
+   "s": 356.52,
+   "e": 356.84
+  },
+  {
+   "t": "on",
+   "s": 356.92,
+   "e": 357.0
+  },
+  {
+   "t": "the",
+   "s": 357.04,
+   "e": 357.08
+  },
+  {
+   "t": "front",
+   "s": 357.16,
+   "e": 357.4
+  },
+  {
+   "t": "names",
+   "s": 357.56,
+   "e": 357.72
+  },
+  {
+   "t": "the",
+   "s": 357.76,
+   "e": 357.8
+  },
+  {
+   "t": "planets:",
+   "s": 357.88,
+   "e": 358.68
+  },
+  {
+   "t": "Mercury,",
+   "s": 359.0,
+   "e": 359.68
+  },
+  {
+   "t": "Venus,",
+   "s": 359.88,
+   "e": 360.56
+  },
+  {
+   "t": "Mars,",
+   "s": 360.76,
+   "e": 361.32
+  },
+  {
+   "t": "Jupiter,",
+   "s": 361.48,
+   "e": 361.92
+  },
+  {
+   "t": "and",
+   "s": 361.96,
+   "e": 362.04
+  },
+  {
+   "t": "Saturn.",
+   "s": 362.12,
+   "e": 363.0
+  },
+  {
+   "t": "But",
+   "s": 363.4,
+   "e": 363.48
+  },
+  {
+   "t": "whatever",
+   "s": 363.56,
+   "e": 363.96
+  },
+  {
+   "t": "gears",
+   "s": 364.04,
+   "e": 364.36
+  },
+  {
+   "t": "drove",
+   "s": 364.44,
+   "e": 364.68
+  },
+  {
+   "t": "them",
+   "s": 364.76,
+   "e": 364.84
+  },
+  {
+   "t": "have",
+   "s": 364.92,
+   "e": 365.0
+  },
+  {
+   "t": "been",
+   "s": 365.08,
+   "e": 365.24
+  },
+  {
+   "t": "lost.",
+   "s": 365.44,
+   "e": 366.12
+  },
+  {
+   "t": "Then,",
+   "s": 366.6,
+   "e": 366.92
+  },
+  {
+   "t": "in",
+   "s": 367.0,
+   "e": 367.08
+  },
+  {
+   "t": "twenty",
+   "s": 367.16,
+   "e": 367.4
+  },
+  {
+   "t": "sixteen,",
+   "s": 367.56,
+   "e": 368.24
+  },
+  {
+   "t": "the",
+   "s": 368.44,
+   "e": 368.6
+  },
+  {
+   "t": "scans",
+   "s": 368.68,
+   "e": 369.0
+  },
+  {
+   "t": "revealed",
+   "s": 369.08,
+   "e": 369.48
+  },
+  {
+   "t": "two",
+   "s": 369.56,
+   "e": 369.72
+  },
+  {
+   "t": "numbers",
+   "s": 369.8,
+   "e": 370.28
+  },
+  {
+   "t": "hidden",
+   "s": 370.36,
+   "e": 370.6
+  },
+  {
+   "t": "in",
+   "s": 370.68,
+   "e": 370.76
+  },
+  {
+   "t": "that",
+   "s": 370.84,
+   "e": 371.0
+  },
+  {
+   "t": "text.",
+   "s": 371.08,
+   "e": 371.96
+  },
+  {
+   "t": "Four",
+   "s": 372.44,
+   "e": 372.6
+  },
+  {
+   "t": "hundred",
+   "s": 372.64,
+   "e": 372.84
+  },
+  {
+   "t": "and",
+   "s": 372.92,
+   "e": 373.0
+  },
+  {
+   "t": "sixty-two,",
+   "s": 373.08,
+   "e": 373.84
+  },
+  {
+   "t": "for",
+   "s": 373.96,
+   "e": 374.04
+  },
+  {
+   "t": "Venus.",
+   "s": 374.12,
+   "e": 374.92
+  },
+  {
+   "t": "Four",
+   "s": 375.24,
+   "e": 375.32
+  },
+  {
+   "t": "hundred",
+   "s": 375.4,
+   "e": 375.56
+  },
+  {
+   "t": "and",
+   "s": 375.64,
+   "e": 375.72
+  },
+  {
+   "t": "forty-two,",
+   "s": 375.8,
+   "e": 376.48
+  },
+  {
+   "t": "for",
+   "s": 376.6,
+   "e": 376.68
+  },
+  {
+   "t": "Saturn.",
+   "s": 376.76,
+   "e": 377.64
+  },
+  {
+   "t": "Planetary",
+   "s": 378.12,
+   "e": 378.6
+  },
+  {
+   "t": "cycles,",
+   "s": 378.68,
+   "e": 379.32
+  },
+  {
+   "t": "and",
+   "s": 379.48,
+   "e": 379.64
+  },
+  {
+   "t": "remarkably",
+   "s": 379.72,
+   "e": 380.36
+  },
+  {
+   "t": "accurate",
+   "s": 380.44,
+   "e": 380.76
+  },
+  {
+   "t": "ones.",
+   "s": 380.84,
+   "e": 381.72
+  },
+  {
+   "t": "In",
+   "s": 382.28,
+   "e": 382.36
+  },
+  {
+   "t": "twenty",
+   "s": 382.44,
+   "e": 382.76
+  },
+  {
+   "t": "twenty-one,",
+   "s": 382.84,
+   "e": 383.68
+  },
+  {
+   "t": "a",
+   "s": 383.88,
+   "e": 383.96
+  },
+  {
+   "t": "team",
+   "s": 384.04,
+   "e": 384.28
+  },
+  {
+   "t": "at",
+   "s": 384.32,
+   "e": 384.36
+  },
+  {
+   "t": "University",
+   "s": 384.44,
+   "e": 385.0
+  },
+  {
+   "t": "College",
+   "s": 385.08,
+   "e": 385.4
+  },
+  {
+   "t": "London",
+   "s": 385.48,
+   "e": 385.8
+  },
+  {
+   "t": "used",
+   "s": 385.88,
+   "e": 386.04
+  },
+  {
+   "t": "those",
+   "s": 386.12,
+   "e": 386.28
+  },
+  {
+   "t": "numbers",
+   "s": 386.36,
+   "e": 386.68
+  },
+  {
+   "t": "to",
+   "s": 386.76,
+   "e": 386.84
+  },
+  {
+   "t": "design",
+   "s": 386.92,
+   "e": 387.32
+  },
+  {
+   "t": "gear",
+   "s": 387.4,
+   "e": 387.56
+  },
+  {
+   "t": "trains",
+   "s": 387.64,
+   "e": 387.96
+  },
+  {
+   "t": "that",
+   "s": 388.0,
+   "e": 388.04
+  },
+  {
+   "t": "would",
+   "s": 388.12,
+   "e": 388.28
+  },
+  {
+   "t": "actually",
+   "s": 388.36,
+   "e": 388.76
+  },
+  {
+   "t": "fit",
+   "s": 388.84,
+   "e": 389.0
+  },
+  {
+   "t": "in",
+   "s": 389.08,
+   "e": 389.16
+  },
+  {
+   "t": "the",
+   "s": 389.2,
+   "e": 389.24
+  },
+  {
+   "t": "space",
+   "s": 389.32,
+   "e": 389.56
+  },
+  {
+   "t": "available:",
+   "s": 389.64,
+   "e": 390.48
+  },
+  {
+   "t": "a",
+   "s": 390.84,
+   "e": 390.92
+  },
+  {
+   "t": "reconstruction",
+   "s": 391.0,
+   "e": 391.8
+  },
+  {
+   "t": "with",
+   "s": 391.88,
+   "e": 391.96
+  },
+  {
+   "t": "the",
+   "s": 392.04,
+   "e": 392.12
+  },
+  {
+   "t": "Sun,",
+   "s": 392.2,
+   "e": 392.64
+  },
+  {
+   "t": "the",
+   "s": 392.76,
+   "e": 392.84
+  },
+  {
+   "t": "Moon",
+   "s": 392.92,
+   "e": 393.32
+  },
+  {
+   "t": "and",
+   "s": 393.4,
+   "e": 393.48
+  },
+  {
+   "t": "all",
+   "s": 393.64,
+   "e": 393.8
+  },
+  {
+   "t": "five",
+   "s": 393.88,
+   "e": 394.12
+  },
+  {
+   "t": "planets,",
+   "s": 394.24,
+   "e": 394.84
+  },
+  {
+   "t": "moving",
+   "s": 395.08,
+   "e": 395.4
+  },
+  {
+   "t": "on",
+   "s": 395.48,
+   "e": 395.56
+  },
+  {
+   "t": "rings",
+   "s": 395.64,
+   "e": 395.96
+  },
+  {
+   "t": "around",
+   "s": 396.04,
+   "e": 396.2
+  },
+  {
+   "t": "the",
+   "s": 396.28,
+   "e": 396.36
+  },
+  {
+   "t": "front",
+   "s": 396.48,
+   "e": 396.6
+  },
+  {
+   "t": "dial.",
+   "s": 396.68,
+   "e": 397.48
+  },
+  {
+   "t": "The",
+   "s": 397.96,
+   "e": 398.04
+  },
+  {
+   "t": "team",
+   "s": 398.12,
+   "e": 398.36
+  },
+  {
+   "t": "is",
+   "s": 398.44,
+   "e": 398.52
+  },
+  {
+   "t": "clear",
+   "s": 398.6,
+   "e": 398.84
+  },
+  {
+   "t": "that",
+   "s": 398.92,
+   "e": 399.0
+  },
+  {
+   "t": "they",
+   "s": 399.08,
+   "e": 399.16
+  },
+  {
+   "t": "can't",
+   "s": 399.24,
+   "e": 399.4
+  },
+  {
+   "t": "be",
+   "s": 399.48,
+   "e": 399.56
+  },
+  {
+   "t": "certain",
+   "s": 399.64,
+   "e": 399.88
+  },
+  {
+   "t": "it's",
+   "s": 399.92,
+   "e": 400.04
+  },
+  {
+   "t": "right.",
+   "s": 400.12,
+   "e": 400.72
+  },
+  {
+   "t": "Nobody",
+   "s": 401.0,
+   "e": 401.32
+  },
+  {
+   "t": "has",
+   "s": 401.4,
+   "e": 401.56
+  },
+  {
+   "t": "found",
+   "s": 401.64,
+   "e": 401.8
+  },
+  {
+   "t": "those",
+   "s": 401.88,
+   "e": 402.04
+  },
+  {
+   "t": "gears",
+   "s": 402.12,
+   "e": 402.36
+  },
+  {
+   "t": "to",
+   "s": 402.44,
+   "e": 402.52
+  },
+  {
+   "t": "check.",
+   "s": 402.6,
+   "e": 403.12
+  },
+  {
+   "t": "But",
+   "s": 403.32,
+   "e": 403.4
+  },
+  {
+   "t": "if",
+   "s": 403.48,
+   "e": 403.56
+  },
+  {
+   "t": "they're",
+   "s": 403.6,
+   "e": 403.72
+  },
+  {
+   "t": "even",
+   "s": 403.84,
+   "e": 403.96
+  },
+  {
+   "t": "close,",
+   "s": 404.04,
+   "e": 404.56
+  },
+  {
+   "t": "this",
+   "s": 404.68,
+   "e": 404.76
+  },
+  {
+   "t": "little",
+   "s": 404.84,
+   "e": 405.08
+  },
+  {
+   "t": "box",
+   "s": 405.24,
+   "e": 405.4
+  },
+  {
+   "t": "was",
+   "s": 405.48,
+   "e": 405.56
+  },
+  {
+   "t": "a",
+   "s": 405.64,
+   "e": 405.72
+  },
+  {
+   "t": "model",
+   "s": 405.8,
+   "e": 406.04
+  },
+  {
+   "t": "of",
+   "s": 406.12,
+   "e": 406.2
+  },
+  {
+   "t": "the",
+   "s": 406.24,
+   "e": 406.28
+  },
+  {
+   "t": "whole",
+   "s": 406.36,
+   "e": 406.6
+  },
+  {
+   "t": "known",
+   "s": 406.72,
+   "e": 406.84
+  },
+  {
+   "t": "cosmos.",
+   "s": 406.92,
+   "e": 407.48
+  },
+  {
+   "t": "So",
+   "s": 411.08,
+   "e": 411.32
+  },
+  {
+   "t": "who",
+   "s": 411.4,
+   "e": 411.48
+  },
+  {
+   "t": "built",
+   "s": 411.56,
+   "e": 411.8
+  },
+  {
+   "t": "it?",
+   "s": 411.88,
+   "e": 412.48
+  },
+  {
+   "t": "We",
+   "s": 412.92,
+   "e": 413.0
+  },
+  {
+   "t": "don't",
+   "s": 413.08,
+   "e": 413.24
+  },
+  {
+   "t": "know.",
+   "s": 413.32,
+   "e": 413.96
+  },
+  {
+   "t": "The",
+   "s": 414.36,
+   "e": 414.44
+  },
+  {
+   "t": "names",
+   "s": 414.52,
+   "e": 414.76
+  },
+  {
+   "t": "of",
+   "s": 414.84,
+   "e": 414.92
+  },
+  {
+   "t": "the",
+   "s": 415.0,
+   "e": 415.08
+  },
+  {
+   "t": "months",
+   "s": 415.24,
+   "e": 415.4
+  },
+  {
+   "t": "on",
+   "s": 415.44,
+   "e": 415.48
+  },
+  {
+   "t": "the",
+   "s": 415.56,
+   "e": 415.64
+  },
+  {
+   "t": "back",
+   "s": 415.76,
+   "e": 415.88
+  },
+  {
+   "t": "point",
+   "s": 415.96,
+   "e": 416.2
+  },
+  {
+   "t": "to",
+   "s": 416.24,
+   "e": 416.28
+  },
+  {
+   "t": "Corinth,",
+   "s": 416.36,
+   "e": 416.8
+  },
+  {
+   "t": "or",
+   "s": 416.84,
+   "e": 416.92
+  },
+  {
+   "t": "one",
+   "s": 416.96,
+   "e": 417.0
+  },
+  {
+   "t": "of",
+   "s": 417.08,
+   "e": 417.12
+  },
+  {
+   "t": "its",
+   "s": 417.16,
+   "e": 417.32
+  },
+  {
+   "t": "colonies,",
+   "s": 417.48,
+   "e": 418.04
+  },
+  {
+   "t": "perhaps",
+   "s": 418.28,
+   "e": 418.6
+  },
+  {
+   "t": "Syracuse,",
+   "s": 418.68,
+   "e": 419.28
+  },
+  {
+   "t": "the",
+   "s": 419.32,
+   "e": 419.4
+  },
+  {
+   "t": "city",
+   "s": 419.48,
+   "e": 419.8
+  },
+  {
+   "t": "of",
+   "s": 419.88,
+   "e": 419.96
+  },
+  {
+   "t": "Archimedes,",
+   "s": 420.04,
+   "e": 421.0
+  },
+  {
+   "t": "who",
+   "s": 421.24,
+   "e": 421.32
+  },
+  {
+   "t": "had",
+   "s": 421.4,
+   "e": 421.48
+  },
+  {
+   "t": "died",
+   "s": 421.56,
+   "e": 421.8
+  },
+  {
+   "t": "more",
+   "s": 421.88,
+   "e": 421.96
+  },
+  {
+   "t": "than",
+   "s": 422.04,
+   "e": 422.12
+  },
+  {
+   "t": "a",
+   "s": 422.2,
+   "e": 422.28
+  },
+  {
+   "t": "century",
+   "s": 422.36,
+   "e": 422.68
+  },
+  {
+   "t": "before",
+   "s": 422.76,
+   "e": 423.08
+  },
+  {
+   "t": "the",
+   "s": 423.12,
+   "e": 423.16
+  },
+  {
+   "t": "ship",
+   "s": 423.24,
+   "e": 423.4
+  },
+  {
+   "t": "went",
+   "s": 423.48,
+   "e": 423.64
+  },
+  {
+   "t": "down.",
+   "s": 423.72,
+   "e": 424.52
+  },
+  {
+   "t": "The",
+   "s": 425.08,
+   "e": 425.16
+  },
+  {
+   "t": "Roman",
+   "s": 425.24,
+   "e": 425.56
+  },
+  {
+   "t": "writer",
+   "s": 425.76,
+   "e": 425.96
+  },
+  {
+   "t": "Cicero",
+   "s": 426.04,
+   "e": 426.44
+  },
+  {
+   "t": "describes",
+   "s": 426.52,
+   "e": 427.0
+  },
+  {
+   "t": "machines",
+   "s": 427.08,
+   "e": 427.56
+  },
+  {
+   "t": "that",
+   "s": 427.6,
+   "e": 427.64
+  },
+  {
+   "t": "showed",
+   "s": 427.72,
+   "e": 427.96
+  },
+  {
+   "t": "the",
+   "s": 428.04,
+   "e": 428.12
+  },
+  {
+   "t": "motions",
+   "s": 428.16,
+   "e": 428.52
+  },
+  {
+   "t": "of",
+   "s": 428.6,
+   "e": 428.68
+  },
+  {
+   "t": "the",
+   "s": 428.76,
+   "e": 428.84
+  },
+  {
+   "t": "Sun,",
+   "s": 428.92,
+   "e": 429.36
+  },
+  {
+   "t": "the",
+   "s": 429.56,
+   "e": 429.64
+  },
+  {
+   "t": "Moon",
+   "s": 429.72,
+   "e": 430.04
+  },
+  {
+   "t": "and",
+   "s": 430.12,
+   "e": 430.2
+  },
+  {
+   "t": "the",
+   "s": 430.24,
+   "e": 430.28
+  },
+  {
+   "t": "planets,",
+   "s": 430.36,
+   "e": 431.2
+  },
+  {
+   "t": "one",
+   "s": 431.56,
+   "e": 431.72
+  },
+  {
+   "t": "made",
+   "s": 431.8,
+   "e": 431.96
+  },
+  {
+   "t": "by",
+   "s": 432.04,
+   "e": 432.2
+  },
+  {
+   "t": "Archimedes",
+   "s": 432.28,
+   "e": 433.08
+  },
+  {
+   "t": "and",
+   "s": 433.16,
+   "e": 433.24
+  },
+  {
+   "t": "another",
+   "s": 433.32,
+   "e": 433.64
+  },
+  {
+   "t": "by",
+   "s": 433.72,
+   "e": 433.8
+  },
+  {
+   "t": "the",
+   "s": 433.88,
+   "e": 433.96
+  },
+  {
+   "t": "philosopher",
+   "s": 434.04,
+   "e": 434.52
+  },
+  {
+   "t": "Posidonius.",
+   "s": 434.64,
+   "e": 435.88
+  },
+  {
+   "t": "Probably",
+   "s": 436.36,
+   "e": 436.76
+  },
+  {
+   "t": "not",
+   "s": 436.84,
+   "e": 436.92
+  },
+  {
+   "t": "this",
+   "s": 437.0,
+   "e": 437.16
+  },
+  {
+   "t": "one.",
+   "s": 437.24,
+   "e": 437.84
+  },
+  {
+   "t": "But",
+   "s": 438.2,
+   "e": 438.28
+  },
+  {
+   "t": "a",
+   "s": 438.36,
+   "e": 438.4
+  },
+  {
+   "t": "sign",
+   "s": 438.44,
+   "e": 438.68
+  },
+  {
+   "t": "that",
+   "s": 438.76,
+   "e": 438.84
+  },
+  {
+   "t": "it",
+   "s": 438.88,
+   "e": 438.92
+  },
+  {
+   "t": "wasn't",
+   "s": 439.0,
+   "e": 439.24
+  },
+  {
+   "t": "the",
+   "s": 439.28,
+   "e": 439.32
+  },
+  {
+   "t": "only",
+   "s": 439.4,
+   "e": 439.64
+  },
+  {
+   "t": "one.",
+   "s": 439.72,
+   "e": 440.44
+  },
+  {
+   "t": "What",
+   "s": 441.0,
+   "e": 441.16
+  },
+  {
+   "t": "we",
+   "s": 441.24,
+   "e": 441.32
+  },
+  {
+   "t": "do",
+   "s": 441.4,
+   "e": 441.56
+  },
+  {
+   "t": "know",
+   "s": 441.72,
+   "e": 441.88
+  },
+  {
+   "t": "is",
+   "s": 441.96,
+   "e": 442.04
+  },
+  {
+   "t": "what",
+   "s": 442.12,
+   "e": 442.28
+  },
+  {
+   "t": "came",
+   "s": 442.4,
+   "e": 442.52
+  },
+  {
+   "t": "after.",
+   "s": 442.6,
+   "e": 443.36
+  },
+  {
+   "t": "Nothing.",
+   "s": 443.72,
+   "e": 444.56
+  },
+  {
+   "t": "For",
+   "s": 444.92,
+   "e": 445.08
+  },
+  {
+   "t": "well",
+   "s": 445.16,
+   "e": 445.32
+  },
+  {
+   "t": "over",
+   "s": 445.4,
+   "e": 445.56
+  },
+  {
+   "t": "a",
+   "s": 445.64,
+   "e": 445.68
+  },
+  {
+   "t": "thousand",
+   "s": 445.72,
+   "e": 446.2
+  },
+  {
+   "t": "years,",
+   "s": 446.36,
+   "e": 446.76
+  },
+  {
+   "t": "nothing",
+   "s": 447.0,
+   "e": 447.32
+  },
+  {
+   "t": "with",
+   "s": 447.4,
+   "e": 447.48
+  },
+  {
+   "t": "gearing",
+   "s": 447.56,
+   "e": 447.96
+  },
+  {
+   "t": "this",
+   "s": 448.04,
+   "e": 448.12
+  },
+  {
+   "t": "complex",
+   "s": 448.2,
+   "e": 448.6
+  },
+  {
+   "t": "survives",
+   "s": 448.68,
+   "e": 449.08
+  },
+  {
+   "t": "anywhere.",
+   "s": 449.16,
+   "e": 449.96
+  },
+  {
+   "t": "The",
+   "s": 450.36,
+   "e": 450.44
+  },
+  {
+   "t": "next",
+   "s": 450.52,
+   "e": 450.76
+  },
+  {
+   "t": "machines",
+   "s": 450.88,
+   "e": 451.24
+  },
+  {
+   "t": "that",
+   "s": 451.28,
+   "e": 451.32
+  },
+  {
+   "t": "come",
+   "s": 451.4,
+   "e": 451.64
+  },
+  {
+   "t": "close",
+   "s": 451.84,
+   "e": 452.04
+  },
+  {
+   "t": "are",
+   "s": 452.12,
+   "e": 452.2
+  },
+  {
+   "t": "the",
+   "s": 452.28,
+   "e": 452.36
+  },
+  {
+   "t": "astronomical",
+   "s": 452.44,
+   "e": 453.08
+  },
+  {
+   "t": "clocks",
+   "s": 453.16,
+   "e": 453.48
+  },
+  {
+   "t": "of",
+   "s": 453.52,
+   "e": 453.56
+  },
+  {
+   "t": "fourteenth-century",
+   "s": 453.64,
+   "e": 454.52
+  },
+  {
+   "t": "Europe.",
+   "s": 454.6,
+   "e": 455.4
+  },
+  {
+   "t": "The",
+   "s": 455.88,
+   "e": 455.96
+  },
+  {
+   "t": "knowledge",
+   "s": 456.16,
+   "e": 456.36
+  },
+  {
+   "t": "didn't",
+   "s": 456.44,
+   "e": 456.68
+  },
+  {
+   "t": "just",
+   "s": 456.76,
+   "e": 456.92
+  },
+  {
+   "t": "fade.",
+   "s": 457.0,
+   "e": 457.64
+  },
+  {
+   "t": "It",
+   "s": 457.88,
+   "e": 458.04
+  },
+  {
+   "t": "vanished.",
+   "s": 458.12,
+   "e": 458.92
+  },
+  {
+   "t": "And",
+   "s": 459.16,
+   "e": 459.24
+  },
+  {
+   "t": "we",
+   "s": 459.28,
+   "e": 459.32
+  },
+  {
+   "t": "only",
+   "s": 459.4,
+   "e": 459.64
+  },
+  {
+   "t": "know",
+   "s": 459.72,
+   "e": 459.8
+  },
+  {
+   "t": "it",
+   "s": 459.88,
+   "e": 459.96
+  },
+  {
+   "t": "ever",
+   "s": 460.04,
+   "e": 460.2
+  },
+  {
+   "t": "existed",
+   "s": 460.28,
+   "e": 460.76
+  },
+  {
+   "t": "because",
+   "s": 460.84,
+   "e": 461.08
+  },
+  {
+   "t": "one",
+   "s": 461.24,
+   "e": 461.4
+  },
+  {
+   "t": "ship",
+   "s": 461.48,
+   "e": 461.64
+  },
+  {
+   "t": "sank,",
+   "s": 461.72,
+   "e": 462.32
+  },
+  {
+   "t": "in",
+   "s": 462.52,
+   "e": 462.6
+  },
+  {
+   "t": "exactly",
+   "s": 462.68,
+   "e": 463.32
+  },
+  {
+   "t": "the",
+   "s": 463.4,
+   "e": 463.48
+  },
+  {
+   "t": "right",
+   "s": 463.56,
+   "e": 463.8
+  },
+  {
+   "t": "place.",
+   "s": 464.04,
+   "e": 464.36
+  },
+  {
+   "t": "Today,",
+   "s": 467.16,
+   "e": 467.88
+  },
+  {
+   "t": "what's",
+   "s": 468.04,
+   "e": 468.28
+  },
+  {
+   "t": "left",
+   "s": 468.36,
+   "e": 468.6
+  },
+  {
+   "t": "is",
+   "s": 468.68,
+   "e": 468.84
+  },
+  {
+   "t": "eighty-two",
+   "s": 468.92,
+   "e": 469.4
+  },
+  {
+   "t": "fragments,",
+   "s": 469.56,
+   "e": 470.24
+  },
+  {
+   "t": "in",
+   "s": 470.36,
+   "e": 470.44
+  },
+  {
+   "t": "a",
+   "s": 470.52,
+   "e": 470.56
+  },
+  {
+   "t": "museum",
+   "s": 470.6,
+   "e": 471.0
+  },
+  {
+   "t": "in",
+   "s": 471.04,
+   "e": 471.08
+  },
+  {
+   "t": "Athens.",
+   "s": 471.16,
+   "e": 472.04
+  },
+  {
+   "t": "But",
+   "s": 472.44,
+   "e": 472.52
+  },
+  {
+   "t": "the",
+   "s": 472.6,
+   "e": 472.68
+  },
+  {
+   "t": "idea",
+   "s": 472.76,
+   "e": 473.08
+  },
+  {
+   "t": "inside",
+   "s": 473.28,
+   "e": 473.48
+  },
+  {
+   "t": "them",
+   "s": 473.56,
+   "e": 473.72
+  },
+  {
+   "t": "came",
+   "s": 473.84,
+   "e": 473.96
+  },
+  {
+   "t": "back.",
+   "s": 474.04,
+   "e": 474.68
+  },
+  {
+   "t": "Gears",
+   "s": 475.08,
+   "e": 475.4
+  },
+  {
+   "t": "that",
+   "s": 475.48,
+   "e": 475.56
+  },
+  {
+   "t": "turn",
+   "s": 475.64,
+   "e": 475.8
+  },
+  {
+   "t": "the",
+   "s": 475.88,
+   "e": 475.96
+  },
+  {
+   "t": "movements",
+   "s": 476.04,
+   "e": 476.44
+  },
+  {
+   "t": "of",
+   "s": 476.52,
+   "e": 476.6
+  },
+  {
+   "t": "the",
+   "s": 476.64,
+   "e": 476.68
+  },
+  {
+   "t": "sky",
+   "s": 476.84,
+   "e": 477.16
+  },
+  {
+   "t": "into",
+   "s": 477.24,
+   "e": 477.4
+  },
+  {
+   "t": "the",
+   "s": 477.48,
+   "e": 477.56
+  },
+  {
+   "t": "movement",
+   "s": 477.64,
+   "e": 477.96
+  },
+  {
+   "t": "of",
+   "s": 478.04,
+   "e": 478.08
+  },
+  {
+   "t": "a",
+   "s": 478.12,
+   "e": 478.2
+  },
+  {
+   "t": "pointer.",
+   "s": 478.28,
+   "e": 479.12
+  },
+  {
+   "t": "It",
+   "s": 479.56,
+   "e": 479.64
+  },
+  {
+   "t": "came",
+   "s": 479.72,
+   "e": 479.96
+  },
+  {
+   "t": "back",
+   "s": 480.04,
+   "e": 480.2
+  },
+  {
+   "t": "in",
+   "s": 480.28,
+   "e": 480.36
+  },
+  {
+   "t": "those",
+   "s": 480.48,
+   "e": 480.6
+  },
+  {
+   "t": "medieval",
+   "s": 480.68,
+   "e": 481.08
+  },
+  {
+   "t": "clocks.",
+   "s": 481.16,
+   "e": 481.88
+  },
+  {
+   "t": "Then",
+   "s": 482.2,
+   "e": 482.28
+  },
+  {
+   "t": "in",
+   "s": 482.36,
+   "e": 482.44
+  },
+  {
+   "t": "pocket",
+   "s": 482.52,
+   "e": 482.84
+  },
+  {
+   "t": "watches.",
+   "s": 482.88,
+   "e": 483.6
+  },
+  {
+   "t": "And",
+   "s": 483.88,
+   "e": 483.96
+  },
+  {
+   "t": "today",
+   "s": 484.04,
+   "e": 484.28
+  },
+  {
+   "t": "it's",
+   "s": 484.36,
+   "e": 484.52
+  },
+  {
+   "t": "ticking",
+   "s": 484.6,
+   "e": 484.84
+  },
+  {
+   "t": "on",
+   "s": 484.92,
+   "e": 485.0
+  },
+  {
+   "t": "millions",
+   "s": 485.08,
+   "e": 485.48
+  },
+  {
+   "t": "of",
+   "s": 485.56,
+   "e": 485.64
+  },
+  {
+   "t": "wrists,",
+   "s": 485.68,
+   "e": 486.36
+  },
+  {
+   "t": "in",
+   "s": 486.6,
+   "e": 486.68
+  },
+  {
+   "t": "machines",
+   "s": 486.76,
+   "e": 487.24
+  },
+  {
+   "t": "that",
+   "s": 487.32,
+   "e": 487.4
+  },
+  {
+   "t": "still",
+   "s": 487.48,
+   "e": 487.72
+  },
+  {
+   "t": "keep",
+   "s": 487.8,
+   "e": 487.96
+  },
+  {
+   "t": "time",
+   "s": 488.04,
+   "e": 488.28
+  },
+  {
+   "t": "with",
+   "s": 488.36,
+   "e": 488.44
+  },
+  {
+   "t": "nothing",
+   "s": 488.52,
+   "e": 488.76
+  },
+  {
+   "t": "but",
+   "s": 488.84,
+   "e": 488.92
+  },
+  {
+   "t": "gears",
+   "s": 489.0,
+   "e": 489.32
+  },
+  {
+   "t": "and",
+   "s": 489.36,
+   "e": 489.4
+  },
+  {
+   "t": "springs,",
+   "s": 489.56,
+   "e": 490.2
+  },
+  {
+   "t": "and",
+   "s": 490.44,
+   "e": 490.52
+  },
+  {
+   "t": "no",
+   "s": 490.6,
+   "e": 490.76
+  },
+  {
+   "t": "battery",
+   "s": 490.84,
+   "e": 491.16
+  },
+  {
+   "t": "at",
+   "s": 491.24,
+   "e": 491.32
+  },
+  {
+   "t": "all.",
+   "s": 491.4,
+   "e": 492.12
+  },
+  {
+   "t": "The",
+   "s": 492.6,
+   "e": 492.68
+  },
+  {
+   "t": "builder",
+   "s": 492.76,
+   "e": 493.0
+  },
+  {
+   "t": "of",
+   "s": 493.08,
+   "e": 493.16
+  },
+  {
+   "t": "this",
+   "s": 493.28,
+   "e": 493.4
+  },
+  {
+   "t": "box",
+   "s": 493.56,
+   "e": 493.72
+  },
+  {
+   "t": "would",
+   "s": 493.88,
+   "e": 494.04
+  },
+  {
+   "t": "understand",
+   "s": 494.16,
+   "e": 494.6
+  },
+  {
+   "t": "one",
+   "s": 494.68,
+   "e": 494.84
+  },
+  {
+   "t": "of",
+   "s": 494.88,
+   "e": 494.92
+  },
+  {
+   "t": "them",
+   "s": 495.0,
+   "e": 495.16
+  },
+  {
+   "t": "instantly.",
+   "s": 495.24,
+   "e": 496.36
+  },
+  {
+   "t": "So",
+   "s": 496.84,
+   "e": 496.92
+  },
+  {
+   "t": "let's",
+   "s": 497.0,
+   "e": 497.16
+  },
+  {
+   "t": "open",
+   "s": 497.24,
+   "e": 497.48
+  },
+  {
+   "t": "one",
+   "s": 497.56,
+   "e": 497.72
+  },
+  {
+   "t": "up.",
+   "s": 497.8,
+   "e": 497.96
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+THE ANTIKYTHERA MECHANISM — long-form video (1920×1080, 8:35)
+
+TITLE (pick one)
+The 2,000-Year-Old Computer Found at the Bottom of the Sea
+  alt: The Ancient Computer That Shouldn't Exist
+
+THUMBNAILS (use YouTube "Test & Compare" with both)
+  thumb_A.jpg — split fragment, glowing gears, "100 BC"
+  thumb_B.jpg — same image, "WHO BUILT IT?"
+
+DESCRIPTION
+In 1901, sponge divers pulled a lump of corroded bronze from a Roman-era shipwreck off the Greek island of Antikythera. Inside it were gears: thirty survive, cut by hand, with teeth about 1.6 mm apart. Turn its handle and it showed the Sun and Moon moving through the zodiac, the Moon's phase, a 19-year calendar, the four-year cycle of the Greek games, and the eclipses coming years ahead. Nothing with gearing this complex survives again for well over a thousand years.
+
+We take it apart layer by layer: the crank and the 223-tooth drive wheel, the 64/38 × 48/24 × 127/32 gear train that gives the Moon's 254:19 ratio, the pin-and-slot that makes the Moon speed up and slow down, the Metonic and Saros spirals on the back, and the lost planetary gearing proposed by the 2021 UCL reconstruction.
+
+0:00 A lump of bronze
+0:36 The wreck, 1900
+1:32 Seeing inside
+2:27 How it worked
+3:35 The Moon's uneven speed
+4:37 The back dials: calendar, games and eclipses
+5:52 The lost planets
+6:50 Who built it?
+7:46 Where the idea went
+
+Next: see the same idea inside a modern mechanical watch → [link the Rolex calibre video]
+
+Sources and further reading
+• Freeth et al., "Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism", Nature (2006)
+• Freeth et al., "Calendars with Olympiad display and eclipse prediction on the Antikythera Mechanism", Nature (2008)
+• Freeth et al., "A Model of the Cosmos in the ancient Greek Antikythera Mechanism", Scientific Reports (2021)
+• Antikythera Mechanism Research Project; National Archaeological Museum, Athens
+
+Reconstructions shown are illustrations based on published research; parts of the mechanism (especially the planetary gearing) are still debated. Painted scenes are illustrations, not photographs.
+
+#antikythera #history #engineering #ancientgreece #astronomy
+
+TAGS
+antikythera mechanism, ancient computer, antikythera, ancient greek technology, oldest computer, ancient engineering, how the antikythera mechanism works, gears, astronomy history, shipwreck, archimedes, history documentary, mechanical computer
+
+CATEGORY: Education    MADE FOR KIDS: No
+CAPTIONS: upload "The Antikythera Mechanism.en.srt"
+END SCREEN (last 16 s): one "video" element over the framed box on the right, pointing to the Rolex calibre video.
