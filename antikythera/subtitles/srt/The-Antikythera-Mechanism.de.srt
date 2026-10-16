@@ -1,0 +1,795 @@
+1
+00:00:01,300 --> 00:00:03,420
+Das ist ein Klumpen korrodierter Bronze,
+
+2
+00:00:03,460 --> 00:00:06,190
+1901 aus einem Schiffswrack geborgen.
+
+3
+00:00:06,500 --> 00:00:08,940
+Die meisten glauben, dass Maschinen mit solchen Zahnrädern erst
+
+4
+00:00:08,980 --> 00:00:12,190
+mit den großen Uhren des mittelalterlichen Europas aufkamen.
+
+5
+00:00:12,580 --> 00:00:14,190
+Aber schau hinein.
+
+6
+00:00:14,420 --> 00:00:15,950
+Dreißig Zahnräder.
+
+7
+00:00:16,180 --> 00:00:18,990
+Zähne, kaum anderthalb Millimeter voneinander entfernt.
+
+8
+00:00:19,140 --> 00:00:21,020
+Eine Maschine, die den Mond verfolgen,
+
+9
+00:00:21,060 --> 00:00:25,030
+Finsternisse vorhersagen und die Olympischen Spiele zählen konnte.
+
+10
+00:00:25,220 --> 00:00:27,260
+Und sie wurde vor mehr als 2000 Jahren
+
+11
+00:00:27,300 --> 00:00:28,230
+gebaut.
+
+12
+00:00:28,500 --> 00:00:29,740
+Wer hat sie also gebaut?
+
+13
+00:00:29,780 --> 00:00:31,710
+Und wie um alles in der Welt funktionierte sie?
+
+14
+00:00:37,060 --> 00:00:38,700
+Im Frühjahr 1900 wurde
+
+15
+00:00:38,740 --> 00:00:40,860
+eine Mannschaft von Schwammtauchern von der Insel
+
+16
+00:00:40,900 --> 00:00:43,510
+Symi durch einen Sturm vom Kurs abgebracht.
+
+17
+00:00:43,700 --> 00:00:45,980
+Sie suchten Schutz bei Antikythera,
+
+18
+00:00:46,020 --> 00:00:49,430
+einer winzigen Insel zwischen Kreta und dem griechischen Festland.
+
+19
+00:00:49,700 --> 00:00:50,620
+Als sich das Wetter besserte,
+
+20
+00:00:50,660 --> 00:00:51,980
+tauchte einer von ihnen hinab,
+
+21
+00:00:52,020 --> 00:00:55,580
+etwa 45 Meter tief, und kam erschüttert zurück,
+
+22
+00:00:55,620 --> 00:00:58,270
+er sprach von Leichen auf dem Meeresgrund.
+
+23
+00:00:58,580 --> 00:00:59,900
+Es waren keine Leichen.
+
+24
+00:00:59,940 --> 00:01:02,700
+Es waren Statuen, aus Bronze und Marmor,
+
+25
+00:01:02,740 --> 00:01:04,940
+zwischen den Überresten eines Frachtschiffs,
+
+26
+00:01:04,980 --> 00:01:07,310
+das um 70–60 v. Chr. gesunken war.
+
+27
+00:01:07,680 --> 00:01:10,520
+In den folgenden Monaten bargen die Taucher Statuen, Glas,
+
+28
+00:01:10,560 --> 00:01:14,200
+Keramik und, höchstwahrscheinlich im Sommer 1901,
+
+29
+00:01:14,240 --> 00:01:17,800
+einen formlosen Klumpen aus korrodierter Bronze
+
+30
+00:01:17,840 --> 00:01:19,410
+und morschem Holz.
+
+31
+00:01:19,680 --> 00:01:21,320
+Neben den Statuen
+
+32
+00:01:21,360 --> 00:01:23,490
+schenkte ihm niemand Beachtung.
+
+33
+00:01:23,600 --> 00:01:25,960
+Dann, im Mai 1902,
+
+34
+00:01:26,000 --> 00:01:29,240
+bemerkte der Archäologe Valerios Stais etwas in einem
+
+35
+00:01:29,280 --> 00:01:30,570
+der Stücke.
+
+36
+00:01:30,800 --> 00:01:31,850
+Ein Zahnrad.
+
+37
+00:01:33,500 --> 00:01:35,860
+Ein Zahnrad, in einem Schiff, das vor über 2000
+
+38
+00:01:35,900 --> 00:01:37,140
+Jahren gesunken war,
+
+39
+00:01:37,180 --> 00:01:38,710
+ergab keinen Sinn.
+
+40
+00:01:38,940 --> 00:01:41,380
+Jahrzehntelang lagen die Fragmente im Museum in Athen,
+
+41
+00:01:41,420 --> 00:01:44,910
+ein Rätsel, das kaum jemand lesen konnte.
+
+42
+00:01:45,180 --> 00:01:47,260
+Der Mann, der nicht lockerließ,
+
+43
+00:01:47,300 --> 00:01:49,990
+war der Historiker Derek de Solla Price.
+
+44
+00:01:50,220 --> 00:01:52,100
+Anfang der 1970er-Jahre
+
+45
+00:01:52,140 --> 00:01:55,750
+durchleuchtete er die Fragmente gemeinsam mit dem griechischen
+
+46
+00:01:55,820 --> 00:01:57,220
+Physiker Charalampos Karakalos
+
+47
+00:01:57,260 --> 00:01:59,220
+mit Röntgenstrahlen, und zum ersten Mal sah man
+
+48
+00:01:59,260 --> 00:02:01,030
+Zahnräder im Stein.
+
+49
+00:02:01,340 --> 00:02:03,620
+Dann, 2005,
+
+50
+00:02:03,660 --> 00:02:06,660
+brachte ein Forschungsteam einen acht Tonnen schweren Röntgenscanner
+
+51
+00:02:06,700 --> 00:02:09,780
+ins Museum und zerlegte die Fragmente in Tausende
+
+52
+00:02:09,820 --> 00:02:11,430
+virtueller Schichten.
+
+53
+00:02:11,660 --> 00:02:13,910
+Was sie fanden, war erstaunlich.
+
+54
+00:02:14,060 --> 00:02:17,780
+Dreißig erhaltene Zahnräder, von Hand aus Bronzeblech geschnitten,
+
+55
+00:02:17,820 --> 00:02:19,590
+mit dreieckigen Zähnen.
+
+56
+00:02:19,740 --> 00:02:21,140
+Und auf den Oberflächen
+
+57
+00:02:21,180 --> 00:02:23,670
+Tausende winziger griechischer Buchstaben.
+
+58
+00:02:23,900 --> 00:02:26,710
+Die Maschine hatte ihre eigene Bedienungsanleitung.
+
+59
+00:02:29,260 --> 00:02:31,150
+Also, wie funktionierte sie?
+
+60
+00:02:31,500 --> 00:02:32,900
+Stell dir ein Holzgehäuse vor,
+
+61
+00:02:32,940 --> 00:02:34,313
+etwa so groß wie ein Schuhkarton,
+
+62
+00:02:34,353 --> 00:02:36,270
+mit einer Kurbel an der Seite.
+
+63
+00:02:36,540 --> 00:02:38,980
+Dreh die Kurbel, und ein kleines Kronrad treibt
+
+64
+00:02:39,020 --> 00:02:40,910
+das größte Rad im Inneren an,
+
+65
+00:02:41,020 --> 00:02:44,150
+ein Rad mit 223 Zähnen.
+
+66
+00:02:44,380 --> 00:02:47,310
+Eine volle Umdrehung dieses Rades ist ein Jahr.
+
+67
+00:02:47,660 --> 00:02:49,980
+Vorne trägt ein Zeiger die Sonne um einen Tierkreisring,
+
+68
+00:02:50,020 --> 00:02:51,620
+und
+
+69
+00:02:51,660 --> 00:02:53,580
+darum liegt ein Ring für die Monate des
+
+70
+00:02:53,620 --> 00:02:55,430
+ägyptischen Kalenders.
+
+71
+00:02:55,660 --> 00:02:57,990
+Ein zweiter Zeiger trägt den Mond.
+
+72
+00:02:58,140 --> 00:02:59,940
+Aber der Mond umrundet den Himmel mehr als
+
+73
+00:02:59,980 --> 00:03:01,140
+dreizehnmal im Jahr,
+
+74
+00:03:01,180 --> 00:03:03,380
+also müssen die Zahnräder ihn beschleunigen,
+
+75
+00:03:03,420 --> 00:03:05,830
+und zwar um genau das richtige Maß.
+
+76
+00:03:06,060 --> 00:03:08,100
+Die Griechen wussten, dass der Mond
+
+77
+00:03:08,140 --> 00:03:11,870
+in 19 Jahren 254-mal den Tierkreis durchläuft.
+
+78
+00:03:11,980 --> 00:03:13,993
+Das Getriebe braucht also ein
+
+79
+00:03:14,033 --> 00:03:16,550
+Verhältnis von 254 zu 19.
+
+80
+00:03:16,860 --> 00:03:18,630
+So haben sie es gebaut.
+
+81
+00:03:18,780 --> 00:03:21,390
+64 Zähne treiben 38 an.
+
+82
+00:03:21,500 --> 00:03:23,910
+48 treiben 24 an.
+
+83
+00:03:23,980 --> 00:03:25,220
+127
+
+84
+00:03:25,260 --> 00:03:26,950
+treiben 32 an.
+
+85
+00:03:27,100 --> 00:03:29,540
+Multipliziert man sie, erhält
+
+86
+00:03:29,580 --> 00:03:31,830
+man 254 durch 19.
+
+87
+00:03:31,900 --> 00:03:32,710
+Genau.
+
+88
+00:03:36,960 --> 00:03:39,210
+Aber der Mond hat noch einen Trick.
+
+89
+00:03:39,440 --> 00:03:42,450
+Er zieht nicht mit gleichmäßiger Geschwindigkeit über den Himmel.
+
+90
+00:03:42,640 --> 00:03:44,920
+Heute wissen wir, dass seine Bahn eine Ellipse ist:
+
+91
+00:03:44,960 --> 00:03:47,080
+Er wird schneller, wenn er uns näher ist,
+
+92
+00:03:47,120 --> 00:03:49,730
+und langsamer, wenn er weiter weg ist.
+
+93
+00:03:50,000 --> 00:03:52,840
+Der griechische Astronom Hipparchos hatte eine Theorie entwickelt,
+
+94
+00:03:52,880 --> 00:03:56,280
+um diese Ungleichmäßigkeit zu erklären, und jemand hat diese Theorie in Bronze
+
+95
+00:03:56,320 --> 00:03:57,650
+verwandelt.
+
+96
+00:03:58,000 --> 00:04:00,280
+Zwei identische Zahnräder liegen einander gegenüber,
+
+97
+00:04:00,320 --> 00:04:02,570
+auf leicht versetzten Achsen.
+
+98
+00:04:02,720 --> 00:04:04,840
+Ein kleiner Stift auf dem einen läuft in
+
+99
+00:04:04,880 --> 00:04:06,410
+einem Schlitz im anderen.
+
+100
+00:04:06,640 --> 00:04:08,680
+Beim Drehen gleitet der Stift im Schlitz hin und her,
+
+101
+00:04:08,720 --> 00:04:11,200
+sodass das zweite Rad ein wenig vorgeschoben
+
+102
+00:04:11,240 --> 00:04:14,050
+und dann ein wenig zurückgehalten wird.
+
+103
+00:04:14,160 --> 00:04:17,930
+Schneller, dann langsamer, einmal in jedem Mondmonat.
+
+104
+00:04:18,000 --> 00:04:21,240
+Und weil sich die Mondbahn selbst langsam dreht,
+
+105
+00:04:21,280 --> 00:04:24,080
+sitzt dieses ganze Paar auf einem weiteren rotierenden Zahnrad,
+
+106
+00:04:24,120 --> 00:04:26,120
+das es alle 8,88 Jahre einmal
+
+107
+00:04:26,160 --> 00:04:28,610
+ganz herumträgt.
+
+108
+00:04:28,880 --> 00:04:31,000
+Ein Getriebe mit variabler Geschwindigkeit,
+
+109
+00:04:31,040 --> 00:04:33,130
+auf einer beweglichen Plattform.
+
+110
+00:04:33,200 --> 00:04:35,210
+Vor mehr als 2000 Jahren.
+
+111
+00:04:38,960 --> 00:04:40,920
+Jetzt dreh die Kiste um.
+
+112
+00:04:40,960 --> 00:04:44,010
+Die Rückseite ist von zwei großen Spiralen bedeckt.
+
+113
+00:04:44,160 --> 00:04:46,160
+Die obere ist ein Kalender aus 235
+
+114
+00:04:46,200 --> 00:04:50,170
+Monaten, verteilt auf fünf Windungen.
+
+115
+00:04:50,320 --> 00:04:52,650
+Er beruht auf dem Meton-Zyklus:
+
+116
+00:04:52,720 --> 00:04:55,560
+Nach neunzehn Jahren fallen die Mondphasen wieder
+
+117
+00:04:55,600 --> 00:04:57,570
+auf dieselben Daten.
+
+118
+00:04:57,840 --> 00:05:00,720
+Beim Kurbeln wandert der Zeiger im Kreis nach außen,
+
+119
+00:05:00,760 --> 00:05:04,120
+und ein kleiner Stift folgt der Rille,
+
+120
+00:05:04,160 --> 00:05:07,090
+damit man immer weiß, auf welcher Windung man ist.
+
+121
+00:05:07,360 --> 00:05:10,850
+Darin sitzt ein kleines, viergeteiltes Zifferblatt.
+
+122
+00:05:10,960 --> 00:05:13,400
+Es zählt die großen Wettkämpfe Griechenlands,
+
+123
+00:05:13,440 --> 00:05:15,560
+einschließlich der Olympischen Spiele,
+
+124
+00:05:15,600 --> 00:05:17,640
+und es ist der einzige Zeiger der ganzen Maschine,
+
+125
+00:05:17,680 --> 00:05:19,650
+der sich andersherum dreht.
+
+126
+00:05:20,000 --> 00:05:22,930
+Die untere Spirale war die wichtigste.
+
+127
+00:05:23,040 --> 00:05:24,840
+223 Monate,
+
+128
+00:05:24,880 --> 00:05:26,570
+auf vier Windungen.
+
+129
+00:05:26,640 --> 00:05:28,970
+Das ist der Saros-Zyklus.
+
+130
+00:05:29,200 --> 00:05:32,520
+Babylonische Astronomen hatten bemerkt, dass sich Finsternisse in einem
+
+131
+00:05:32,560 --> 00:05:35,010
+Muster von etwa achtzehn Jahren wiederholen.
+
+132
+00:05:35,120 --> 00:05:37,160
+Hier sind die Monate mit einer Finsternis also mit
+
+133
+00:05:37,200 --> 00:05:38,930
+einem winzigen Symbol markiert:
+
+134
+00:05:39,040 --> 00:05:40,520
+38 für den Mond,
+
+135
+00:05:40,560 --> 00:05:42,360
+27 für die Sonne,
+
+136
+00:05:42,400 --> 00:05:44,530
+manche sogar mit Uhrzeit.
+
+137
+00:05:44,720 --> 00:05:46,760
+Dreh die Kurbel, folge dem Zeiger,
+
+138
+00:05:46,800 --> 00:05:49,290
+und man sah eine Finsternis Jahre im Voraus kommen.
+
+139
+00:05:53,240 --> 00:05:56,170
+Und dann gibt es den Teil, über den wir noch streiten.
+
+140
+00:05:56,360 --> 00:05:58,930
+Die Inschrift auf der Vorderseite nennt die Planeten:
+
+141
+00:05:59,000 --> 00:06:01,920
+Merkur, Venus, Mars,
+
+142
+00:06:01,960 --> 00:06:03,250
+Jupiter und Saturn.
+
+143
+00:06:03,400 --> 00:06:06,370
+Aber welche Zahnräder sie auch antrieben, sie sind verloren.
+
+144
+00:06:06,600 --> 00:06:08,400
+Dann, 2016,
+
+145
+00:06:08,440 --> 00:06:12,210
+enthüllten die Scans zwei Zahlen, die in diesem Text versteckt waren.
+
+146
+00:06:12,440 --> 00:06:13,920
+462,
+
+147
+00:06:13,960 --> 00:06:15,170
+für die Venus.
+
+148
+00:06:15,240 --> 00:06:16,560
+442,
+
+149
+00:06:16,600 --> 00:06:17,890
+für den Saturn.
+
+150
+00:06:18,120 --> 00:06:21,970
+Planetenzyklen, und bemerkenswert genaue.
+
+151
+00:06:22,280 --> 00:06:25,840
+2021 nutzte ein Team des University College London diese Zahlen,
+
+152
+00:06:25,880 --> 00:06:28,320
+um Getriebe zu entwerfen,
+
+153
+00:06:28,360 --> 00:06:30,730
+die tatsächlich in den verfügbaren Raum passen:
+
+154
+00:06:30,840 --> 00:06:32,720
+eine Rekonstruktion mit Sonne,
+
+155
+00:06:32,760 --> 00:06:35,040
+Mond und allen fünf Planeten,
+
+156
+00:06:35,080 --> 00:06:37,730
+die sich auf Ringen um das vordere Zifferblatt bewegen.
+
+157
+00:06:37,960 --> 00:06:39,880
+Das Team sagt klar, dass es nicht sicher sein kann,
+
+158
+00:06:39,920 --> 00:06:40,960
+ob sie stimmt.
+
+159
+00:06:41,000 --> 00:06:43,280
+Niemand hat diese Zahnräder gefunden, um es zu überprüfen.
+
+160
+00:06:43,320 --> 00:06:44,640
+Aber wenn sie auch nur annähernd stimmt,
+
+161
+00:06:44,680 --> 00:06:46,680
+war diese kleine Kiste ein Modell des gesamten
+
+162
+00:06:46,720 --> 00:06:47,730
+bekannten Kosmos.
+
+163
+00:06:51,080 --> 00:06:52,730
+Wer hat sie also gebaut?
+
+164
+00:06:52,920 --> 00:06:54,210
+Wir wissen es nicht.
+
+165
+00:06:54,360 --> 00:06:56,200
+Die Monatsnamen auf der Rückseite deuten auf
+
+166
+00:06:56,240 --> 00:06:58,240
+Korinth oder eine seiner Kolonien,
+
+167
+00:06:58,280 --> 00:07:01,200
+vielleicht Syrakus, die Stadt des Archimedes,
+
+168
+00:07:01,240 --> 00:07:03,200
+der über ein Jahrhundert vor dem Untergang des Schiffs
+
+169
+00:07:03,240 --> 00:07:04,770
+gestorben war.
+
+170
+00:07:05,080 --> 00:07:08,120
+Der römische Schriftsteller Cicero beschreibt Maschinen,
+
+171
+00:07:08,160 --> 00:07:09,520
+die die Bewegungen von Sonne,
+
+172
+00:07:09,560 --> 00:07:11,450
+Mond und Planeten zeigten,
+
+173
+00:07:11,560 --> 00:07:14,600
+eine von Archimedes und eine weitere vom Philosophen
+
+174
+00:07:14,640 --> 00:07:16,130
+Poseidonios.
+
+175
+00:07:16,360 --> 00:07:18,090
+Wahrscheinlich nicht diese hier.
+
+176
+00:07:18,200 --> 00:07:20,690
+Aber ein Zeichen, dass sie nicht die einzige war.
+
+177
+00:07:21,000 --> 00:07:23,610
+Was wir wissen, ist, was danach kam.
+
+178
+00:07:23,720 --> 00:07:24,810
+Nichts.
+
+179
+00:07:24,920 --> 00:07:26,960
+Für weit über tausend Jahre ist
+
+180
+00:07:27,000 --> 00:07:30,210
+nirgendwo etwas mit so komplexer Zahnradtechnik erhalten.
+
+181
+00:07:30,360 --> 00:07:33,120
+Die nächsten Maschinen, die da herankommen, sind die astronomischen
+
+182
+00:07:33,160 --> 00:07:35,650
+Uhren Europas im 14. Jahrhundert.
+
+183
+00:07:35,880 --> 00:07:37,840
+Das Wissen ist nicht einfach verblasst.
+
+184
+00:07:37,880 --> 00:07:39,120
+Es verschwand.
+
+185
+00:07:39,160 --> 00:07:41,440
+Und wir wissen nur, dass es je existierte,
+
+186
+00:07:41,480 --> 00:07:44,610
+weil ein Schiff genau an der richtigen Stelle sank.
+
+187
+00:07:47,160 --> 00:07:50,320
+Heute sind davon 82 Fragmente übrig,
+
+188
+00:07:50,360 --> 00:07:52,290
+in einem Museum in Athen.
+
+189
+00:07:52,440 --> 00:07:54,930
+Aber die Idee darin kam zurück.
+
+190
+00:07:55,080 --> 00:07:57,440
+Zahnräder, die die Bewegungen des Himmels in die
+
+191
+00:07:57,480 --> 00:07:59,370
+Bewegung eines Zeigers verwandeln.
+
+192
+00:07:59,560 --> 00:08:02,130
+Sie kam in jenen mittelalterlichen Uhren zurück.
+
+193
+00:08:02,200 --> 00:08:03,840
+Dann in Taschenuhren.
+
+194
+00:08:03,880 --> 00:08:06,560
+Und heute tickt sie an Millionen Handgelenken,
+
+195
+00:08:06,600 --> 00:08:08,960
+in Maschinen, die die Zeit immer noch nur mit Zahnrädern
+
+196
+00:08:09,000 --> 00:08:12,370
+und Federn messen, ganz ohne Batterie.
+
+197
+00:08:12,600 --> 00:08:14,960
+Der Erbauer dieser Kiste würde eine davon
+
+198
+00:08:15,000 --> 00:08:16,610
+sofort verstehen.
+
+199
+00:08:16,840 --> 00:08:18,560
+Also öffnen wir eine.

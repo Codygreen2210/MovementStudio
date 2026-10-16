@@ -1,0 +1,795 @@
+1
+00:00:01,300 --> 00:00:03,420
+Isto é um bloco de bronze corroído,
+
+2
+00:00:03,460 --> 00:00:06,190
+retirado de um naufrágio em 1901.
+
+3
+00:00:06,500 --> 00:00:08,940
+A maioria das pessoas acha que máquinas com engrenagens assim
+
+4
+00:00:08,980 --> 00:00:12,190
+só surgiram com os grandes relógios da Europa medieval.
+
+5
+00:00:12,580 --> 00:00:14,190
+Mas olhe por dentro.
+
+6
+00:00:14,420 --> 00:00:15,950
+Trinta engrenagens.
+
+7
+00:00:16,180 --> 00:00:18,990
+Dentes separados por apenas um milímetro e meio.
+
+8
+00:00:19,140 --> 00:00:21,020
+Uma máquina capaz de acompanhar a Lua,
+
+9
+00:00:21,060 --> 00:00:25,030
+prever eclipses e contar os Jogos Olímpicos.
+
+10
+00:00:25,220 --> 00:00:27,260
+E foi construída há mais de 2.000
+
+11
+00:00:27,300 --> 00:00:28,230
+anos.
+
+12
+00:00:28,500 --> 00:00:29,740
+Então, quem a fez?
+
+13
+00:00:29,780 --> 00:00:31,710
+E como é que ela funcionava?
+
+14
+00:00:37,060 --> 00:00:38,700
+Na primavera de 1900,
+
+15
+00:00:38,740 --> 00:00:40,860
+uma tripulação de mergulhadores de esponjas da ilha de
+
+16
+00:00:40,900 --> 00:00:43,510
+Symi foi desviada da rota por uma tempestade.
+
+17
+00:00:43,700 --> 00:00:45,980
+Eles se abrigaram em Anticítera,
+
+18
+00:00:46,020 --> 00:00:49,430
+uma ilha minúscula entre Creta e a Grécia continental.
+
+19
+00:00:49,700 --> 00:00:50,620
+Quando o tempo melhorou,
+
+20
+00:00:50,660 --> 00:00:51,980
+um deles desceu,
+
+21
+00:00:52,020 --> 00:00:55,580
+a uns 45 metros, e voltou abalado,
+
+22
+00:00:55,620 --> 00:00:58,270
+falando de corpos no fundo do mar.
+
+23
+00:00:58,580 --> 00:00:59,900
+Não eram corpos.
+
+24
+00:00:59,940 --> 00:01:02,700
+Eram estátuas, de bronze e de mármore,
+
+25
+00:01:02,740 --> 00:01:04,940
+entre os restos de um navio de carga que
+
+26
+00:01:04,980 --> 00:01:07,310
+afundou por volta de 70–60 a.C.
+
+27
+00:01:07,680 --> 00:01:10,520
+Nos meses seguintes, os mergulhadores trouxeram estátuas,
+
+28
+00:01:10,560 --> 00:01:14,200
+vidros, cerâmica e, muito provavelmente no verão de 1901,
+
+29
+00:01:14,240 --> 00:01:17,800
+um bloco disforme de bronze corroído
+
+30
+00:01:17,840 --> 00:01:19,410
+e madeira podre.
+
+31
+00:01:19,680 --> 00:01:21,320
+Ao lado das estátuas,
+
+32
+00:01:21,360 --> 00:01:23,490
+ninguém deu atenção a ele.
+
+33
+00:01:23,600 --> 00:01:25,960
+Então, em maio de 1902,
+
+34
+00:01:26,000 --> 00:01:29,240
+o arqueólogo Valerios Stais notou algo em um
+
+35
+00:01:29,280 --> 00:01:30,570
+dos pedaços.
+
+36
+00:01:30,800 --> 00:01:31,850
+Uma roda dentada.
+
+37
+00:01:33,500 --> 00:01:35,860
+Uma engrenagem, num navio que afundou há mais
+
+38
+00:01:35,900 --> 00:01:37,140
+de 2.000 anos,
+
+39
+00:01:37,180 --> 00:01:38,710
+não fazia sentido.
+
+40
+00:01:38,940 --> 00:01:41,380
+Por décadas, os fragmentos ficaram no museu de Atenas,
+
+41
+00:01:41,420 --> 00:01:44,910
+um enigma que quase ninguém conseguia decifrar.
+
+42
+00:01:45,180 --> 00:01:47,260
+O homem que se recusou a desistir foi
+
+43
+00:01:47,300 --> 00:01:49,990
+o historiador Derek de Solla Price.
+
+44
+00:01:50,220 --> 00:01:52,100
+No início dos anos 1970,
+
+45
+00:01:52,140 --> 00:01:55,750
+com o físico grego Charalampos Karakalos,
+
+46
+00:01:55,820 --> 00:01:57,220
+ele fez raios X dos fragmentos,
+
+47
+00:01:57,260 --> 00:01:59,220
+e pela primeira vez foi possível ver engrenagens
+
+48
+00:01:59,260 --> 00:02:01,030
+dentro da pedra.
+
+49
+00:02:01,340 --> 00:02:03,620
+Depois, em 2005,
+
+50
+00:02:03,660 --> 00:02:06,660
+uma equipe de pesquisa levou ao museu um scanner de raios
+
+51
+00:02:06,700 --> 00:02:09,780
+X de oito toneladas e dividiu os fragmentos em milhares de
+
+52
+00:02:09,820 --> 00:02:11,430
+camadas virtuais.
+
+53
+00:02:11,660 --> 00:02:13,910
+O que encontraram foi impressionante.
+
+54
+00:02:14,060 --> 00:02:17,780
+Trinta engrenagens preservadas, cortadas à mão em chapa de bronze,
+
+55
+00:02:17,820 --> 00:02:19,590
+com dentes triangulares.
+
+56
+00:02:19,740 --> 00:02:21,140
+E nas superfícies,
+
+57
+00:02:21,180 --> 00:02:23,670
+milhares de minúsculas letras gregas.
+
+58
+00:02:23,900 --> 00:02:26,710
+A máquina vinha com seu próprio manual de instruções.
+
+59
+00:02:29,260 --> 00:02:31,150
+Então, como funcionava?
+
+60
+00:02:31,500 --> 00:02:32,900
+Imagine uma caixa de madeira,
+
+61
+00:02:32,940 --> 00:02:34,313
+do tamanho de uma caixa de sapatos,
+
+62
+00:02:34,353 --> 00:02:36,270
+com uma manivela na lateral.
+
+63
+00:02:36,540 --> 00:02:38,980
+Gire a manivela, e uma pequena engrenagem de coroa
+
+64
+00:02:39,020 --> 00:02:40,910
+move a maior roda lá dentro,
+
+65
+00:02:41,020 --> 00:02:44,150
+uma roda com 223 dentes.
+
+66
+00:02:44,380 --> 00:02:47,310
+Uma volta completa dessa roda é um ano.
+
+67
+00:02:47,660 --> 00:02:49,980
+Na frente, um ponteiro leva o Sol ao redor de
+
+68
+00:02:50,020 --> 00:02:51,620
+um anel do zodíaco e,
+
+69
+00:02:51,660 --> 00:02:53,580
+em volta dele, um anel com os meses
+
+70
+00:02:53,620 --> 00:02:55,430
+do calendário egípcio.
+
+71
+00:02:55,660 --> 00:02:57,990
+Um segundo ponteiro leva a Lua.
+
+72
+00:02:58,140 --> 00:02:59,940
+Mas a Lua dá a volta no céu mais de treze
+
+73
+00:02:59,980 --> 00:03:01,140
+vezes por ano,
+
+74
+00:03:01,180 --> 00:03:03,380
+então as engrenagens precisam acelerá-la,
+
+75
+00:03:03,420 --> 00:03:05,830
+e exatamente na medida certa.
+
+76
+00:03:06,060 --> 00:03:08,100
+Os gregos sabiam que a Lua dá
+
+77
+00:03:08,140 --> 00:03:11,870
+254 voltas pelo zodíaco a cada 19 anos.
+
+78
+00:03:11,980 --> 00:03:13,993
+Então a engrenagem precisa de uma
+
+79
+00:03:14,033 --> 00:03:16,550
+relação de 254 para 19.
+
+80
+00:03:16,860 --> 00:03:18,630
+Veja como eles a construíram.
+
+81
+00:03:18,780 --> 00:03:21,390
+64 dentes, movendo 38.
+
+82
+00:03:21,500 --> 00:03:23,910
+48, movendo 24.
+
+83
+00:03:23,980 --> 00:03:25,220
+127,
+
+84
+00:03:25,260 --> 00:03:26,950
+movendo 32.
+
+85
+00:03:27,100 --> 00:03:29,540
+Multiplique tudo, e você obtém
+
+86
+00:03:29,580 --> 00:03:31,830
+254 sobre 19.
+
+87
+00:03:31,900 --> 00:03:32,710
+Exatamente.
+
+88
+00:03:36,960 --> 00:03:39,210
+Mas a Lua tem outro truque.
+
+89
+00:03:39,440 --> 00:03:42,450
+Ela não atravessa o céu a uma velocidade constante.
+
+90
+00:03:42,640 --> 00:03:44,920
+Hoje sabemos que sua órbita é uma elipse,
+
+91
+00:03:44,960 --> 00:03:47,080
+então ela acelera quando está mais perto
+
+92
+00:03:47,120 --> 00:03:49,730
+de nós e desacelera quando está mais longe.
+
+93
+00:03:50,000 --> 00:03:52,840
+O astrônomo grego Hiparco havia criado uma teoria para
+
+94
+00:03:52,880 --> 00:03:56,280
+explicar essa irregularidade, e alguém transformou essa teoria em
+
+95
+00:03:56,320 --> 00:03:57,650
+bronze.
+
+96
+00:03:58,000 --> 00:04:00,280
+Duas engrenagens idênticas ficam frente a frente,
+
+97
+00:04:00,320 --> 00:04:02,570
+em centros ligeiramente diferentes.
+
+98
+00:04:02,720 --> 00:04:04,840
+Um pequeno pino em uma corre dentro de uma
+
+99
+00:04:04,880 --> 00:04:06,410
+fenda cortada na outra.
+
+100
+00:04:06,640 --> 00:04:08,680
+Conforme giram, o pino desliza para dentro e para fora da fenda,
+
+101
+00:04:08,720 --> 00:04:11,200
+então a segunda engrenagem é empurrada
+
+102
+00:04:11,240 --> 00:04:14,050
+um pouco à frente e depois segurada um pouco atrás.
+
+103
+00:04:14,160 --> 00:04:17,930
+Mais rápido, depois mais devagar, uma vez a cada mês lunar.
+
+104
+00:04:18,000 --> 00:04:21,240
+E como a própria órbita da Lua gira lentamente,
+
+105
+00:04:21,280 --> 00:04:24,080
+todo esse par fica sobre outra engrenagem giratória
+
+106
+00:04:24,120 --> 00:04:26,120
+que o leva a dar uma volta completa a
+
+107
+00:04:26,160 --> 00:04:28,610
+cada 8,88 anos.
+
+108
+00:04:28,880 --> 00:04:31,000
+Um trem de engrenagens de velocidade variável,
+
+109
+00:04:31,040 --> 00:04:33,130
+sobre uma plataforma em movimento.
+
+110
+00:04:33,200 --> 00:04:35,210
+Há mais de 2.000 anos.
+
+111
+00:04:38,960 --> 00:04:40,920
+Agora vire a caixa.
+
+112
+00:04:40,960 --> 00:04:44,010
+A parte de trás é coberta por duas grandes espirais.
+
+113
+00:04:44,160 --> 00:04:46,160
+A de cima é um calendário de 235 meses,
+
+114
+00:04:46,200 --> 00:04:50,170
+distribuídos em cinco voltas.
+
+115
+00:04:50,320 --> 00:04:52,650
+Ele se baseia no ciclo metônico:
+
+116
+00:04:52,720 --> 00:04:55,560
+depois de dezenove anos, as fases da Lua caem
+
+117
+00:04:55,600 --> 00:04:57,570
+de novo nas mesmas datas.
+
+118
+00:04:57,840 --> 00:05:00,720
+Ao girar a manivela, o ponteiro avança em círculos para fora,
+
+119
+00:05:00,760 --> 00:05:04,120
+com um pequeno pino seguindo o sulco,
+
+120
+00:05:04,160 --> 00:05:07,090
+para você sempre saber em que volta está.
+
+121
+00:05:07,360 --> 00:05:10,850
+Dentro dela há um pequeno mostrador dividido em quatro.
+
+122
+00:05:10,960 --> 00:05:13,400
+Ele acompanha os grandes jogos atléticos da Grécia,
+
+123
+00:05:13,440 --> 00:05:15,560
+incluindo as Olimpíadas,
+
+124
+00:05:15,600 --> 00:05:17,640
+e é o único ponteiro de toda a máquina que
+
+125
+00:05:17,680 --> 00:05:19,650
+gira no sentido contrário.
+
+126
+00:05:20,000 --> 00:05:22,930
+A espiral de baixo é a que mais importava.
+
+127
+00:05:23,040 --> 00:05:24,840
+223 meses,
+
+128
+00:05:24,880 --> 00:05:26,570
+em quatro voltas.
+
+129
+00:05:26,640 --> 00:05:28,970
+Este é o ciclo de Saros.
+
+130
+00:05:29,200 --> 00:05:32,520
+Os astrônomos babilônios haviam notado que os eclipses se repetem
+
+131
+00:05:32,560 --> 00:05:35,010
+num padrão de cerca de dezoito anos.
+
+132
+00:05:35,120 --> 00:05:37,160
+Então aqui, os meses com eclipse são marcados com
+
+133
+00:05:37,200 --> 00:05:38,930
+um pequeno símbolo:
+
+134
+00:05:39,040 --> 00:05:40,520
+38 para a Lua,
+
+135
+00:05:40,560 --> 00:05:42,360
+27 para o Sol,
+
+136
+00:05:42,400 --> 00:05:44,530
+alguns até indicando a hora.
+
+137
+00:05:44,720 --> 00:05:46,760
+Gire a manivela, siga o ponteiro,
+
+138
+00:05:46,800 --> 00:05:49,290
+e dava para ver um eclipse chegando com anos de antecedência.
+
+139
+00:05:53,240 --> 00:05:56,170
+E depois há a parte que ainda discutimos.
+
+140
+00:05:56,360 --> 00:05:58,930
+A inscrição da frente cita os planetas:
+
+141
+00:05:59,000 --> 00:06:01,920
+Mercúrio, Vênus, Marte,
+
+142
+00:06:01,960 --> 00:06:03,250
+Júpiter e Saturno.
+
+143
+00:06:03,400 --> 00:06:06,370
+Mas as engrenagens que os moviam, quaisquer que fossem, se perderam.
+
+144
+00:06:06,600 --> 00:06:08,400
+Então, em 2016,
+
+145
+00:06:08,440 --> 00:06:12,210
+os escaneamentos revelaram dois números escondidos nesse texto.
+
+146
+00:06:12,440 --> 00:06:13,920
+462,
+
+147
+00:06:13,960 --> 00:06:15,170
+para Vênus.
+
+148
+00:06:15,240 --> 00:06:16,560
+442,
+
+149
+00:06:16,600 --> 00:06:17,890
+para Saturno.
+
+150
+00:06:18,120 --> 00:06:21,970
+Ciclos planetários, e notavelmente precisos.
+
+151
+00:06:22,280 --> 00:06:25,840
+Em 2021, uma equipe da University College London
+
+152
+00:06:25,880 --> 00:06:28,320
+usou esses números para projetar trens de engrenagens
+
+153
+00:06:28,360 --> 00:06:30,730
+que realmente coubessem no espaço disponível:
+
+154
+00:06:30,840 --> 00:06:32,720
+uma reconstrução com o Sol,
+
+155
+00:06:32,760 --> 00:06:35,040
+a Lua e os cinco planetas,
+
+156
+00:06:35,080 --> 00:06:37,730
+girando em anéis ao redor do mostrador frontal.
+
+157
+00:06:37,960 --> 00:06:39,880
+A equipe deixa claro que não pode ter certeza de que
+
+158
+00:06:39,920 --> 00:06:40,960
+está correta.
+
+159
+00:06:41,000 --> 00:06:43,280
+Ninguém encontrou essas engrenagens para conferir.
+
+160
+00:06:43,320 --> 00:06:44,640
+Mas, se estiverem pelo menos perto,
+
+161
+00:06:44,680 --> 00:06:46,680
+esta caixinha era um modelo de todo o
+
+162
+00:06:46,720 --> 00:06:47,730
+cosmos conhecido.
+
+163
+00:06:51,080 --> 00:06:52,730
+Então, quem a construiu?
+
+164
+00:06:52,920 --> 00:06:54,210
+Não sabemos.
+
+165
+00:06:54,360 --> 00:06:56,200
+Os nomes dos meses na parte de trás apontam para Corinto,
+
+166
+00:06:56,240 --> 00:06:58,240
+ou uma de suas colônias,
+
+167
+00:06:58,280 --> 00:07:01,200
+talvez Siracusa, a cidade de Arquimedes,
+
+168
+00:07:01,240 --> 00:07:03,200
+que havia morrido mais de um século antes de
+
+169
+00:07:03,240 --> 00:07:04,770
+o navio afundar.
+
+170
+00:07:05,080 --> 00:07:08,120
+O escritor romano Cícero descreve máquinas que mostravam
+
+171
+00:07:08,160 --> 00:07:09,520
+os movimentos do Sol,
+
+172
+00:07:09,560 --> 00:07:11,450
+da Lua e dos planetas,
+
+173
+00:07:11,560 --> 00:07:14,600
+uma feita por Arquimedes e outra pelo filósofo
+
+174
+00:07:14,640 --> 00:07:16,130
+Posidônio.
+
+175
+00:07:16,360 --> 00:07:18,090
+Provavelmente não esta.
+
+176
+00:07:18,200 --> 00:07:20,690
+Mas um sinal de que ela não era a única.
+
+177
+00:07:21,000 --> 00:07:23,610
+O que sabemos é o que veio depois.
+
+178
+00:07:23,720 --> 00:07:24,810
+Nada.
+
+179
+00:07:24,920 --> 00:07:26,960
+Por bem mais de mil anos,
+
+180
+00:07:27,000 --> 00:07:30,210
+nada com engrenagens tão complexas sobrevive em lugar nenhum.
+
+181
+00:07:30,360 --> 00:07:33,120
+As próximas máquinas que chegam perto são os relógios
+
+182
+00:07:33,160 --> 00:07:35,650
+astronômicos da Europa do século XIV.
+
+183
+00:07:35,880 --> 00:07:37,840
+O conhecimento não apenas se apagou.
+
+184
+00:07:37,880 --> 00:07:39,120
+Ele desapareceu.
+
+185
+00:07:39,160 --> 00:07:41,440
+E só sabemos que ele existiu porque um navio
+
+186
+00:07:41,480 --> 00:07:44,610
+afundou, exatamente no lugar certo.
+
+187
+00:07:47,160 --> 00:07:50,320
+Hoje, o que resta são 82 fragmentos,
+
+188
+00:07:50,360 --> 00:07:52,290
+num museu em Atenas.
+
+189
+00:07:52,440 --> 00:07:54,930
+Mas a ideia dentro deles voltou.
+
+190
+00:07:55,080 --> 00:07:57,440
+Engrenagens que transformam os movimentos do céu
+
+191
+00:07:57,480 --> 00:07:59,370
+no movimento de um ponteiro.
+
+192
+00:07:59,560 --> 00:08:02,130
+Ela voltou naqueles relógios medievais.
+
+193
+00:08:02,200 --> 00:08:03,840
+Depois, nos relógios de bolso.
+
+194
+00:08:03,880 --> 00:08:06,560
+E hoje está fazendo tique-taque em milhões de pulsos,
+
+195
+00:08:06,600 --> 00:08:08,960
+em máquinas que ainda marcam o tempo só com
+
+196
+00:08:09,000 --> 00:08:12,370
+engrenagens e molas, sem bateria nenhuma.
+
+197
+00:08:12,600 --> 00:08:14,960
+Quem construiu esta caixa entenderia um
+
+198
+00:08:15,000 --> 00:08:16,610
+deles na hora.
+
+199
+00:08:16,840 --> 00:08:18,560
+Então vamos abrir um.

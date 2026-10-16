@@ -1,0 +1,303 @@
+THE ANTIKYTHERA MECHANISM — translated titles & descriptions
+
+How to add in YouTube Studio: Video → Subtitles → Add language → pick the language →
+  • Subtitles: Add → Upload file → "With timing" → choose The-Antikythera-Mechanism.<code>.srt
+  • Title & description: Add → paste the title and description below.
+NOTE: the video has English captions burned in at the bottom. YouTube shows uploaded subtitles at the bottom too, so they would sit on top of the English text.
+  The vtt/ folder has the same subtitles positioned at the TOP of the frame — upload those first. If YouTube ignores the position, use the .srt files instead.
+Keep the English chapter timestamps working: they are included in each translated description.
+Bengali, Marathi, Telugu and Urdu are machine-quality drafts; a native speaker should skim them before they go live.
+
+======================================================================
+Chinese (Simplified)  [zh-Hans]  — file: The-Antikythera-Mechanism.zh-Hans.srt
+======================================================================
+TITLE
+海底发现的2000年前的计算机
+
+DESCRIPTION
+1901年，采海绵的潜水员在希腊安提凯希拉岛附近一艘罗马时代的沉船里，捞出了一团锈蚀的青铜。里面藏着齿轮：现存三十个，全部手工切削，齿距约1.6毫米。转动它的手柄，就能显示太阳和月亮在黄道上的运行、月相、19年的历法、希腊运动会的四年周期，以及提前多年的日食和月食。此后一千多年里，再也没有留存下来任何齿轮如此复杂的东西。
+
+0:00 一团青铜
+0:36 沉船，1900年
+1:32 看见内部
+2:27 它是怎么工作的
+3:35 月亮忽快忽慢
+4:37 背面表盘：历法、运动会和日月食
+5:52 失落的行星
+6:50 是谁造的？
+7:46 这个想法去了哪里
+
+片中的复原图是根据已发表研究绘制的示意图；装置的部分结构（尤其是行星齿轮）仍有争议。绘画场景为插图，并非照片。
+
+======================================================================
+Hindi  [hi]  — file: The-Antikythera-Mechanism.hi.srt
+======================================================================
+TITLE
+समुद्र की तलहटी में मिला 2,000 साल पुराना कंप्यूटर
+
+DESCRIPTION
+1901 में स्पंज निकालने वाले गोताखोरों ने यूनान के एंटीकिथेरा द्वीप के पास रोमन काल के एक जहाज़ के मलबे से जंग लगा कांसे का एक ढेला निकाला। उसके अंदर गियर थे: तीस बचे हैं, हाथ से काटे गए, जिनके दाँत लगभग 1.6 मिमी की दूरी पर हैं। इसका हैंडल घुमाने पर यह राशिचक्र में सूर्य और चंद्रमा की चाल, चंद्रमा की कला, 19 साल का कैलेंडर, यूनानी खेलों का चार साल का चक्र और सालों पहले से ग्रहण दिखाता था। इतनी जटिल गियर वाली कोई भी चीज़ इसके बाद एक हज़ार साल से भी ज़्यादा समय तक नहीं मिलती।
+
+0:00 कांसे का एक ढेला
+0:36 जहाज़ का मलबा, 1900
+1:32 अंदर झाँकना
+2:27 यह कैसे काम करता था
+3:35 चंद्रमा की असमान गति
+4:37 पीछे के डायल: कैलेंडर, खेल और ग्रहण
+5:52 खोए हुए ग्रह
+6:50 इसे किसने बनाया?
+7:46 यह विचार कहाँ गया
+
+दिखाए गए पुनर्निर्माण प्रकाशित शोध पर आधारित चित्रण हैं; तंत्र के कुछ हिस्सों (खासकर ग्रहों के गियर) पर अब भी बहस है। चित्रित दृश्य चित्रण हैं, तस्वीरें नहीं।
+
+======================================================================
+Spanish  [es]  — file: The-Antikythera-Mechanism.es.srt
+======================================================================
+TITLE
+La computadora de 2000 años hallada en el fondo del mar
+
+DESCRIPTION
+En 1901, unos buceadores de esponjas sacaron un bloque de bronce corroído de un naufragio de época romana frente a la isla griega de Anticitera. Dentro había engranajes: se conservan treinta, tallados a mano, con dientes a unos 1,6 mm de distancia. Al girar su manivela mostraba el Sol y la Luna recorriendo el zodiaco, la fase de la Luna, un calendario de 19 años, el ciclo de cuatro años de los juegos griegos y los eclipses con años de antelación. No vuelve a conservarse nada con engranajes tan complejos durante más de mil años.
+
+0:00 Un bloque de bronce
+0:36 El naufragio, 1900
+1:32 Ver por dentro
+2:27 Cómo funcionaba
+3:35 La velocidad irregular de la Luna
+4:37 Los diales traseros: calendario, juegos y eclipses
+5:52 Los planetas perdidos
+6:50 ¿Quién lo construyó?
+7:46 Adónde fue la idea
+
+Las reconstrucciones son ilustraciones basadas en investigaciones publicadas; partes del mecanismo (sobre todo los engranajes planetarios) siguen en debate. Las escenas pintadas son ilustraciones, no fotografías.
+
+======================================================================
+French  [fr]  — file: The-Antikythera-Mechanism.fr.srt
+======================================================================
+TITLE
+L'ordinateur vieux de 2000 ans retrouvé au fond de la mer
+
+DESCRIPTION
+En 1901, des pêcheurs d'éponges ont remonté un bloc de bronze corrodé d'une épave d'époque romaine, au large de l'île grecque d'Anticythère. À l'intérieur, des engrenages : trente ont survécu, taillés à la main, avec des dents espacées d'environ 1,6 mm. En tournant sa manivelle, on voyait le Soleil et la Lune parcourir le zodiaque, la phase de la Lune, un calendrier de 19 ans, le cycle de quatre ans des jeux grecs et les éclipses des années à l'avance. Plus rien d'aussi complexe en engrenages ne nous est parvenu pendant plus de mille ans.
+
+0:00 Un bloc de bronze
+0:36 L'épave, 1900
+1:32 Voir à l'intérieur
+2:27 Comment il fonctionnait
+3:35 La vitesse irrégulière de la Lune
+4:37 Les cadrans arrière : calendrier, jeux et éclipses
+5:52 Les planètes perdues
+6:50 Qui l'a construit ?
+7:46 Ce que l'idée est devenue
+
+Les reconstitutions sont des illustrations fondées sur des travaux publiés ; certaines parties du mécanisme (surtout les engrenages planétaires) restent débattues. Les scènes peintes sont des illustrations, pas des photographies.
+
+======================================================================
+Arabic  [ar]  — file: The-Antikythera-Mechanism.ar.srt
+======================================================================
+TITLE
+حاسوب عمره 2000 عام عُثر عليه في قاع البحر
+
+DESCRIPTION
+في عام 1901 انتشل غواصو الإسفنج كتلة من البرونز المتآكل من حطام سفينة تعود إلى العصر الروماني قبالة جزيرة أنتيكيثيرا اليونانية. كانت في داخلها تروس: بقي منها ثلاثون، مقطوعة باليد، والمسافة بين أسنانها نحو 1.6 ملم. عند تدوير ذراعها كانت تُظهر حركة الشمس والقمر عبر دائرة البروج، وطور القمر، وتقويمًا مدته 19 عامًا، ودورة الألعاب اليونانية ذات الأعوام الأربعة، والكسوف والخسوف قبل وقوعهما بسنوات. ولا يصلنا بعدها أي شيء بتروس بهذا التعقيد لأكثر من ألف عام.
+
+0:00 كتلة من البرونز
+0:36 الحطام، 1900
+1:32 رؤية ما في الداخل
+2:27 كيف كانت تعمل
+3:35 سرعة القمر غير المنتظمة
+4:37 الأقراص الخلفية: التقويم والألعاب والكسوف
+5:52 الكواكب المفقودة
+6:50 من صنعها؟
+7:46 إلى أين ذهبت الفكرة
+
+إعادات البناء المعروضة رسوم توضيحية مبنية على أبحاث منشورة؛ ولا تزال أجزاء من الآلية (خصوصًا تروس الكواكب) موضع نقاش. المشاهد المرسومة رسوم توضيحية وليست صورًا فوتوغرافية.
+
+======================================================================
+Bengali  [bn]  — file: The-Antikythera-Mechanism.bn.srt
+======================================================================
+TITLE
+সমুদ্রের তলদেশে পাওয়া ২,০০০ বছরের পুরোনো কম্পিউটার
+
+DESCRIPTION
+১৯০১ সালে স্পঞ্জ সংগ্রহকারী ডুবুরিরা গ্রিসের অ্যান্টিকিথেরা দ্বীপের কাছে রোমান যুগের এক জাহাজডুবির ধ্বংসাবশেষ থেকে ক্ষয়ে যাওয়া ব্রোঞ্জের একটি দলা তুলে আনেন। তার ভেতরে ছিল গিয়ার: ত্রিশটি টিকে আছে, হাতে কাটা, দাঁতগুলোর মধ্যে প্রায় ১.৬ মিমি ব্যবধান। হাতল ঘোরালে এটি রাশিচক্রে সূর্য ও চাঁদের গতি, চাঁদের কলা, ১৯ বছরের একটি পঞ্জিকা, গ্রিক ক্রীড়ার চার বছরের চক্র এবং বহু বছর আগে থেকেই গ্রহণ দেখাত। এত জটিল গিয়ারের আর কিছু এর পরে হাজার বছরেরও বেশি সময় ধরে টিকে নেই।
+
+0:00 ব্রোঞ্জের একটি দলা
+0:36 জাহাজডুবি, ১৯০০
+1:32 ভেতরে দেখা
+2:27 এটি কীভাবে কাজ করত
+3:35 চাঁদের অসম গতি
+4:37 পেছনের ডায়াল: পঞ্জিকা, ক্রীড়া ও গ্রহণ
+5:52 হারিয়ে যাওয়া গ্রহ
+6:50 এটি কে বানিয়েছিল?
+7:46 ধারণাটি কোথায় গেল
+
+দেখানো পুনর্গঠনগুলো প্রকাশিত গবেষণার ভিত্তিতে তৈরি চিত্র; যন্ত্রটির কিছু অংশ (বিশেষত গ্রহের গিয়ার) নিয়ে এখনও বিতর্ক আছে। আঁকা দৃশ্যগুলো চিত্রায়ণ, আলোকচিত্র নয়।
+
+======================================================================
+Portuguese  [pt]  — file: The-Antikythera-Mechanism.pt.srt
+======================================================================
+TITLE
+O computador de 2.000 anos encontrado no fundo do mar
+
+DESCRIPTION
+Em 1901, mergulhadores que pescavam esponjas retiraram um bloco de bronze corroído de um naufrágio da época romana, perto da ilha grega de Anticítera. Dentro havia engrenagens: trinta sobreviveram, cortadas à mão, com dentes a cerca de 1,6 mm de distância. Ao girar a manivela, ele mostrava o Sol e a Lua percorrendo o zodíaco, a fase da Lua, um calendário de 19 anos, o ciclo de quatro anos dos jogos gregos e os eclipses com anos de antecedência. Nada com engrenagens tão complexas volta a sobreviver por mais de mil anos.
+
+0:00 Um bloco de bronze
+0:36 O naufrágio, 1900
+1:32 Vendo por dentro
+2:27 Como funcionava
+3:35 A velocidade irregular da Lua
+4:37 Os mostradores traseiros: calendário, jogos e eclipses
+5:52 Os planetas perdidos
+6:50 Quem o construiu?
+7:46 Para onde foi a ideia
+
+As reconstruções são ilustrações baseadas em pesquisas publicadas; partes do mecanismo (principalmente as engrenagens planetárias) ainda são debatidas. As cenas pintadas são ilustrações, não fotografias.
+
+======================================================================
+Russian  [ru]  — file: The-Antikythera-Mechanism.ru.srt
+======================================================================
+TITLE
+Компьютер возрастом 2000 лет, найденный на дне моря
+
+DESCRIPTION
+В 1901 году ловцы губок подняли с античного корабля, затонувшего у греческого острова Антикитера, комок изъеденной коррозией бронзы. Внутри оказались шестерни: сохранилось тридцать, вырезанных вручную, с зубцами на расстоянии около 1,6 мм. Повернёшь рукоятку — и механизм показывает движение Солнца и Луны по зодиаку, фазу Луны, 19-летний календарь, четырёхлетний цикл греческих игр и затмения на годы вперёд. Ничего с настолько сложной зубчатой передачей не сохранилось потом больше тысячи лет.
+
+0:00 Комок бронзы
+0:36 Кораблекрушение, 1900
+1:32 Заглянуть внутрь
+2:27 Как он работал
+3:35 Неравномерная скорость Луны
+4:37 Задние циферблаты: календарь, игры и затмения
+5:52 Потерянные планеты
+6:50 Кто его построил?
+7:46 Куда ушла идея
+
+Показанные реконструкции — иллюстрации на основе опубликованных исследований; некоторые части механизма (особенно планетная передача) до сих пор обсуждаются. Нарисованные сцены — иллюстрации, а не фотографии.
+
+======================================================================
+Urdu  [ur]  — file: The-Antikythera-Mechanism.ur.srt
+======================================================================
+TITLE
+سمندر کی تہہ سے ملنے والا 2,000 سال پرانا کمپیوٹر
+
+DESCRIPTION
+1901 میں اسفنج نکالنے والے غوطہ خوروں نے یونانی جزیرے اینٹیکیتھرا کے قریب رومی دور کے ایک ڈوبے ہوئے جہاز سے زنگ آلود کانسی کا ایک ڈھیلا نکالا۔ اس کے اندر گیئر تھے: تیس بچے ہیں، ہاتھ سے کاٹے ہوئے، جن کے دانت تقریباً 1.6 ملی میٹر کے فاصلے پر ہیں۔ اس کا ہینڈل گھمانے پر یہ منطقۃ البروج میں سورج اور چاند کی حرکت، چاند کی منزل، 19 سال کا کیلنڈر، یونانی کھیلوں کا چار سالہ چکر اور برسوں پہلے سے گرہن دکھاتا تھا۔ اتنے پیچیدہ گیئر والی کوئی چیز اس کے بعد ہزار سال سے زیادہ عرصے تک نہیں ملتی۔
+
+0:00 کانسی کا ایک ڈھیلا
+0:36 جہاز کا ملبہ، 1900
+1:32 اندر جھانکنا
+2:27 یہ کیسے کام کرتا تھا
+3:35 چاند کی غیر یکساں رفتار
+4:37 پچھلے ڈائل: کیلنڈر، کھیل اور گرہن
+5:52 کھوئے ہوئے سیارے
+6:50 اسے کس نے بنایا؟
+7:46 یہ خیال کہاں گیا
+
+دکھائی گئی تعمیرِ نو شائع شدہ تحقیق پر مبنی تصویری خاکے ہیں؛ اس آلے کے کچھ حصوں (خاص طور پر سیاروں کے گیئر) پر اب بھی بحث جاری ہے۔ پینٹ کیے گئے مناظر تصویری خاکے ہیں، تصاویر نہیں۔
+
+======================================================================
+Indonesian  [id]  — file: The-Antikythera-Mechanism.id.srt
+======================================================================
+TITLE
+Komputer Berusia 2.000 Tahun yang Ditemukan di Dasar Laut
+
+DESCRIPTION
+Pada 1901, penyelam spons mengangkat bongkahan perunggu berkarat dari bangkai kapal era Romawi di lepas pulau Antikythera, Yunani. Di dalamnya ada roda gigi: tiga puluh masih tersisa, dipotong dengan tangan, dengan jarak gigi sekitar 1,6 mm. Putar engkolnya, dan alat ini menunjukkan Matahari dan Bulan bergerak melintasi zodiak, fase Bulan, kalender 19 tahun, siklus empat tahunan pertandingan Yunani, dan gerhana bertahun-tahun sebelumnya. Tidak ada lagi peninggalan dengan roda gigi serumit ini selama lebih dari seribu tahun.
+
+0:00 Sebongkah perunggu
+0:36 Bangkai kapal, 1900
+1:32 Melihat ke dalam
+2:27 Cara kerjanya
+3:35 Kecepatan Bulan yang tidak rata
+4:37 Dial belakang: kalender, pertandingan, dan gerhana
+5:52 Planet-planet yang hilang
+6:50 Siapa pembuatnya?
+7:46 Ke mana ide itu pergi
+
+Rekonstruksi yang ditampilkan adalah ilustrasi berdasarkan penelitian yang telah diterbitkan; sebagian mekanisme (terutama roda gigi planet) masih diperdebatkan. Adegan lukisan adalah ilustrasi, bukan foto.
+
+======================================================================
+German  [de]  — file: The-Antikythera-Mechanism.de.srt
+======================================================================
+TITLE
+Der 2000 Jahre alte Computer vom Meeresgrund
+
+DESCRIPTION
+1901 holten Schwammtaucher einen Klumpen korrodierter Bronze aus einem römerzeitlichen Schiffswrack vor der griechischen Insel Antikythera. Darin steckten Zahnräder: Dreißig sind erhalten, von Hand geschnitten, mit Zähnen im Abstand von etwa 1,6 mm. Drehte man die Kurbel, zeigte er Sonne und Mond auf ihrem Weg durch den Tierkreis, die Mondphase, einen 19-jährigen Kalender, den vierjährigen Zyklus der griechischen Spiele und Finsternisse Jahre im Voraus. Nichts mit derart komplexer Zahnradtechnik ist danach für weit über tausend Jahre erhalten.
+
+0:00 Ein Klumpen Bronze
+0:36 Das Wrack, 1900
+1:32 Der Blick ins Innere
+2:27 Wie er funktionierte
+3:35 Die ungleichmäßige Geschwindigkeit des Mondes
+4:37 Die Rückseite: Kalender, Spiele und Finsternisse
+5:52 Die verlorenen Planeten
+6:50 Wer hat ihn gebaut?
+7:46 Wohin die Idee ging
+
+Die gezeigten Rekonstruktionen sind Illustrationen auf Grundlage veröffentlichter Forschung; Teile des Mechanismus (vor allem das Planetengetriebe) sind weiterhin umstritten. Gemalte Szenen sind Illustrationen, keine Fotografien.
+
+======================================================================
+Japanese  [ja]  — file: The-Antikythera-Mechanism.ja.srt
+======================================================================
+TITLE
+海の底で見つかった2000年前のコンピューター
+
+DESCRIPTION
+1901年、海綿採りのダイバーたちが、ギリシャのアンティキティラ島沖にあるローマ時代の沈没船から、腐食した青銅の塊を引き揚げました。中には歯車がありました。現存するのは30個、すべて手作業で切り出され、歯の間隔は約1.6mm。ハンドルを回すと、黄道十二宮をめぐる太陽と月、月の満ち欠け、19年周期の暦、ギリシャの競技会の4年周期、そして何年も先の日食・月食を示しました。これほど複雑な歯車をもつものは、その後1000年以上どこにも残っていません。
+
+0:00 青銅の塊
+0:36 沈没船、1900年
+1:32 内部を見る
+2:27 しくみ
+3:35 月の不規則な速さ
+4:37 裏面の目盛り：暦、競技会、食
+5:52 失われた惑星
+6:50 誰が作ったのか
+7:46 アイデアのその後
+
+映像内の復元図は、発表された研究に基づくイラストです。機構の一部（特に惑星の歯車）はいまも議論が続いています。絵画風の場面はイラストであり、写真ではありません。
+
+======================================================================
+Marathi  [mr]  — file: The-Antikythera-Mechanism.mr.srt
+======================================================================
+TITLE
+समुद्राच्या तळाशी सापडलेला 2,000 वर्षांपूर्वीचा संगणक
+
+DESCRIPTION
+1901 मध्ये स्पंज गोळा करणाऱ्या पाणबुड्यांनी ग्रीसच्या अँटिकिथेरा बेटाजवळ रोमन काळातील एका बुडालेल्या जहाजाच्या अवशेषांतून गंजलेल्या कांस्याचा एक गोळा बाहेर काढला. त्याच्या आत गिअर होते: तीस टिकून आहेत, हाताने कापलेले, ज्यांच्या दातांमध्ये सुमारे 1.6 मिमी अंतर आहे. त्याचे हँडल फिरवले की तो राशीचक्रातील सूर्य आणि चंद्राची गती, चंद्राची कला, 19 वर्षांचे दिनदर्शिका, ग्रीक खेळांचे चार वर्षांचे चक्र आणि वर्षानुवर्षे आधीच ग्रहणे दाखवत असे. इतक्या गुंतागुंतीच्या गिअरची कोणतीही वस्तू यानंतर हजार वर्षांहून अधिक काळ आढळत नाही.
+
+0:00 कांस्याचा एक गोळा
+0:36 जहाजाचे अवशेष, 1900
+1:32 आत डोकावून पाहणे
+2:27 तो कसा काम करत असे
+3:35 चंद्राची असमान गती
+4:37 मागील डायल: दिनदर्शिका, खेळ आणि ग्रहणे
+5:52 हरवलेले ग्रह
+6:50 तो कोणी बनवला?
+7:46 ही कल्पना कुठे गेली
+
+दाखवलेली पुनर्रचना प्रकाशित संशोधनावर आधारित चित्रे आहेत; यंत्राच्या काही भागांवर (विशेषतः ग्रहांच्या गिअरवर) अजूनही वाद आहे. रंगवलेली दृश्ये चित्रे आहेत, छायाचित्रे नाहीत.
+
+======================================================================
+Telugu  [te]  — file: The-Antikythera-Mechanism.te.srt
+======================================================================
+TITLE
+సముద్ర గర్భంలో దొరికిన 2,000 ఏళ్ల నాటి కంప్యూటర్
+
+DESCRIPTION
+1901లో స్పాంజ్ సేకరించే డైవర్లు గ్రీస్‌లోని ఆంటికితీరా ద్వీపం దగ్గర రోమన్ కాలం నాటి ఓడ శిథిలాల నుంచి తుప్పు పట్టిన కంచు ముద్దను బయటకు తీశారు. దాని లోపల గేర్లు ఉన్నాయి: ముప్పై మిగిలాయి, చేతితో కోసినవి, వాటి పళ్ల మధ్య సుమారు 1.6 మి.మీ. దూరం. దాని హ్యాండిల్ తిప్పితే అది రాశిచక్రంలో సూర్యచంద్రుల కదలిక, చంద్రుని కళ, 19 ఏళ్ల క్యాలెండర్, గ్రీకు క్రీడల నాలుగేళ్ల చక్రం, ఏళ్ల ముందే గ్రహణాలను చూపించేది. ఇంత సంక్లిష్టమైన గేర్లతో ఉన్న ఏ వస్తువూ ఆ తర్వాత వెయ్యేళ్లకు పైగా దొరకదు.
+
+0:00 కంచు ముద్ద
+0:36 ఓడ శిథిలాలు, 1900
+1:32 లోపలికి చూడటం
+2:27 ఇది ఎలా పనిచేసేది
+3:35 చంద్రుని అసమాన వేగం
+4:37 వెనుక డయల్స్: క్యాలెండర్, క్రీడలు, గ్రహణాలు
+5:52 కోల్పోయిన గ్రహాలు
+6:50 దీన్ని ఎవరు తయారు చేశారు?
+7:46 ఈ ఆలోచన ఎక్కడికి వెళ్లింది
+
+చూపిన పునర్నిర్మాణాలు ప్రచురితమైన పరిశోధనల ఆధారంగా చేసిన చిత్రాలు; యంత్రంలోని కొన్ని భాగాలపై (ముఖ్యంగా గ్రహాల గేర్లపై) ఇంకా చర్చ జరుగుతోంది. గీసిన దృశ్యాలు చిత్రాలు, ఫోటోలు కావు.

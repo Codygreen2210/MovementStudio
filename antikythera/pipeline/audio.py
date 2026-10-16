@@ -138,6 +138,10 @@ def main():
     # stems to levels: voice -> loudest, foley ~8 dB under, music ~19 dB under, ambience bed
     def rms(x): return np.sqrt(np.mean(x[np.abs(x) > 1e-5] ** 2) + 1e-12)
     vr = rms(voice); fx *= (vr * 10 ** (-8 / 20)) / rms(fx); mus *= (vr * 10 ** (-19 / 20)) / rms(mus[venv > 0.01] if np.any(venv > 0.01) else mus); amb *= (vr * 10 ** (-24 / 20)) / rms(amb)
+    bed = np.tanh((fx + mus + amb) * 1.2) / 1.2         # no-voice stem, same levels (for Short intros)
+    with wave.open(f'{A}/bed.wav', 'wb') as wv:
+        wv.setnchannels(1); wv.setsampwidth(2); wv.setframerate(SR); wv.writeframes((np.clip(bed, -1, 1) * 32767).astype(np.int16).tobytes())
+    if '--bed-only' in sys.argv: print('bed written'); return
     mix = voice + fx + mus + amb
     end = int(TL['total'] * SR); fo = int(1.5 * SR); mix[end - fo:end] *= np.linspace(1, 0, fo); mix[end:] = 0
     mix = np.tanh(mix * 1.2) / 1.2

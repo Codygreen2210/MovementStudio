@@ -1,0 +1,795 @@
+1
+00:00:01,300 --> 00:00:03,420
+Ini adalah bongkahan perunggu berkarat,
+
+2
+00:00:03,460 --> 00:00:06,190
+diangkat dari bangkai kapal pada tahun 1901.
+
+3
+00:00:06,500 --> 00:00:08,940
+Kebanyakan orang mengira mesin dengan roda gigi seperti ini
+
+4
+00:00:08,980 --> 00:00:12,190
+baru muncul pada jam-jam besar di Eropa abad pertengahan.
+
+5
+00:00:12,580 --> 00:00:14,190
+Tapi lihat ke dalamnya.
+
+6
+00:00:14,420 --> 00:00:15,950
+Tiga puluh roda gigi.
+
+7
+00:00:16,180 --> 00:00:18,990
+Giginya hanya berjarak satu setengah milimeter.
+
+8
+00:00:19,140 --> 00:00:21,020
+Sebuah mesin yang bisa melacak Bulan,
+
+9
+00:00:21,060 --> 00:00:25,030
+meramalkan gerhana, dan menghitung Olimpiade.
+
+10
+00:00:25,220 --> 00:00:27,260
+Dan mesin ini dibuat lebih dari 2.000 tahun yang
+
+11
+00:00:27,300 --> 00:00:28,230
+lalu.
+
+12
+00:00:28,500 --> 00:00:29,740
+Jadi, siapa yang membuatnya?
+
+13
+00:00:29,780 --> 00:00:31,710
+Dan bagaimana cara kerjanya?
+
+14
+00:00:37,060 --> 00:00:38,700
+Pada musim semi tahun 1900,
+
+15
+00:00:38,740 --> 00:00:40,860
+sekelompok penyelam spons dari pulau
+
+16
+00:00:40,900 --> 00:00:43,510
+Symi terdampar keluar jalur karena badai.
+
+17
+00:00:43,700 --> 00:00:45,980
+Mereka berlindung di Antikythera,
+
+18
+00:00:46,020 --> 00:00:49,430
+pulau kecil di antara Kreta dan daratan Yunani.
+
+19
+00:00:49,700 --> 00:00:50,620
+Saat cuaca membaik,
+
+20
+00:00:50,660 --> 00:00:51,980
+salah satu dari mereka menyelam
+
+21
+00:00:52,020 --> 00:00:55,580
+sekitar 45 meter, lalu naik dengan gemetar,
+
+22
+00:00:55,620 --> 00:00:58,270
+bercerita tentang mayat di dasar laut.
+
+23
+00:00:58,580 --> 00:00:59,900
+Itu bukan mayat.
+
+24
+00:00:59,940 --> 00:01:02,700
+Itu patung-patung dari perunggu dan marmer,
+
+25
+00:01:02,740 --> 00:01:04,940
+di antara sisa-sisa kapal kargo yang
+
+26
+00:01:04,980 --> 00:01:07,310
+tenggelam sekitar tahun 70–60 SM.
+
+27
+00:01:07,680 --> 00:01:10,520
+Selama bulan-bulan berikutnya, para penyelam mengangkat patung,
+
+28
+00:01:10,560 --> 00:01:14,200
+barang kaca, tembikar, dan, kemungkinan besar pada musim panas 1901,
+
+29
+00:01:14,240 --> 00:01:17,800
+sebongkah perunggu berkarat dan kayu
+
+30
+00:01:17,840 --> 00:01:19,410
+lapuk tanpa bentuk.
+
+31
+00:01:19,680 --> 00:01:21,320
+Di samping patung-patung
+
+32
+00:01:21,360 --> 00:01:23,490
+itu, tak ada yang meliriknya.
+
+33
+00:01:23,600 --> 00:01:25,960
+Lalu, pada Mei 1902,
+
+34
+00:01:26,000 --> 00:01:29,240
+arkeolog Valerios Stais melihat sesuatu di salah satu
+
+35
+00:01:29,280 --> 00:01:30,570
+kepingannya.
+
+36
+00:01:30,800 --> 00:01:31,850
+Sebuah roda gigi.
+
+37
+00:01:33,500 --> 00:01:35,860
+Roda gigi, di kapal yang tenggelam lebih dari 2.000
+
+38
+00:01:35,900 --> 00:01:37,140
+tahun lalu,
+
+39
+00:01:37,180 --> 00:01:38,710
+sama sekali tidak masuk akal.
+
+40
+00:01:38,940 --> 00:01:41,380
+Selama puluhan tahun, kepingan-kepingan itu tersimpan di museum di Athena,
+
+41
+00:01:41,420 --> 00:01:44,910
+teka-teki yang hampir tak bisa dibaca siapa pun.
+
+42
+00:01:45,180 --> 00:01:47,260
+Orang yang tidak mau menyerah adalah
+
+43
+00:01:47,300 --> 00:01:49,990
+sejarawan Derek de Solla Price.
+
+44
+00:01:50,220 --> 00:01:52,100
+Pada awal 1970-an,
+
+45
+00:01:52,140 --> 00:01:55,750
+bersama fisikawan Yunani Charalampos Karakalos,
+
+46
+00:01:55,820 --> 00:01:57,220
+ia memotret kepingan itu dengan sinar-X,
+
+47
+00:01:57,260 --> 00:01:59,220
+dan untuk pertama kalinya orang bisa melihat roda
+
+48
+00:01:59,260 --> 00:02:01,030
+gigi di dalam batu.
+
+49
+00:02:01,340 --> 00:02:03,620
+Kemudian, pada 2005,
+
+50
+00:02:03,660 --> 00:02:06,660
+sebuah tim peneliti membawa pemindai sinar-X seberat delapan ton ke museum,
+
+51
+00:02:06,700 --> 00:02:09,780
+dan membelah kepingan-kepingan itu menjadi ribuan
+
+52
+00:02:09,820 --> 00:02:11,430
+lapisan virtual.
+
+53
+00:02:11,660 --> 00:02:13,910
+Yang mereka temukan sungguh menakjubkan.
+
+54
+00:02:14,060 --> 00:02:17,780
+Tiga puluh roda gigi yang tersisa, dipotong tangan dari lembaran perunggu,
+
+55
+00:02:17,820 --> 00:02:19,590
+dengan gigi berbentuk segitiga.
+
+56
+00:02:19,740 --> 00:02:21,140
+Dan di permukaannya,
+
+57
+00:02:21,180 --> 00:02:23,670
+ribuan huruf Yunani yang sangat kecil.
+
+58
+00:02:23,900 --> 00:02:26,710
+Mesin ini dilengkapi buku petunjuknya sendiri.
+
+59
+00:02:29,260 --> 00:02:31,150
+Jadi, bagaimana cara kerjanya?
+
+60
+00:02:31,500 --> 00:02:32,900
+Bayangkan sebuah kotak kayu,
+
+61
+00:02:32,940 --> 00:02:34,313
+kira-kira seukuran kotak sepatu,
+
+62
+00:02:34,353 --> 00:02:36,270
+dengan engkol di sisinya.
+
+63
+00:02:36,540 --> 00:02:38,980
+Putar engkolnya, dan roda gigi mahkota kecil menggerakkan
+
+64
+00:02:39,020 --> 00:02:40,910
+roda terbesar di dalamnya,
+
+65
+00:02:41,020 --> 00:02:44,150
+roda dengan 223 gigi.
+
+66
+00:02:44,380 --> 00:02:47,310
+Satu putaran penuh roda itu sama dengan satu tahun.
+
+67
+00:02:47,660 --> 00:02:49,980
+Di bagian depan, sebuah jarum membawa Matahari
+
+68
+00:02:50,020 --> 00:02:51,620
+mengelilingi cincin zodiak,
+
+69
+00:02:51,660 --> 00:02:53,580
+dan di sekelilingnya, cincin untuk
+
+70
+00:02:53,620 --> 00:02:55,430
+bulan-bulan kalender Mesir.
+
+71
+00:02:55,660 --> 00:02:57,990
+Jarum kedua membawa Bulan.
+
+72
+00:02:58,140 --> 00:02:59,940
+Tapi Bulan mengelilingi langit lebih dari tiga
+
+73
+00:02:59,980 --> 00:03:01,140
+belas kali setahun,
+
+74
+00:03:01,180 --> 00:03:03,380
+jadi roda giginya harus mempercepatnya,
+
+75
+00:03:03,420 --> 00:03:05,830
+dan tepat dengan takaran yang benar.
+
+76
+00:03:06,060 --> 00:03:08,100
+Orang Yunani tahu bahwa Bulan
+
+77
+00:03:08,140 --> 00:03:11,870
+mengelilingi zodiak 254 kali setiap 19 tahun.
+
+78
+00:03:11,980 --> 00:03:13,993
+Jadi roda giginya butuh rasio
+
+79
+00:03:14,033 --> 00:03:16,550
+254 banding 19.
+
+80
+00:03:16,860 --> 00:03:18,630
+Begini cara mereka membuatnya.
+
+81
+00:03:18,780 --> 00:03:21,390
+64 gigi, menggerakkan 38.
+
+82
+00:03:21,500 --> 00:03:23,910
+48, menggerakkan 24.
+
+83
+00:03:23,980 --> 00:03:25,220
+127,
+
+84
+00:03:25,260 --> 00:03:26,950
+menggerakkan 32.
+
+85
+00:03:27,100 --> 00:03:29,540
+Kalikan semuanya, dan hasilnya
+
+86
+00:03:29,580 --> 00:03:31,830
+254 per 19.
+
+87
+00:03:31,900 --> 00:03:32,710
+Tepat sekali.
+
+88
+00:03:36,960 --> 00:03:39,210
+Tapi Bulan punya trik lain.
+
+89
+00:03:39,440 --> 00:03:42,450
+Ia tidak melintasi langit dengan kecepatan tetap.
+
+90
+00:03:42,640 --> 00:03:44,920
+Sekarang kita tahu orbitnya berbentuk elips,
+
+91
+00:03:44,960 --> 00:03:47,080
+jadi ia bergerak lebih cepat saat lebih dekat dengan kita,
+
+92
+00:03:47,120 --> 00:03:49,730
+dan melambat saat lebih jauh.
+
+93
+00:03:50,000 --> 00:03:52,840
+Astronom Yunani Hipparkhos telah menyusun teori untuk menjelaskan
+
+94
+00:03:52,880 --> 00:03:56,280
+ketidakteraturan itu, dan seseorang mengubah teori itu menjadi
+
+95
+00:03:56,320 --> 00:03:57,650
+perunggu.
+
+96
+00:03:58,000 --> 00:04:00,280
+Dua roda gigi identik saling berhadapan,
+
+97
+00:04:00,320 --> 00:04:02,570
+dengan titik pusat yang sedikit berbeda.
+
+98
+00:04:02,720 --> 00:04:04,840
+Sebuah pin kecil di salah satunya bergerak di dalam celah
+
+99
+00:04:04,880 --> 00:04:06,410
+yang dipotong pada roda lainnya.
+
+100
+00:04:06,640 --> 00:04:08,680
+Saat berputar, pin itu bergeser keluar-masuk di
+
+101
+00:04:08,720 --> 00:04:11,200
+sepanjang celah, sehingga roda kedua terdorong sedikit ke depan,
+
+102
+00:04:11,240 --> 00:04:14,050
+lalu tertahan sedikit ke belakang.
+
+103
+00:04:14,160 --> 00:04:17,930
+Lebih cepat, lalu lebih lambat, sekali setiap bulan lunar.
+
+104
+00:04:18,000 --> 00:04:21,240
+Dan karena orbit Bulan sendiri perlahan berputar,
+
+105
+00:04:21,280 --> 00:04:24,080
+seluruh pasangan ini duduk di atas roda gigi berputar
+
+106
+00:04:24,120 --> 00:04:26,120
+lain yang membawanya berkeliling sekali
+
+107
+00:04:26,160 --> 00:04:28,610
+setiap 8,88 tahun.
+
+108
+00:04:28,880 --> 00:04:31,000
+Rangkaian roda gigi berkecepatan variabel,
+
+109
+00:04:31,040 --> 00:04:33,130
+di atas landasan yang bergerak.
+
+110
+00:04:33,200 --> 00:04:35,210
+Lebih dari 2.000 tahun yang lalu.
+
+111
+00:04:38,960 --> 00:04:40,920
+Sekarang balik kotaknya.
+
+112
+00:04:40,960 --> 00:04:44,010
+Bagian belakangnya dipenuhi dua spiral besar.
+
+113
+00:04:44,160 --> 00:04:46,160
+Spiral atas adalah kalender 235
+
+114
+00:04:46,200 --> 00:04:50,170
+bulan, tersusun dalam lima putaran.
+
+115
+00:04:50,320 --> 00:04:52,650
+Kalender ini didasarkan pada siklus Meton:
+
+116
+00:04:52,720 --> 00:04:55,560
+setelah sembilan belas tahun, fase Bulan jatuh
+
+117
+00:04:55,600 --> 00:04:57,570
+lagi di tanggal yang sama.
+
+118
+00:04:57,840 --> 00:05:00,720
+Saat diengkol, jarumnya bergerak memutar ke arah luar,
+
+119
+00:05:00,760 --> 00:05:04,120
+dengan pin kecil yang mengikuti alur,
+
+120
+00:05:04,160 --> 00:05:07,090
+jadi kamu selalu tahu sedang di putaran mana.
+
+121
+00:05:07,360 --> 00:05:10,850
+Di dalamnya ada dial kecil yang dibagi empat.
+
+122
+00:05:10,960 --> 00:05:13,400
+Dial itu mencatat pertandingan atletik besar Yunani,
+
+123
+00:05:13,440 --> 00:05:15,560
+termasuk Olimpiade,
+
+124
+00:05:15,600 --> 00:05:17,640
+dan inilah satu-satunya jarum di seluruh mesin yang
+
+125
+00:05:17,680 --> 00:05:19,650
+berputar ke arah sebaliknya.
+
+126
+00:05:20,000 --> 00:05:22,930
+Spiral bawah adalah yang paling penting.
+
+127
+00:05:23,040 --> 00:05:24,840
+223 bulan,
+
+128
+00:05:24,880 --> 00:05:26,570
+dalam empat putaran.
+
+129
+00:05:26,640 --> 00:05:28,970
+Inilah siklus Saros.
+
+130
+00:05:29,200 --> 00:05:32,520
+Para astronom Babilonia telah menyadari bahwa gerhana berulang
+
+131
+00:05:32,560 --> 00:05:35,010
+dalam pola sekitar delapan belas tahun.
+
+132
+00:05:35,120 --> 00:05:37,160
+Jadi di sini, bulan-bulan dengan gerhana ditandai simbol kecil:
+
+133
+00:05:37,200 --> 00:05:38,930
+38 untuk Bulan,
+
+134
+00:05:39,040 --> 00:05:40,520
+27 untuk Matahari,
+
+135
+00:05:40,560 --> 00:05:42,360
+sebagian
+
+136
+00:05:42,400 --> 00:05:44,530
+bahkan mencantumkan jamnya.
+
+137
+00:05:44,720 --> 00:05:46,760
+Putar engkolnya, ikuti jarumnya,
+
+138
+00:05:46,800 --> 00:05:49,290
+dan kamu bisa melihat gerhana datang bertahun-tahun sebelumnya.
+
+139
+00:05:53,240 --> 00:05:56,170
+Lalu ada bagian yang masih kita perdebatkan.
+
+140
+00:05:56,360 --> 00:05:58,930
+Tulisan di bagian depan menyebut nama-nama planet:
+
+141
+00:05:59,000 --> 00:06:01,920
+Merkurius, Venus, Mars, Jupiter,
+
+142
+00:06:01,960 --> 00:06:03,250
+dan Saturnus.
+
+143
+00:06:03,400 --> 00:06:06,370
+Tapi roda gigi apa pun yang menggerakkannya telah hilang.
+
+144
+00:06:06,600 --> 00:06:08,400
+Lalu, pada 2016,
+
+145
+00:06:08,440 --> 00:06:12,210
+hasil pemindaian mengungkap dua angka yang tersembunyi dalam teks itu.
+
+146
+00:06:12,440 --> 00:06:13,920
+462,
+
+147
+00:06:13,960 --> 00:06:15,170
+untuk Venus.
+
+148
+00:06:15,240 --> 00:06:16,560
+442,
+
+149
+00:06:16,600 --> 00:06:17,890
+untuk Saturnus.
+
+150
+00:06:18,120 --> 00:06:21,970
+Siklus planet, dan sangat akurat.
+
+151
+00:06:22,280 --> 00:06:25,840
+Pada 2021, sebuah tim di University College London
+
+152
+00:06:25,880 --> 00:06:28,320
+memakai angka-angka itu untuk merancang rangkaian roda gigi
+
+153
+00:06:28,360 --> 00:06:30,730
+yang benar-benar muat di ruang yang tersedia:
+
+154
+00:06:30,840 --> 00:06:32,720
+rekonstruksi dengan Matahari,
+
+155
+00:06:32,760 --> 00:06:35,040
+Bulan, dan kelima planet,
+
+156
+00:06:35,080 --> 00:06:37,730
+bergerak di cincin-cincin mengelilingi dial depan.
+
+157
+00:06:37,960 --> 00:06:39,880
+Tim itu menegaskan bahwa mereka tidak bisa yakin
+
+158
+00:06:39,920 --> 00:06:40,960
+rekonstruksinya benar.
+
+159
+00:06:41,000 --> 00:06:43,280
+Belum ada yang menemukan roda gigi itu untuk memastikannya.
+
+160
+00:06:43,320 --> 00:06:44,640
+Tapi kalau rekonstruksi itu mendekati saja,
+
+161
+00:06:44,680 --> 00:06:46,680
+kotak kecil ini adalah model seluruh alam semesta yang
+
+162
+00:06:46,720 --> 00:06:47,730
+dikenal saat itu.
+
+163
+00:06:51,080 --> 00:06:52,730
+Jadi, siapa yang membuatnya?
+
+164
+00:06:52,920 --> 00:06:54,210
+Kita tidak tahu.
+
+165
+00:06:54,360 --> 00:06:56,200
+Nama-nama bulan di bagian belakang mengarah ke Korintus,
+
+166
+00:06:56,240 --> 00:06:58,240
+atau salah satu koloninya,
+
+167
+00:06:58,280 --> 00:07:01,200
+mungkin Syracuse, kota Archimedes,
+
+168
+00:07:01,240 --> 00:07:03,200
+yang telah wafat lebih dari seabad sebelum kapal
+
+169
+00:07:03,240 --> 00:07:04,770
+itu tenggelam.
+
+170
+00:07:05,080 --> 00:07:08,120
+Penulis Romawi Cicero menggambarkan mesin-mesin yang
+
+171
+00:07:08,160 --> 00:07:09,520
+menunjukkan gerak Matahari,
+
+172
+00:07:09,560 --> 00:07:11,450
+Bulan, dan planet,
+
+173
+00:07:11,560 --> 00:07:14,600
+satu buatan Archimedes dan satu lagi buatan filsuf
+
+174
+00:07:14,640 --> 00:07:16,130
+Posidonius.
+
+175
+00:07:16,360 --> 00:07:18,090
+Kemungkinan bukan yang ini.
+
+176
+00:07:18,200 --> 00:07:20,690
+Tapi pertanda bahwa ini bukan satu-satunya.
+
+177
+00:07:21,000 --> 00:07:23,610
+Yang kita tahu adalah apa yang terjadi sesudahnya.
+
+178
+00:07:23,720 --> 00:07:24,810
+Tidak ada.
+
+179
+00:07:24,920 --> 00:07:26,960
+Selama lebih dari seribu tahun,
+
+180
+00:07:27,000 --> 00:07:30,210
+tak ada satu pun peninggalan dengan roda gigi serumit ini di mana pun.
+
+181
+00:07:30,360 --> 00:07:33,120
+Mesin berikutnya yang mendekati adalah jam-jam
+
+182
+00:07:33,160 --> 00:07:35,650
+astronomi Eropa abad ke-14.
+
+183
+00:07:35,880 --> 00:07:37,840
+Pengetahuan itu bukan sekadar memudar.
+
+184
+00:07:37,880 --> 00:07:39,120
+Ia lenyap.
+
+185
+00:07:39,160 --> 00:07:41,440
+Dan kita hanya tahu ia pernah ada karena satu
+
+186
+00:07:41,480 --> 00:07:44,610
+kapal tenggelam, tepat di tempat yang tepat.
+
+187
+00:07:47,160 --> 00:07:50,320
+Hari ini, yang tersisa hanyalah 82 kepingan,
+
+188
+00:07:50,360 --> 00:07:52,290
+di sebuah museum di Athena.
+
+189
+00:07:52,440 --> 00:07:54,930
+Tapi ide di dalamnya kembali.
+
+190
+00:07:55,080 --> 00:07:57,440
+Roda gigi yang mengubah gerak langit
+
+191
+00:07:57,480 --> 00:07:59,370
+menjadi gerak sebuah jarum.
+
+192
+00:07:59,560 --> 00:08:02,130
+Ide itu kembali dalam jam-jam abad pertengahan itu.
+
+193
+00:08:02,200 --> 00:08:03,840
+Lalu dalam jam saku.
+
+194
+00:08:03,880 --> 00:08:06,560
+Dan hari ini ia berdetak di jutaan pergelangan tangan,
+
+195
+00:08:06,600 --> 00:08:08,960
+dalam mesin yang masih menjaga waktu hanya dengan
+
+196
+00:08:09,000 --> 00:08:12,370
+roda gigi dan pegas, tanpa baterai sama sekali.
+
+197
+00:08:12,600 --> 00:08:14,960
+Pembuat kotak ini akan langsung memahami
+
+198
+00:08:15,000 --> 00:08:16,610
+salah satunya.
+
+199
+00:08:16,840 --> 00:08:18,560
+Jadi, mari kita buka satu.
