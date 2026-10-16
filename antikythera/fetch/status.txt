@@ -1,2 +1,5 @@
-ok thumb_bg1.png 5341166
-ok thumb_bg2.png 5699261
+ok intro01.mp3 166798
+ok intro03.mp3 157603
+ok intro04.mp3 133361
+ok intro05.mp3 147572
+ok intro06.mp3 161364
