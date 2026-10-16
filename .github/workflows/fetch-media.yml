@@ -1,0 +1,39 @@
+# Downloads generated media (narration, images) listed in antikythera/fetch/requests.txt
+# into antikythera/fetch/out/, so the production workspace can pull it with git.
+# Each request line: <filename> <https-url>
+name: fetch-media
+on:
+  push:
+    paths: ['antikythera/fetch/requests.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch-media
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download
+        run: |
+          mkdir -p antikythera/fetch/out
+          status=antikythera/fetch/status.txt; : > "$status"
+          while read -r name url; do
+            [ -z "$name" ] && continue
+            case "$name" in *[!A-Za-z0-9._-]*) echo "bad name $name" >> "$status"; continue;; esac
+            if curl -fsSL --max-time 300 -o "antikythera/fetch/out/$name" "$url"; then
+              echo "ok $name $(stat -c %s antikythera/fetch/out/$name)" >> "$status"
+            else
+              echo "fail $name" >> "$status"
+            fi
+          done < antikythera/fetch/requests.txt
+          cat "$status"
+      - name: Commit
+        run: |
+          git config user.name "fetch-media"
+          git config user.email "fetch-media@users.noreply.github.com"
+          git add antikythera/fetch
+          git commit -m "fetch-media: $(date -u +%FT%TZ)" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
