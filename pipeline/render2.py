@@ -11,13 +11,13 @@ FMT = {
     'long': {'w': 1920, 'h': 1080, 'narr': 'narr2', 'script': 'script2.json', 'tail': 0.9,
              'lead': {'hook': 0.45, 'watch': 1.0, 'calibre': 1.2, 'stack': 2.0, 'dial': 2.2, 'finale': 1.6},
              'after': {('hook', 1): 0.3, ('watch', 1): 0.3, ('watch', 2): 1.3, ('watch', 3): 1.9}},
-    'pen': {'title': 'Inside the Click Pen', 'w': 1080, 'h': 1920, 'narr': '/home/claude/everyday/narr_pen', 'script': '/home/claude/everyday/s_pen.json', 'page': '/home/claude/everyday/engine/pen.html', 'tail': 0.4, 'flow': True,
+    'pen': {'title': 'Inside the Click Pen', 'w': 1080, 'h': 1920, 'narr': '/home/claude/everyday/narr_pen', 'script': '/home/claude/everyday/s_pen.json', 'page': '/home/claude/everyday/engine/pen.html', 'tail': 0.4, 'flow': True, 'drops': ['answer', 'click'],
             'lead': {'p_hook': 0.3, 'p_intro': 0.8, 'p_stack': 1.5, 'p_cam': 1.7, 'p_tip': 1.6, 'p_finale': 1.2, 'p_cta': 0.9},
             'after': {('p_intro', 0): 1.2, ('p_cam', 0): 1.0, ('p_cta', 0): 2.6}},
-    'phones': {'title': 'Inside the Headphones', 'w': 1080, 'h': 1920, 'narr': '/home/claude/everyday/narr_phones', 'script': '/home/claude/everyday/s_phones.json', 'page': '/home/claude/everyday/engine/phones.html', 'tail': 0.4, 'flow': True,
+    'phones': {'title': 'Inside the Headphones', 'w': 1080, 'h': 1920, 'narr': '/home/claude/everyday/narr_phones', 'script': '/home/claude/everyday/s_phones.json', 'page': '/home/claude/everyday/engine/phones.html', 'tail': 0.4, 'flow': True, 'drops': ['shake', 'out'], 'fxlev': 0.8,
             'lead': {'h_hook': 0.3, 'h_intro': 0.8, 'h_stack': 1.5, 'h_magnet': 1.6, 'h_coil': 0.9, 'h_finale': 1.2, 'h_cta': 0.9},
             'after': {('h_intro', 0): 1.2, ('h_push', 0): 0.6, ('h_freq', 0): 0.8, ('h_cta', 0): 2.6}},
-    'zip': {'title': 'Inside the Zipper', 'w': 1080, 'h': 1920, 'narr': '/home/claude/everyday/narr_zip', 'script': '/home/claude/everyday/s_zip.json', 'page': '/home/claude/everyday/engine/zip.html', 'tail': 0.4, 'flow': True,
+    'zip': {'title': 'Inside the Zipper', 'w': 1080, 'h': 1920, 'narr': '/home/claude/everyday/narr_zip', 'script': '/home/claude/everyday/s_zip.json', 'page': '/home/claude/everyday/engine/zip.html', 'tail': 0.4, 'flow': True, 'drops': ['lock', 'apart'], 'fxlev': 1.4,
             'lead': {'z_hook': 0.3, 'z_intro': 0.8, 'z_stack': 1.5, 'z_teeth': 1.5, 'z_slider': 1.3, 'z_finale': 1.2, 'z_cta': 0.9},
             'after': {('z_intro', 0): 1.2, ('z_slider', 0): 1.0, ('z_unzip', 0): 1.0, ('z_cta', 0): 2.6}},
     'm3': {'w': 1080, 'h': 1920, 'narr': 'narr_m', 'script': 'script3.json', 'tail': 0.4, 'flow': True,
@@ -30,6 +30,13 @@ FMT = {
               'lead': {'s_hook': 0.35, 's_watch': 0.7, 's_end': 0.5},
               'after': {('s_watch', 0): 2.2, ('s_rotor', 0): 0.6}},
 }
+# v2 (PLAYBOOK.md): tighter gaps, bridge ending, music ~20 dB under voice, tactile foley.
+for _k in ('pen', 'phones', 'zip'):
+    _F = FMT[_k]
+    _F['narr'] += '2'; _F['tail'] = 0.25; _F['v2'] = True; _F['mlev'] = 0.19; _F['tactile'] = True
+    _F['lead_default'] = 0.35
+    _F['lead'] = {s: round(v * 0.62, 2) for s, v in _F['lead'].items()}
+    _F['after'] = {k: (2.3 if k[0].endswith('_cta') else round(v * 0.62, 2)) for k, v in _F['after'].items()}
 
 def chunk_cue(c, maxw=7):
     words = c['text'].split()
@@ -54,7 +61,7 @@ def build_flow_timeline(fmt):
     t = 0.0; scenes = []; clips = []; cues = []
     for sc in narr['scenes']:
         S = {'id': sc['id'], 'start': round(t, 3), 'lines': [], 'marks': {}}
-        t += F['lead'].get(sc['id'], 0.55)
+        t += F['lead'].get(sc['id'], F.get('lead_default', 0.55))
         for li, line in enumerate(sc['lines']):
             S['lines'].append(round(t, 3))
             clips.append((round(t, 3), F['narr'] + '/' + line['file']))
@@ -62,7 +69,7 @@ def build_flow_timeline(fmt):
                 cues += chunk_cue({'s': t + c['s'], 'e': t + c['e'], 'text': c['text']})
             for k, v in line['marks'].items(): S['marks'][k] = round(t + v, 3)
             t += line['dur'] + F['after'].get((sc['id'], li), 0)
-            if li < len(sc['lines']) - 1: t += 0.25
+            if li < len(sc['lines']) - 1: t += 0.18 if F.get('v2') else 0.25
         t += F['tail']
         scenes.append(S)
     for i, S in enumerate(scenes):
@@ -168,6 +175,7 @@ async def frames(fmt, a=0, stop=None, out=None):
 
 # ---------------- sound design ----------------
 rng = np.random.default_rng(11)
+TACTILE = False
 def env_ad(n, a, d):
     t = np.arange(n) / SR
     return np.minimum(1, t / max(a, 1e-4)) * np.exp(-np.maximum(0, t - a) / max(d, 1e-4))
@@ -196,7 +204,30 @@ def click(f1=3400, f2=6100, amp=1.0):
 def thump(amp=0.5):
     n = int(0.35 * SR); t = np.arange(n) / SR
     return (amp * np.sin(2 * np.pi * (90 * t - 40 * t * t)) * np.exp(-t * 14)).astype(np.float32)
+def slide(dur=0.32, peak=0.16, f=1800):
+    """Tactile paper/metal slide: short band-limited friction, no airy sweep."""
+    n = int(dur * SR); t = np.arange(n) / SR
+    noise = rng.standard_normal(n).astype(np.float32)
+    grit = 1 + 0.6 * (rng.random(n) > 0.985)
+    y = (onepole_lp(noise, np.full(n, f * 1.6)) - onepole_lp(noise, np.full(n, f * 0.5))) * grit
+    k = np.minimum(1, t / 0.03) * np.exp(-t / (dur * 0.45))
+    return (y * k / (np.max(np.abs(y)) + 1e-6) * peak).astype(np.float32)
+def subdrop(amp=0.34):
+    n = int(0.6 * SR); t = np.arange(n) / SR
+    return (amp * np.sin(2 * np.pi * (70 * t - 30 * t * t)) * np.exp(-t * 7)).astype(np.float32)
+def layer(*parts):
+    out = np.zeros(max(int(o * SR) + len(p) for o, p in parts), np.float32)
+    for o, p in parts: s = int(o * SR); out[s:s + len(p)] += p
+    return out
+def tactile_sound(kind):
+    if kind == 'whoosh': return layer((0, slide(0.34, 0.2, 1500)), (0.02, click(1900, 3800, 0.35)), (0.0, subdrop(0.22)))
+    if kind == 'lift': return layer((0, click(2400, 4800, 0.45)), (0.03, slide(0.28, 0.14, 2200)))
+    if kind == 'flip': return layer((0, slide(0.22, 0.18, 2600)), (0.16, click(3100, 6400, 0.7)), (0.19, click(2200, 4400, 0.4)), (0.3, ping(2900, 0.9, 0.18, 0.08)))
+    return None
 def sfx_sound(kind):
+    if TACTILE:
+        x = tactile_sound(kind)
+        if x is not None: return x
     if kind == 'whoosh': return whoosh(1.0, 0.45)
     if kind == 'flip':
         a = whoosh(0.7, 0.55, 500, 6000); b = ping(2900, 0.9, 0.18, 0.12)
@@ -281,6 +312,8 @@ def music(total):
     return out
 
 def audio(fmt):
+    global TACTILE
+    F = FMT[fmt]; TACTILE = bool(F.get('tactile'))
     tl = json.load(open(J(f'tl_{fmt}.json')))
     ev = json.load(open(J(f'events_{fmt}.json')))
     n = int(tl['total'] * SR) + SR
@@ -304,8 +337,18 @@ def audio(fmt):
     envv = np.convolve(np.abs(voice), np.ones(4800) / 4800, mode='same')
     duck = 1 - 0.55 * np.clip(envv / 0.04, 0, 1)
     duck = np.convolve(duck, np.ones(2400) / 2400, mode='same')
-    mlev = 0.30 if fmt == 'long' else 0.42
-    mix = voice + fx * (1 - 0.35 * np.clip(envv / 0.04, 0, 1)) + mus * mlev * duck * fade
+    mlev = F.get('mlev', 0.30 if fmt == 'long' else 0.42)
+    # playbook: cut the music 2 frames before each reveal word, bring it back on the next beat
+    drop = np.ones(n, np.float32)
+    marks = {k: v for S in tl['scenes'] for k, v in S.get('marks', {}).items()}
+    for m in F.get('drops', []):
+        if m not in marks: print('  drop mark missing:', m); continue
+        s = int((marks[m] - 2 / FPS) * SR); r = int(0.06 * SR); hold = int(0.75 * SR); back = int(0.5 * SR)
+        drop[max(0, s - r):s] = np.minimum(drop[max(0, s - r):s], np.linspace(1, 0, s - max(0, s - r)))
+        drop[s:s + hold] = 0
+        drop[s + hold:s + hold + back] = np.minimum(drop[s + hold:s + hold + back], np.linspace(0, 1, len(drop[s + hold:s + hold + back])))
+    fx *= F.get('fxlev', 1.0)
+    mix = voice + fx * (1 - 0.35 * np.clip(envv / 0.04, 0, 1)) + mus * mlev * duck * fade * drop
     mix = np.tanh(mix * 1.1) / np.tanh(1.1)
     TT.write_wav(J(f'mix_{fmt}.wav'), mix.astype(np.float32))
     print('mixed', fmt, len(ev['ticks']), 'ticks', len(ev['sfx']), 'sfx')

@@ -237,7 +237,7 @@ window.OBJECT = K => {
   }
 
   return {
-    seed: 23, cta: ['Inside the', 'Headphones'],
+    seed: 23, cta: ['Now look inside', 'a Rolex'], bridge: '28,800 BEATS AN HOUR', ctaDelay: 3.0,
     state: {open: 0, hp: 1, stack: 0, section: 0, field: 0, gapHL: 0, coilIn: 0, sigOn: 0, glowT: 0, hold: 0, osc: 0, fv: 1.6, amp: 22,
             waves: 0, wavesL: 0, wavesR: 0, arrow: 0, mic: 0, lowL: 0, highL: 0},
     scenes: {

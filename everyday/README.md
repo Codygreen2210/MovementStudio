@@ -1,12 +1,12 @@
 # Everyday Machines
 
-Three vertical Shorts (1080×1920, under 3 minutes) in the same style as the Calibre 3235 breakdown: the watchmaker's bench, a British narrator, burned-in captions and a subscribe ending.
+Three vertical Shorts (1080×1920, under 3 minutes) in the same style as the Calibre 3235 breakdown: the watchmaker's bench, a British narrator, burned-in captions, and (v2) a bridge ending that points to the Rolex video.
 
 | Video | Length | File |
 |---|---|---|
-| Inside the Click Pen | 2:25 | `videos/click-pen-short-1080x1920.mp4` |
-| Inside the Headphones | 2:27 | `videos/headphones-short-1080x1920.mp4` |
-| Inside the Zipper | 2:14 | `videos/zipper-short-1080x1920.mp4` |
+| Inside the Click Pen | 2:24 | `videos/click-pen-short-v2-1080x1920.mp4` |
+| Inside the Headphones | 2:28 | `videos/headphones-short-v2-1080x1920.mp4` |
+| Inside the Zipper | 2:13 | `videos/zipper-short-v2-1080x1920.mp4` |
 
 Captions are in `captions/`, and titles, descriptions and tags are in `Everyday Machines upload details.txt`.
 
@@ -17,3 +17,5 @@ Captions are in `captions/`, and titles, descriptions and tags are in `Everyday 
 2. Record it: `python3 pipeline/rec_flow.py scripts/s_<name>.json narr_<name>`.
 3. Write `engine/obj_<name>.js` and a matching `<name>.html` page.
 4. Add a format entry in `pipeline/render2.py`, then run `timeline`, `segment`, `audio` and `srt`.
+
+v2 (Oct 16) follows `../PLAYBOOK.md`: bridge ending instead of "subscribe", tighter gaps between lines, music ~19–20 dB under the voice, tactile foley in place of whooshes, and the music drops out just before key reveals. The v1 files are kept for comparison.

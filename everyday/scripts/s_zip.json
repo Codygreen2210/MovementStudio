@@ -156,9 +156,9 @@
   "id": "z_cta",
   "lines": [
    {
-    "cap": "If you enjoyed this, subscribe. Next time, we’ll open up another everyday machine.",
-    "say": "If you enjoyed this, subscribe. Next time, we'll open up another everyday machine.",
-    "pace": 1.0
+    "cap": "Hundreds of tiny parts, locked together in a single pull. Now imagine hundreds of tiny parts that never stop moving, all powered by your wrist. That’s inside a Rolex, linked right below.",
+    "say": "Hundreds of tiny parts, locked together in a single pull. Now imagine hundreds of tiny parts that never stop moving, all powered by your wrist. That's inside a Rolex, linked right below.",
+    "pace": 0.97
    }
   ]
  }

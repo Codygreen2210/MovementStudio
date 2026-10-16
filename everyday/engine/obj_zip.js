@@ -175,7 +175,7 @@ window.OBJECT = K => {
   function zipTo(y, dur, sfx) { return {cam: {sY: y, fy: y}, dur, sfx}; }
 
   return {
-    seed: 31, cta: ['Inside the', 'Zipper'],
+    seed: 31, cta: ['Now look inside', 'a Rolex'], bridge: '28,800 BEATS AN HOUR', ctaDelay: 3.5,
     state: {sY: 250, xray: 0, spread: 0, jacket: 1, tug: 0, boxSep: 0, tabFlat: 1, pinShow: 0, chanHL: 0, wedgeHL: 0, flashOn: 0,
             macro: 0, flip: 0, stagHL: 0, stagY: 0, card1: 0, card2: 0, card3: 0},
     scenes: {

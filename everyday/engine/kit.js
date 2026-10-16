@@ -220,7 +220,8 @@ function overlays() {
     ctx.restore();
   }
   if (S && sc && sc.cta) {
-    const a = clamp01((K.T - S.start - 0.4) / 0.7);
+    const S0 = S.start + (O.ctaDelay || 0);
+    const a = clamp01((K.T - S0 - 0.4) / 0.7);
     ctx.save(); ctx.globalAlpha = a;
     const bg = ctx.createLinearGradient(0, 180, 0, 800);
     bg.addColorStop(0, 'rgba(7,9,13,0)'); bg.addColorStop(0.2, 'rgba(7,9,13,0.82)'); bg.addColorStop(0.8, 'rgba(7,9,13,0.82)'); bg.addColorStop(1, 'rgba(7,9,13,0)');
@@ -228,13 +229,27 @@ function overlays() {
     const rise = (1 - ease(a)) * 40;
     K.txt(O.cta[0], W / 2, 330 + rise, '400 78px "Bodoni Moda"', C.fg, 'center', a);
     K.txt(O.cta[1], W / 2, 425 + rise, 'italic 400 88px "Bodoni Moda"', C.gilt, 'center', a);
-    const b = clamp01((K.T - S.start - 1.2) / 0.5);
-    const pulse = 1 + 0.045 * Math.sin((K.T - S.start) * 5.2) * b;
+    const b = clamp01((K.T - S0 - 1.2) / 0.5);
+    const pulse = 1 + 0.045 * Math.sin((K.T - S0) * 5.2) * b;
     ctx.save(); ctx.globalAlpha = b; ctx.translate(W / 2, 560 + (1 - ease(b)) * 30); ctx.scale(pulse, pulse);
+    if (O.bridge) {
+      ctx.strokeStyle = C.gilt; ctx.lineWidth = 4; ctx.beginPath(); ctx.roundRect(-300, -56, 600, 112, 56); ctx.stroke();
+      ctx.fillStyle = 'rgba(214,180,106,0.16)'; ctx.fill();
+      ctx.fillStyle = C.gilt; ctx.font = '700 44px "Hanken Grotesk"'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText(O.bridge, 0, 3);
+      ctx.restore();
+      const c = clamp01((K.T - S0 - 2.0) / 0.6);
+      K.txt(O.next || 'LINKED BELOW', W / 2, 690, '500 30px "IBM Plex Mono"', C.fg, 'center', c, 5);
+      for (let i = 0; i < 3; i++) {
+        const ph = ((K.T - S0) * 1.6 - i * 0.22) % 1, y = 750 + i * 34 + ph * 18;
+        ctx.save(); ctx.globalAlpha = c * (0.35 + 0.65 * Math.sin(Math.PI * ph)); ctx.strokeStyle = C.gilt; ctx.lineWidth = 5; ctx.lineCap = 'round';
+        ctx.beginPath(); ctx.moveTo(W / 2 - 26, y); ctx.lineTo(W / 2, y + 22); ctx.lineTo(W / 2 + 26, y); ctx.stroke(); ctx.restore();
+      }
+    } else {
     ctx.fillStyle = '#d6303f'; ctx.beginPath(); ctx.roundRect(-230, -56, 460, 112, 56); ctx.fill();
     ctx.fillStyle = '#ffffff'; ctx.font = '800 50px "Hanken Grotesk"'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillText('SUBSCRIBE', 0, 3);
     ctx.restore();
-    K.txt(O.next || 'NEXT: ANOTHER EVERYDAY MACHINE', W / 2, 690, '500 28px "IBM Plex Mono"', C.fg, 'center', clamp01((K.T - S.start - 2.2) / 0.6), 4);
+    K.txt(O.next || 'NEXT: ANOTHER EVERYDAY MACHINE', W / 2, 690, '500 28px "IBM Plex Mono"', C.fg, 'center', clamp01((K.T - S0 - 2.2) / 0.6), 4);
+    }
   }
   let b = 0;
   if (K.T < 0.35) b = 1 - K.T / 0.35;

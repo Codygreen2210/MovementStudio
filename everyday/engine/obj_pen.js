@@ -233,7 +233,7 @@ window.OBJECT = K => {
     {line: 0, at: at + down + 0.08, cam: {press: 0}, dur: up, sfx: 'clack'}];
 
   return {
-    seed: 11, cta: ['Inside the', 'Click Pen'],
+    seed: 11, cta: ['Now look inside', 'a Rolex'], bridge: '28,800 BEATS AN HOUR', ctaDelay: 3.6,
     state: {press: 0, xray: 0, open: 0, diag: 0, macro: 0, write: 0, grav: 0, swap: 0, ink: 1, card: 0},
     scenes: {
       p_hook: {camDur: 0, cam: {zoom: 2.7, fx: 108, fy: 0, spin: -0.42, sy: -0.06},
