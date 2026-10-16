@@ -1,0 +1,796 @@
+1
+00:00:01,300 --> 00:00:03,440
+This is a lump of corroded bronze,
+
+2
+00:00:03,460 --> 00:00:06,240
+pulled from a shipwreck in 1901.
+
+3
+00:00:06,500 --> 00:00:08,960
+Most people think machines with gears like this didn't
+
+4
+00:00:08,980 --> 00:00:12,240
+appear until the great clocks of medieval Europe.
+
+5
+00:00:12,580 --> 00:00:14,240
+But look inside.
+
+6
+00:00:14,420 --> 00:00:16,000
+Thirty gears.
+
+7
+00:00:16,180 --> 00:00:19,040
+Teeth barely a millimetre and a half apart.
+
+8
+00:00:19,140 --> 00:00:21,040
+A machine that could track the Moon,
+
+9
+00:00:21,060 --> 00:00:25,080
+predict eclipses, and keep count of the Olympic Games.
+
+10
+00:00:25,220 --> 00:00:27,280
+And it was built more than 2,000 years
+
+11
+00:00:27,300 --> 00:00:28,280
+ago.
+
+12
+00:00:28,500 --> 00:00:29,760
+So who made it?
+
+13
+00:00:29,780 --> 00:00:31,760
+And how on earth did it work?
+
+14
+00:00:37,060 --> 00:00:38,720
+In the spring of 1900,
+
+15
+00:00:38,740 --> 00:00:40,880
+a crew of sponge divers from the island of
+
+16
+00:00:40,900 --> 00:00:43,560
+Symi was driven off course by a storm.
+
+17
+00:00:43,700 --> 00:00:46,000
+They took shelter at Antikythera,
+
+18
+00:00:46,020 --> 00:00:49,480
+a tiny island between Crete and mainland Greece.
+
+19
+00:00:49,700 --> 00:00:50,640
+When the weather cleared,
+
+20
+00:00:50,660 --> 00:00:52,000
+one of them went down,
+
+21
+00:00:52,020 --> 00:00:55,600
+about 45 metres, and came back up shaken,
+
+22
+00:00:55,620 --> 00:00:58,320
+talking about bodies on the sea floor.
+
+23
+00:00:58,580 --> 00:00:59,920
+They weren't bodies.
+
+24
+00:00:59,940 --> 00:01:02,720
+They were statues, bronze and marble,
+
+25
+00:01:02,740 --> 00:01:04,960
+lying among the remains of a cargo ship that
+
+26
+00:01:04,980 --> 00:01:07,360
+sank around seventy to sixty B.C.
+
+27
+00:01:07,680 --> 00:01:10,540
+Over the following months the divers brought up statues,
+
+28
+00:01:10,560 --> 00:01:14,220
+glassware, pottery, and, most likely in the summer of
+
+29
+00:01:14,240 --> 00:01:17,820
+1901, a shapeless lump of corroded bronze
+
+30
+00:01:17,840 --> 00:01:19,460
+and rotted wood.
+
+31
+00:01:19,680 --> 00:01:21,340
+Next to the statues,
+
+32
+00:01:21,360 --> 00:01:23,540
+nobody gave it a second look.
+
+33
+00:01:23,600 --> 00:01:25,980
+Then, in May 1902,
+
+34
+00:01:26,000 --> 00:01:29,260
+the archaeologist Valerios Stais noticed something in one of
+
+35
+00:01:29,280 --> 00:01:30,620
+the pieces.
+
+36
+00:01:30,800 --> 00:01:31,900
+A gear wheel.
+
+37
+00:01:33,500 --> 00:01:35,880
+A gear, in a ship that sank more than
+
+38
+00:01:35,900 --> 00:01:37,160
+2,000 years ago,
+
+39
+00:01:37,180 --> 00:01:38,760
+made no sense.
+
+40
+00:01:38,940 --> 00:01:41,400
+For decades, the fragments sat in the museum in
+
+41
+00:01:41,420 --> 00:01:44,960
+Athens, a puzzle almost nobody could read.
+
+42
+00:01:45,180 --> 00:01:47,280
+The man who refused to let it go was
+
+43
+00:01:47,300 --> 00:01:50,040
+the historian Derek de Solla Price.
+
+44
+00:01:50,220 --> 00:01:52,120
+In the early 1970s,
+
+45
+00:01:52,140 --> 00:01:55,800
+working with the Greek physicist Charalampos Karakalos,
+
+46
+00:01:55,820 --> 00:01:57,240
+he X-rayed the fragments,
+
+47
+00:01:57,260 --> 00:01:59,240
+and for the first time people could see gears
+
+48
+00:01:59,260 --> 00:02:01,080
+inside the stone.
+
+49
+00:02:01,340 --> 00:02:03,640
+Then, in 2005,
+
+50
+00:02:03,660 --> 00:02:06,680
+a research team brought an eight-tonne X-ray scanner to
+
+51
+00:02:06,700 --> 00:02:09,800
+the museum, and sliced the fragments into thousands of
+
+52
+00:02:09,820 --> 00:02:11,480
+virtual layers.
+
+53
+00:02:11,660 --> 00:02:13,960
+What they found was astonishing.
+
+54
+00:02:14,060 --> 00:02:17,800
+Thirty surviving gears, cut by hand from sheet bronze,
+
+55
+00:02:17,820 --> 00:02:19,640
+with triangular teeth.
+
+56
+00:02:19,740 --> 00:02:21,160
+And on the surfaces,
+
+57
+00:02:21,180 --> 00:02:23,720
+thousands of tiny Greek letters.
+
+58
+00:02:23,900 --> 00:02:26,760
+The machine had come with its own instruction manual.
+
+59
+00:02:29,260 --> 00:02:31,200
+So, how did it work?
+
+60
+00:02:31,500 --> 00:02:32,920
+Picture a wooden case,
+
+61
+00:02:32,940 --> 00:02:34,333
+about the size of a shoebox,
+
+62
+00:02:34,353 --> 00:02:36,320
+with a handle on the side.
+
+63
+00:02:36,540 --> 00:02:39,000
+Turn the handle, and a small crown gear drives
+
+64
+00:02:39,020 --> 00:02:40,960
+the biggest wheel inside,
+
+65
+00:02:41,020 --> 00:02:44,200
+a wheel with 223 teeth.
+
+66
+00:02:44,380 --> 00:02:47,360
+One full turn of that wheel is one year.
+
+67
+00:02:47,660 --> 00:02:50,000
+On the front, a pointer carries the Sun around
+
+68
+00:02:50,020 --> 00:02:51,640
+a ring of the zodiac,
+
+69
+00:02:51,660 --> 00:02:53,600
+and around that, a ring for the months of
+
+70
+00:02:53,620 --> 00:02:55,480
+the Egyptian calendar.
+
+71
+00:02:55,660 --> 00:02:58,040
+A second pointer carries the Moon.
+
+72
+00:02:58,140 --> 00:02:59,960
+But the Moon goes round the sky more than
+
+73
+00:02:59,980 --> 00:03:01,160
+thirteen times a year,
+
+74
+00:03:01,180 --> 00:03:03,400
+so the gears have to speed it up,
+
+75
+00:03:03,420 --> 00:03:05,880
+and by exactly the right amount.
+
+76
+00:03:06,060 --> 00:03:08,120
+The Greeks knew that the Moon makes two hundred
+
+77
+00:03:08,140 --> 00:03:11,920
+and fifty-four trips around the zodiac every nineteen years.
+
+78
+00:03:11,980 --> 00:03:14,013
+So the gearing needs a ratio of two hundred
+
+79
+00:03:14,033 --> 00:03:16,600
+and fifty-four, to nineteen.
+
+80
+00:03:16,860 --> 00:03:18,680
+Here is how they built it.
+
+81
+00:03:18,780 --> 00:03:21,440
+64 teeth, driving 38.
+
+82
+00:03:21,500 --> 00:03:23,960
+48, driving 24.
+
+83
+00:03:23,980 --> 00:03:25,240
+127,
+
+84
+00:03:25,260 --> 00:03:27,000
+driving 32.
+
+85
+00:03:27,100 --> 00:03:29,560
+Multiply them together, and you get two hundred and
+
+86
+00:03:29,580 --> 00:03:31,880
+fifty-four over nineteen.
+
+87
+00:03:31,900 --> 00:03:32,760
+Exactly.
+
+88
+00:03:36,960 --> 00:03:39,260
+But the Moon has another trick.
+
+89
+00:03:39,440 --> 00:03:42,500
+It doesn't cross the sky at a steady speed.
+
+90
+00:03:42,640 --> 00:03:44,940
+We now know its orbit is an ellipse,
+
+91
+00:03:44,960 --> 00:03:47,100
+so it speeds up when it's closer to us,
+
+92
+00:03:47,120 --> 00:03:49,780
+and slows down when it's further away.
+
+93
+00:03:50,000 --> 00:03:52,860
+The Greek astronomer Hipparchus had built a theory to
+
+94
+00:03:52,880 --> 00:03:56,300
+explain that unevenness, and somebody turned that theory into
+
+95
+00:03:56,320 --> 00:03:57,700
+bronze.
+
+96
+00:03:58,000 --> 00:04:00,300
+Two identical gears sit face to face,
+
+97
+00:04:00,320 --> 00:04:02,620
+on slightly different centres.
+
+98
+00:04:02,720 --> 00:04:04,860
+A small pin on one rides in a slot
+
+99
+00:04:04,880 --> 00:04:06,460
+cut into the other.
+
+100
+00:04:06,640 --> 00:04:08,700
+As they turn, the pin slides in and out
+
+101
+00:04:08,720 --> 00:04:11,220
+along the slot, so the second gear is pushed
+
+102
+00:04:11,240 --> 00:04:14,100
+a little ahead, then held a little back.
+
+103
+00:04:14,160 --> 00:04:17,980
+Faster, then slower, once every lunar month.
+
+104
+00:04:18,000 --> 00:04:21,260
+And because the Moon's orbit itself slowly swings round,
+
+105
+00:04:21,280 --> 00:04:24,100
+this whole pair sits on top of another rotating
+
+106
+00:04:24,120 --> 00:04:26,140
+gear that carries it all the way round once
+
+107
+00:04:26,160 --> 00:04:28,660
+every 8.88 years.
+
+108
+00:04:28,880 --> 00:04:31,020
+A variable-speed gear train,
+
+109
+00:04:31,040 --> 00:04:33,180
+riding on a moving platform.
+
+110
+00:04:33,200 --> 00:04:35,260
+More than 2,000 years ago.
+
+111
+00:04:38,960 --> 00:04:40,940
+Now turn the box around.
+
+112
+00:04:40,960 --> 00:04:44,060
+The back is covered by two great spirals.
+
+113
+00:04:44,160 --> 00:04:46,180
+The upper one is a calendar of two hundred
+
+114
+00:04:46,200 --> 00:04:50,220
+and thirty-five months, laid out over five turns.
+
+115
+00:04:50,320 --> 00:04:52,700
+It's built on the Metonic cycle:
+
+116
+00:04:52,720 --> 00:04:55,580
+after nineteen years, the phases of the Moon fall
+
+117
+00:04:55,600 --> 00:04:57,620
+on the same dates again.
+
+118
+00:04:57,840 --> 00:05:00,740
+As you crank, the pointer works its way around
+
+119
+00:05:00,760 --> 00:05:04,140
+and outwards, with a little pin following the groove,
+
+120
+00:05:04,160 --> 00:05:07,140
+so you always know which turn you're on.
+
+121
+00:05:07,360 --> 00:05:10,900
+Inside it sits a small dial divided into four.
+
+122
+00:05:10,960 --> 00:05:13,420
+It keeps track of the great athletic games of
+
+123
+00:05:13,440 --> 00:05:15,580
+Greece, including the Olympics,
+
+124
+00:05:15,600 --> 00:05:17,660
+and it's the only pointer on the whole machine
+
+125
+00:05:17,680 --> 00:05:19,700
+that turns the other way.
+
+126
+00:05:20,000 --> 00:05:22,980
+The lower spiral is the one that mattered most.
+
+127
+00:05:23,040 --> 00:05:24,860
+223 months,
+
+128
+00:05:24,880 --> 00:05:26,620
+over four turns.
+
+129
+00:05:26,640 --> 00:05:29,020
+This is the Saros cycle.
+
+130
+00:05:29,200 --> 00:05:32,540
+Babylonian astronomers had noticed that eclipses repeat in a
+
+131
+00:05:32,560 --> 00:05:35,060
+pattern about eighteen years long.
+
+132
+00:05:35,120 --> 00:05:37,180
+So here, the months with an eclipse are marked
+
+133
+00:05:37,200 --> 00:05:38,980
+with a tiny symbol:
+
+134
+00:05:39,040 --> 00:05:40,540
+38 for the Moon,
+
+135
+00:05:40,560 --> 00:05:42,380
+27 for the Sun,
+
+136
+00:05:42,400 --> 00:05:44,580
+some even giving the hour.
+
+137
+00:05:44,720 --> 00:05:46,780
+Turn the handle, follow the pointer,
+
+138
+00:05:46,800 --> 00:05:49,340
+and you could see an eclipse coming years ahead.
+
+139
+00:05:53,240 --> 00:05:56,220
+And then there's the part we're still arguing about.
+
+140
+00:05:56,360 --> 00:05:58,980
+The writing on the front names the planets:
+
+141
+00:05:59,000 --> 00:06:01,940
+Mercury, Venus, Mars, Jupiter,
+
+142
+00:06:01,960 --> 00:06:03,300
+and Saturn.
+
+143
+00:06:03,400 --> 00:06:06,420
+But whatever gears drove them have been lost.
+
+144
+00:06:06,600 --> 00:06:08,420
+Then, in 2016,
+
+145
+00:06:08,440 --> 00:06:12,260
+the scans revealed two numbers hidden in that text.
+
+146
+00:06:12,440 --> 00:06:13,940
+462,
+
+147
+00:06:13,960 --> 00:06:15,220
+for Venus.
+
+148
+00:06:15,240 --> 00:06:16,580
+442,
+
+149
+00:06:16,600 --> 00:06:17,940
+for Saturn.
+
+150
+00:06:18,120 --> 00:06:22,020
+Planetary cycles, and remarkably accurate ones.
+
+151
+00:06:22,280 --> 00:06:25,860
+In 2021, a team at University College London
+
+152
+00:06:25,880 --> 00:06:28,340
+used those numbers to design gear trains that would
+
+153
+00:06:28,360 --> 00:06:30,780
+actually fit in the space available:
+
+154
+00:06:30,840 --> 00:06:32,740
+a reconstruction with the Sun,
+
+155
+00:06:32,760 --> 00:06:35,060
+the Moon and all five planets,
+
+156
+00:06:35,080 --> 00:06:37,780
+moving on rings around the front dial.
+
+157
+00:06:37,960 --> 00:06:39,900
+The team is clear that they can't be certain
+
+158
+00:06:39,920 --> 00:06:40,980
+it's right.
+
+159
+00:06:41,000 --> 00:06:43,300
+Nobody has found those gears to check.
+
+160
+00:06:43,320 --> 00:06:44,660
+But if they're even close,
+
+161
+00:06:44,680 --> 00:06:46,700
+this little box was a model of the whole
+
+162
+00:06:46,720 --> 00:06:47,780
+known cosmos.
+
+163
+00:06:51,080 --> 00:06:52,780
+So who built it?
+
+164
+00:06:52,920 --> 00:06:54,260
+We don't know.
+
+165
+00:06:54,360 --> 00:06:56,220
+The names of the months on the back point
+
+166
+00:06:56,240 --> 00:06:58,260
+to Corinth, or one of its colonies,
+
+167
+00:06:58,280 --> 00:07:01,220
+perhaps Syracuse, the city of Archimedes,
+
+168
+00:07:01,240 --> 00:07:03,220
+who had died more than a century before the
+
+169
+00:07:03,240 --> 00:07:04,820
+ship went down.
+
+170
+00:07:05,080 --> 00:07:08,140
+The Roman writer Cicero describes machines that showed the
+
+171
+00:07:08,160 --> 00:07:09,540
+motions of the Sun,
+
+172
+00:07:09,560 --> 00:07:11,500
+the Moon and the planets,
+
+173
+00:07:11,560 --> 00:07:14,620
+one made by Archimedes and another by the philosopher
+
+174
+00:07:14,640 --> 00:07:16,180
+Posidonius.
+
+175
+00:07:16,360 --> 00:07:18,140
+Probably not this one.
+
+176
+00:07:18,200 --> 00:07:20,740
+But a sign that it wasn't the only one.
+
+177
+00:07:21,000 --> 00:07:23,660
+What we do know is what came after.
+
+178
+00:07:23,720 --> 00:07:24,860
+Nothing.
+
+179
+00:07:24,920 --> 00:07:26,980
+For well over a thousand years,
+
+180
+00:07:27,000 --> 00:07:30,260
+nothing with gearing this complex survives anywhere.
+
+181
+00:07:30,360 --> 00:07:33,140
+The next machines that come close are the astronomical
+
+182
+00:07:33,160 --> 00:07:35,700
+clocks of fourteenth-century Europe.
+
+183
+00:07:35,880 --> 00:07:37,860
+The knowledge didn't just fade.
+
+184
+00:07:37,880 --> 00:07:39,140
+It vanished.
+
+185
+00:07:39,160 --> 00:07:41,460
+And we only know it ever existed because one
+
+186
+00:07:41,480 --> 00:07:44,660
+ship sank, in exactly the right place.
+
+187
+00:07:47,160 --> 00:07:50,340
+Today, what's left is 82 fragments,
+
+188
+00:07:50,360 --> 00:07:52,340
+in a museum in Athens.
+
+189
+00:07:52,440 --> 00:07:54,980
+But the idea inside them came back.
+
+190
+00:07:55,080 --> 00:07:57,460
+Gears that turn the movements of the sky into
+
+191
+00:07:57,480 --> 00:07:59,420
+the movement of a pointer.
+
+192
+00:07:59,560 --> 00:08:02,180
+It came back in those medieval clocks.
+
+193
+00:08:02,200 --> 00:08:03,860
+Then in pocket watches.
+
+194
+00:08:03,880 --> 00:08:06,580
+And today it's ticking on millions of wrists,
+
+195
+00:08:06,600 --> 00:08:08,980
+in machines that still keep time with nothing but
+
+196
+00:08:09,000 --> 00:08:12,420
+gears and springs, and no battery at all.
+
+197
+00:08:12,600 --> 00:08:14,980
+The builder of this box would understand one of
+
+198
+00:08:15,000 --> 00:08:16,660
+them instantly.
+
+199
+00:08:16,840 --> 00:08:18,360
+So let's open one up.
+
