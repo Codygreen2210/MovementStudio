@@ -1,0 +1,19 @@
+{
+ "tag": "antikythera-v1",
+ "name": "The-Antikythera-Mechanism.mp4",
+ "title": "The Antikythera Mechanism (1080p, 8:35)",
+ "notes": "Long-form video, 1920x1080, 8:35, -14 LUFS. Thumbnails A/B and English captions attached.",
+ "parts": [
+  "antikythera/release/The-Antikythera-Mechanism.mp4.part00",
+  "antikythera/release/The-Antikythera-Mechanism.mp4.part01",
+  "antikythera/release/The-Antikythera-Mechanism.mp4.part02",
+  "antikythera/release/The-Antikythera-Mechanism.mp4.part03",
+  "antikythera/release/The-Antikythera-Mechanism.mp4.part04",
+  "antikythera/release/The-Antikythera-Mechanism.mp4.part05"
+ ],
+ "extra": [
+  "antikythera/thumbnails/thumb_A.jpg",
+  "antikythera/thumbnails/thumb_B.jpg",
+  "antikythera/The-Antikythera-Mechanism.en.srt"
+ ]
+}
