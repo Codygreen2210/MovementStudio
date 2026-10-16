@@ -1,0 +1,164 @@
+[
+ {
+  "id": "hook",
+  "say": "This is a lump of corroded bronze, pulled from a shipwreck in nineteen oh one. Most people think machines with gears like this didn't appear until the great clocks of medieval Europe. But look inside. Thirty gears. Teeth barely a millimetre and a half apart. A machine that could track the Moon, predict eclipses, and keep count of the Olympic Games. And it was built more than two thousand years ago. So who made it? And how on earth did it work?",
+  "marks": {
+   "lump": "This is a lump",
+   "medieval": "the great clocks",
+   "inside": "But look inside",
+   "thirty": "Thirty gears",
+   "teeth": "Teeth barely",
+   "moon": "track the Moon",
+   "eclipse": "predict eclipses",
+   "games": "keep count",
+   "built": "And it was built",
+   "who": "So who made it",
+   "how": "And how on earth"
+  }
+ },
+ {
+  "id": "wreck",
+  "say": "In the spring of nineteen hundred, a crew of sponge divers from the island of Symi was driven off course by a storm. They took shelter at Antikythera, a tiny island between Crete and mainland Greece. When the weather cleared, one of them went down, about forty-five metres, and came back up shaken, talking about bodies on the sea floor. They weren't bodies. They were statues, bronze and marble, lying among the remains of a cargo ship that sank around seventy to sixty B.C. Over the following months the divers brought up statues, glassware, pottery, and, most likely in the summer of nineteen oh one, a shapeless lump of corroded bronze and rotted wood. Next to the statues, nobody gave it a second look. Then, in May nineteen oh two, the archaeologist Valerios Stais noticed something in one of the pieces. A gear wheel.",
+  "marks": {
+   "storm": "driven off course",
+   "map": "a tiny island",
+   "dive": "one of them went down",
+   "statues": "They were statues",
+   "ship": "a cargo ship",
+   "haul": "brought up statues",
+   "lumpup": "a shapeless lump",
+   "ignored": "nobody gave it",
+   "y1902": "in May nineteen oh two",
+   "gear": "A gear wheel"
+  }
+ },
+ {
+  "id": "xray",
+  "say": "A gear, in a ship that sank more than two thousand years ago, made no sense. For decades, the fragments sat in the museum in Athens, a puzzle almost nobody could read. The man who refused to let it go was the historian Derek de Solla Price. In the early nineteen seventies, working with the Greek physicist Charalampos Karakalos, he X-rayed the fragments, and for the first time people could see gears inside the stone. Then, in two thousand and five, a research team brought an eight-tonne X-ray scanner to the museum, and sliced the fragments into thousands of virtual layers. What they found was astonishing. Thirty surviving gears, cut by hand from sheet bronze, with triangular teeth. And on the surfaces, thousands of tiny Greek letters. The machine had come with its own instruction manual.",
+  "marks": {
+   "sense": "made no sense",
+   "museum": "sat in the museum",
+   "price": "Derek de Solla Price",
+   "xr": "he X-rayed",
+   "see": "for the first time",
+   "ct": "eight-tonne",
+   "slice": "sliced the fragments",
+   "found": "What they found",
+   "count30": "Thirty surviving gears",
+   "letters": "thousands of tiny Greek",
+   "manual": "its own instruction manual"
+  }
+ },
+ {
+  "id": "crank",
+  "say": "So, how did it work? Picture a wooden case, about the size of a shoebox, with a handle on the side. Turn the handle, and a small crown gear drives the biggest wheel inside, a wheel with two hundred and twenty-three teeth. One full turn of that wheel is one year. On the front, a pointer carries the Sun around a ring of the zodiac, and around that, a ring for the months of the Egyptian calendar. A second pointer carries the Moon. But the Moon goes round the sky more than thirteen times a year, so the gears have to speed it up, and by exactly the right amount. The Greeks knew that the Moon makes two hundred and fifty-four trips around the zodiac every nineteen years. So the gearing needs a ratio of two hundred and fifty-four, to nineteen. Here is how they built it. Sixty-four teeth, driving thirty-eight. Forty-eight, driving twenty-four. A hundred and twenty-seven, driving thirty-two. Multiply them together, and you get two hundred and fifty-four over nineteen. Exactly.",
+  "marks": {
+   "case": "Picture a wooden case",
+   "handle": "Turn the handle",
+   "b1": "the biggest wheel",
+   "year": "One full turn",
+   "sun": "a pointer carries the Sun",
+   "egypt": "the Egyptian calendar",
+   "moonp": "A second pointer",
+   "faster": "more than thirteen",
+   "ratio": "two hundred and fifty-four trips",
+   "need": "a ratio of",
+   "built": "Here is how",
+   "g1": "Sixty-four teeth",
+   "g2": "Forty-eight, driving",
+   "g3": "A hundred and twenty-seven",
+   "mult": "Multiply them",
+   "exact": "nineteen. Exactly."
+  }
+ },
+ {
+  "id": "pinslot",
+  "say": "But the Moon has another trick. It doesn't cross the sky at a steady speed. We now know its orbit is an ellipse, so it speeds up when it's closer to us, and slows down when it's further away. The Greek astronomer Hipparchus had built a theory to explain that unevenness, and somebody turned that theory into bronze. Two identical gears sit face to face, on slightly different centres. A small pin on one rides in a slot cut into the other. As they turn, the pin slides in and out along the slot, so the second gear is pushed a little ahead, then held a little back. Faster, then slower, once every lunar month. And because the Moon's orbit itself slowly swings round, this whole pair sits on top of another rotating gear that carries it all the way round once every eight point eight eight years. A variable-speed gear train, riding on a moving platform. More than two thousand years ago.",
+  "marks": {
+   "steady": "steady speed",
+   "orbit": "its orbit is an ellipse",
+   "near": "closer to us",
+   "far": "further away",
+   "hipp": "Hipparchus",
+   "bronze": "turned that theory",
+   "pair": "Two identical gears",
+   "pin": "A small pin",
+   "slide": "the pin slides",
+   "ahead": "pushed a little ahead",
+   "back": "held a little back",
+   "platform": "this whole pair",
+   "years": "eight point eight eight",
+   "variable": "A variable-speed"
+  }
+ },
+ {
+  "id": "back",
+  "say": "Now turn the box around. The back is covered by two great spirals. The upper one is a calendar of two hundred and thirty-five months, laid out over five turns. It's built on the Metonic cycle: after nineteen years, the phases of the Moon fall on the same dates again. As you crank, the pointer works its way around and outwards, with a little pin following the groove, so you always know which turn you're on. Inside it sits a small dial divided into four. It keeps track of the great athletic games of Greece, including the Olympics, and it's the only pointer on the whole machine that turns the other way. The lower spiral is the one that mattered most. Two hundred and twenty-three months, over four turns. This is the Saros cycle. Babylonian astronomers had noticed that eclipses repeat in a pattern about eighteen years long. So here, the months with an eclipse are marked with a tiny symbol: thirty-eight for the Moon, twenty-seven for the Sun, some even giving the hour. Turn the handle, follow the pointer, and you could see an eclipse coming years ahead.",
+  "marks": {
+   "turn": "turn the box around",
+   "spirals": "two great spirals",
+   "metonic": "two hundred and thirty-five",
+   "cycle": "the Metonic cycle",
+   "pointer": "the pointer works",
+   "groove": "a little pin",
+   "games": "a small dial",
+   "other": "turns the other way",
+   "saros": "The lower spiral",
+   "s223": "Two hundred and twenty-three months",
+   "babylon": "Babylonian",
+   "glyphs": "marked with a tiny",
+   "moon38": "thirty-eight",
+   "sun27": "twenty-seven",
+   "coming": "you could see"
+  }
+ },
+ {
+  "id": "planets",
+  "say": "And then there's the part we're still arguing about. The writing on the front names the planets: Mercury, Venus, Mars, Jupiter, and Saturn. But whatever gears drove them have been lost. Then, in twenty sixteen, the scans revealed two numbers hidden in that text. Four hundred and sixty-two, for Venus. Four hundred and forty-two, for Saturn. Planetary cycles, and remarkably accurate ones. In twenty twenty-one, a team at University College London used those numbers to design gear trains that would actually fit in the space available: a reconstruction with the Sun, the Moon and all five planets, moving on rings around the front dial. The team is clear that they can't be certain it's right. Nobody has found those gears to check. But if they're even close, this little box was a model of the whole known cosmos.",
+  "marks": {
+   "argue": "still arguing",
+   "names": "names the planets",
+   "lost": "have been lost",
+   "y2016": "in twenty sixteen",
+   "venus": "Four hundred and sixty-two",
+   "saturn": "Four hundred and forty-two",
+   "ucl": "University College London",
+   "fit": "actually fit",
+   "rings": "moving on rings",
+   "uncertain": "can't be certain",
+   "cosmos": "the whole known cosmos"
+  }
+ },
+ {
+  "id": "who",
+  "say": "So who built it? We don't know. The names of the months on the back point to Corinth, or one of its colonies, perhaps Syracuse, the city of Archimedes, who had died more than a century before the ship went down. The Roman writer Cicero describes machines that showed the motions of the Sun, the Moon and the planets, one made by Archimedes and another by the philosopher Posidonius. Probably not this one. But a sign that it wasn't the only one. What we do know is what came after. Nothing. For well over a thousand years, nothing with gearing this complex survives anywhere. The next machines that come close are the astronomical clocks of fourteenth-century Europe. The knowledge didn't just fade. It vanished. And we only know it ever existed because one ship sank, in exactly the right place.",
+  "marks": {
+   "dontknow": "We don't know",
+   "corinth": "point to Corinth",
+   "syracuse": "perhaps Syracuse",
+   "cicero": "Cicero describes",
+   "notthis": "Probably not this one",
+   "after": "what came after",
+   "nothing": "Nothing.",
+   "gap": "For well over",
+   "clocks": "astronomical clocks",
+   "vanished": "It vanished",
+   "sank": "one ship sank"
+  }
+ },
+ {
+  "id": "bridge",
+  "say": "Today, what's left is eighty-two fragments, in a museum in Athens. But the idea inside them came back. Gears that turn the movements of the sky into the movement of a pointer. It came back in those medieval clocks. Then in pocket watches. And today it's ticking on millions of wrists, in machines that still keep time with nothing but gears and springs, and no battery at all. The builder of this box would understand one of them instantly. So let's open one up.",
+  "marks": {
+   "fragments": "eighty-two fragments",
+   "idea": "the idea inside",
+   "sky": "Gears that turn",
+   "clocks2": "medieval clocks",
+   "pocket": "pocket watches",
+   "wrists": "millions of wrists",
+   "nobat": "no battery",
+   "builder": "The builder",
+   "open": "let's open one up"
+  }
+ }
+]
