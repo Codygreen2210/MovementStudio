@@ -1,0 +1,52 @@
+ANTIKYTHERA SHORTS v2 — 6 vertical clips (1080x1920, captions burned in)
+v2: 01, 03, 04, 05 and 06 now open with a new standalone line (new narration over establishing footage) so they make sense without the long video. 02 already opened cold and is unchanged.
+After each Short goes live: YouTube Studio > the Short > Related video > pick the long Antikythera video.
+Suggested order (one a day, 4 PM CT): 02, 01, 04, 06, 03, 05
+
+01-gear-math.mp4  (46.0 s)
+TITLE: This 2,000-Year-Old Gear Math Is Perfect #shorts
+DESCRIPTION:
+To make the Moon lap the zodiac 254 times every 19 years, the builder needed one exact gear ratio. Sixty-four driving thirty-eight, forty-eight driving twenty-four, a hundred and twenty-seven driving thirty-two. Multiply them: 254/19. Exactly. From the Antikythera mechanism, built more than 2,000 years ago.
+
+Full story: [link to the long video]
+#antikythera #history #engineering #ancientgreece #shorts
+
+02-shipwreck-computer.mp4  (34.1 s)
+TITLE: Divers Found This Inside a Shipwreck #shorts
+DESCRIPTION:
+A lump of corroded bronze pulled from a shipwreck in 1901. Inside: thirty hand-cut gears that tracked the Moon, predicted eclipses and counted the Olympic Games. This is the Antikythera mechanism.
+
+Full story: [link to the long video]
+#antikythera #history #engineering #ancientgreece #shorts
+
+03-pin-and-slot.mp4  (63.3 s)
+TITLE: Ancient Greeks Built Variable-Speed Gears #shorts
+DESCRIPTION:
+The Moon doesn't move at a steady speed, so the Antikythera mechanism's builder made gears that don't either: a pin riding in a slot pushes one wheel ahead, then holds it back, once a month. A variable-speed gear train, more than 2,000 years old.
+
+Full story: [link to the long video]
+#antikythera #history #engineering #ancientgreece #shorts
+
+04-eclipse-predictor.mp4  (36.7 s)
+TITLE: The Ancient Machine That Predicted Eclipses #shorts
+DESCRIPTION:
+The back of the Antikythera mechanism carries a spiral of 223 months, the Saros cycle. Months with an eclipse are marked: 38 for the Moon, 27 for the Sun. Turn the handle and you could see an eclipse coming years ahead.
+
+Full story: [link to the long video]
+#antikythera #history #engineering #ancientgreece #shorts
+
+05-it-vanished.mp4  (29.8 s)
+TITLE: This Technology Vanished for 1,000 Years #shorts
+DESCRIPTION:
+After the Antikythera mechanism, nothing with gearing this complex survives for well over a thousand years, until the astronomical clocks of 14th-century Europe. We only know it existed because one ship sank in exactly the right place.
+
+Full story: [link to the long video]
+#antikythera #history #engineering #ancientgreece #shorts
+
+06-sponge-divers.mp4  (59.0 s)
+TITLE: How Sponge Divers Found an Ancient Computer #shorts
+DESCRIPTION:
+Spring 1900: a storm drives sponge divers from Symi to the tiny island of Antikythera. One diver goes down 45 metres and comes back talking about bodies on the sea floor. They were statues, and among the wreck's treasures was a lump of bronze hiding a gear wheel.
+
+Full story: [link to the long video]
+#antikythera #history #engineering #ancientgreece #shorts

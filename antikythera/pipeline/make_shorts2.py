@@ -79,7 +79,8 @@ def caption_events(words):
                 plain = re.sub(r'\b' + re.escape(a) + r'\b', b, plain, flags=re.I); text = None
         if text is None: text = f'{{\\k{int((e - s) * 30)}}}' + plain
         ev.append((s, e, text))
-    return ev
+    # never let a line linger under the next one
+    return [(s, min(e, ev[i + 1][0] - 0.01) if i + 1 < len(ev) else e, t) for i, (s, e, t) in enumerate(ev)]
 
 HEAD = """[Script Info]
 ScriptType: v4.00+
@@ -126,8 +127,8 @@ def make(name, iid, v0, v1, phrase, endword, hold, hook, title):
     span = (v1 - v0) if v1 else Di
     speed = span / Di
     slow = f"setpts=(PTS-STARTPTS)/{speed:.5f},framerate=fps=30:interp_start=0:interp_end=255:scene=100" if speed < 0.97 else "fps=30,setpts=PTS-STARTPTS"
-    intro_v = f"[0:v]{slow},trim=0:{Di:.3f},setpts=PTS-STARTPTS[iv]"
-    fc = (intro_v + ";[1:v]fps=30,setpts=PTS-STARTPTS[cv];"
+    intro_v = f"[0:v]{slow},trim=0:{Di:.3f},setpts=PTS-STARTPTS,settb=1/30[iv]"
+    fc = (intro_v + ";[1:v]fps=30,setpts=PTS-STARTPTS,settb=1/30[cv];"
           f"[iv][cv]xfade=transition=fade:duration={XF}:offset={off:.3f},split=2[a][b];"
           "[a]scale=-2:1920,crop=1080:1920,boxblur=28:3,eq=brightness=-0.22:saturation=0.8[bg];"
           "[b]crop=1620:1080:150:0,scale=1080:720:flags=lanczos[fg];[bg][fg]overlay=0:560,"
