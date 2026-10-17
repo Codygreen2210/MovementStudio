@@ -1,20 +1,8 @@
 {
- "tag": "antikythera-v2",
- "name": "The-Antikythera-Mechanism-CC.mp4",
- "title": "The Antikythera Mechanism — captioned (1080p, 8:35)",
- "notes": "Upload master with English captions burned in. 1920x1080, 8:35, -14 LUFS. Attached: thumbnails A/B/C for Test & Compare, and subtitles + translated titles/descriptions in 15 languages.",
- "parts": [
-  "antikythera/release/The-Antikythera-Mechanism-CC.mp4.part00",
-  "antikythera/release/The-Antikythera-Mechanism-CC.mp4.part01",
-  "antikythera/release/The-Antikythera-Mechanism-CC.mp4.part02",
-  "antikythera/release/The-Antikythera-Mechanism-CC.mp4.part03",
-  "antikythera/release/The-Antikythera-Mechanism-CC.mp4.part04",
-  "antikythera/release/The-Antikythera-Mechanism-CC.mp4.part05"
- ],
- "extra": [
-  "antikythera/thumbnails/thumb_A.jpg",
-  "antikythera/thumbnails/thumb_B.jpg",
-  "antikythera/thumbnails/thumb_C.jpg",
-  "antikythera/subtitles/Antikythera-subtitles-15-languages.zip"
- ]
+ "tag": "antikythera-shorts-v2",
+ "name": "01-gear-math.mp4",
+ "title": "Antikythera Shorts v2",
+ "notes": "Vertical Shorts with standalone openings.",
+ "parts": ["antikythera/shorts/v2/01-gear-math.mp4"],
+ "extra": ["antikythera/shorts/v2/03-pin-and-slot.mp4","antikythera/shorts/v2/04-eclipse-predictor.mp4","antikythera/shorts/v2/05-it-vanished.mp4","antikythera/shorts/v2/06-sponge-divers.mp4"]
 }
