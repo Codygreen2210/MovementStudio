@@ -1,1 +1,2 @@
-ok thumb_bg_xray.png 5194134
+ok watch_thumb_1.png 5850296
+ok watch_thumb_2.png 5888523
